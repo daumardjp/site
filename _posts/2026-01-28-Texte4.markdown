@@ -3,7 +3,7 @@ layout: post
 title:  "Euphémismes"
 category: "Humeur"
 author: "Jean-Pierre Daumard"
-keywords: "euphémisme, idéologie, désinformation, réthorique, contrôle social" 
+keywords: "euphémisme, idéologie, désinformation, rhétorique, contrôle social" 
 image: "/assets/img/eup.png"
 ---
 
@@ -32,3 +32,4 @@ image: "/assets/img/eup.png"
 - « société ouverte » (Hayek) pour « société inégalitaire »
 - « opération de maintien de la paix » ou « protection des populations » pour « guerre »
 - « plan de sauvetage » pour « mise sous tutelle » (Grèce / Troïka)
+
