@@ -42,7 +42,7 @@ body {
 /* Header Structure */
 header {
   position: relative;
-  border-bottom: 0.75px solid rgba(0,0,0,0.5);
+  border-bottom: 1px solid rgba(0,0,0,0.5);
 }
 
 
@@ -759,5 +759,6 @@ body.dark-mode .article-index tr:hover a {
     }
 
 }
+
 
 
