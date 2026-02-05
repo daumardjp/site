@@ -9,12 +9,15 @@ layout: default
   </div>
 
   <div class="carnet-gallery">
-    {% for img in page.images %}
+    {% for src in page.images %}
       <figure class="carnet-figure">
-        <img src="{{ img | relative_url }}" alt="">
-        {% if page.captions and page.captions[forloop.index0] %}
-          <figcaption>{{ page.captions[forloop.index0] }}</figcaption>
-        {% endif %}
+        <img
+          class="carnet-img"
+          src="{{ src | relative_url }}"
+          alt=""
+          data-lightbox="carnet"
+          data-index="{{ forloop.index0 }}"
+        >
       </figure>
     {% endfor %}
   </div>
