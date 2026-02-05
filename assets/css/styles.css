@@ -42,7 +42,7 @@ body {
 /* Header Structure */
 header {
   position: relative;
-  border-bottom: 1px solid rgba(0,0,0,0.5);
+  border-bottom: 1px solid rgba(0,0,0,0.55);
 }
 
 
@@ -525,6 +525,21 @@ footer {
 }
 
 
+.carnet-gallery{
+  margin-top: 2rem;
+}
+
+.carnet-figure{
+  margin: 0 0 3.8rem 0;   /* ~1 cm */
+}
+
+.carnet-figure img{
+  display:block;
+  width:100%;
+  height:auto;
+}
+
+
 body, #dark-mode-toggle, .header-right a, .header-title-link, .header-divider, .grid-item .title, .grid-item .category {
   transition: background-color 0.3s ease, color 0.3s ease, filter 0.3s ease;
 }
@@ -759,6 +774,7 @@ body.dark-mode .article-index tr:hover a {
     }
 
 }
+
 
 
 
