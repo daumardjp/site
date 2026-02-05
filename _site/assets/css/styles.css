@@ -103,7 +103,7 @@ header {
 /* Divider */
 .header-divider {
   border: none;
-  height: 1px;
+  height: 0.5px;
   background-color: rgba(0, 0, 0, 0.5);
   width: 100%;
 }
@@ -730,3 +730,4 @@ body.dark-mode .article-index tr:hover a {
     }
 
 }
+
