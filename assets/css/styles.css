@@ -530,13 +530,28 @@ footer {
 }
 
 .carnet-figure{
-  margin: 0 0 3.8rem 0;   /* ~1 cm */
+  margin: 0 0 3.6rem 0;   /* ≈ 1.4 cm */
 }
+
 
 .carnet-figure img{
   display:block;
   width:100%;
   height:auto;
+}
+
+/* Carnet: zone de contenu plus large */
+.post-carnet{
+  width: 60%;
+  margin-left: 12%;
+  margin-right: 28%;
+}
+
+.carnet-img{
+  width: 100%;
+  height: auto;
+  display: block;
+  cursor: zoom-in;
 }
 
 
@@ -774,6 +789,7 @@ body.dark-mode .article-index tr:hover a {
     }
 
 }
+
 
 
 
