@@ -1,0 +1,18 @@
+---
+layout: carnet
+title: "Carnet — 2025"
+category: "Carnet"
+author: "Jean-Pierre Daumard"
+keywords: "aquarelle, feutre, dessin, crayon" 
+images:
+  - /assets/img/carnet_2025/96.jpg
+  - /assets/img/carnet_2025/91.jpg
+  - /assets/img/carnet_2025/71.jpg
+  - /assets/img/carnet_2025/7.jpg
+  - /assets/img/carnet_2025/65.jpg
+  - /assets/img/carnet_2025/63.jpg
+  - /assets/img/carnet_2025/29.jpg
+  - /assets/img/carnet_2025/28.jpg
+  - /assets/img/carnet_2025/127.jpg
+  - /assets/img/carnet_2025/103.jpg
+---
