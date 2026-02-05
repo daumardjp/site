@@ -1,16 +1,15 @@
 (function () {
-  const sel = 'img[data-lightbox="carnet"]';
-  const getImgs = () => Array.from(document.querySelectorAll(sel));
-  if (!getImgs().length) return;
+  const linkSel = 'a[data-lightbox="carnet"]';
+  const getLinks = () => Array.from(document.querySelectorAll(linkSel));
+  if (!getLinks().length) return;
 
   const overlay = document.createElement('div');
   overlay.id = 'lb-overlay';
   overlay.innerHTML = `
     <div class="lb-backdrop"></div>
-    <div class="lb-stage">
+    <div class="lb-stage" role="dialog" aria-modal="true">
       <img class="lb-image" alt="">
       <button class="lb-close" aria-label="Fermer">×</button>
-
       <div class="lb-nav">
         <button class="lb-prev" aria-label="Image précédente">‹</button>
         <div class="lb-counter"></div>
@@ -30,12 +29,14 @@
   let index = 0;
 
   function render() {
-    const list = getImgs();
-    const n = list.length;
-    const cur = ((index % n) + n) % n;
-    index = cur;
-    lbImg.src = list[cur].src;
-    counter.textContent = `${cur + 1} / ${n}`;
+    const links = getLinks();
+    const n = links.length;
+    if (!n) return;
+    index = ((index % n) + n) % n;
+
+    const href = links[index].getAttribute('href');
+    lbImg.src = href;
+    counter.textContent = `${index + 1} / ${n}`;
   }
 
   function openAt(i) {
@@ -55,11 +56,11 @@
   function prev() { openAt(index - 1); }
 
   document.addEventListener('click', (e) => {
-    const t = e.target;
-    if (t && t.matches(sel)) {
-      e.preventDefault();
-      openAt(parseInt(t.getAttribute('data-index') || '0', 10));
-    }
+    const a = e.target.closest(linkSel);
+    if (!a) return;
+    e.preventDefault();
+    const i = parseInt(a.getAttribute('data-index') || '0', 10);
+    openAt(isNaN(i) ? 0 : i);
   });
 
   closeBtn.addEventListener('click', close);
