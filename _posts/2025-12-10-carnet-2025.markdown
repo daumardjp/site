@@ -17,4 +17,3 @@ images:
   - /assets/img/carnet_2025/127.jpg
   - /assets/img/carnet_2025/103.jpg
 ---
-
