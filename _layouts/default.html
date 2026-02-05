@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta name="description" content="Recueil numérique des textes et menus propos de Jean-Pierre Daumard">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,36 +8,17 @@
   <meta name="author" content="{{ page.author }}">
   <meta name="keywords" content="{{ page.keywords }}">
 
-  <!-- <style>
-    body.dark-mode {
-      background-color: #333541;
-      color: #D8D9E2;
-    }
-  </style>
-
-  <script>
-    (function() {
-      var savedTheme = localStorage.getItem('theme-mode') || 'normal';
-      if (savedTheme === 'dark-mode') {
-        document.body.classList.add('dark-mode');
-      }
-    })();
-  </script> -->
-
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-</style>
-
   <link rel="icon" href="{{ '/assets/img/icon3.jpg' | relative_url }}" type="image/x-icon">
-
 </head>
-<body id="top">
 
+<body id="top">
   <div class="container">
     <header>
-      <div class="header-top"> <!-- Encapsulate title and menu in a div for layout -->
+      <div class="header-top">
         <div class="header-left">
-           <h1><a href="{{ '/' | relative_url }}" class="header-title-link">Jean-Pierre Daumard</a></h1>
+          <h1><a href="{{ '/' | relative_url }}" class="header-title-link">Jean-Pierre Daumard</a></h1>
         </div>
         <div class="header-right">
           <nav>
@@ -51,19 +31,19 @@
         </div>
       </div>
     </header>
+
     <main class="content">
-      <!-- Main content area where your posts will go -->
       {{ content }}
     </main>
-    <footer>
-      <!-- Your site's footer -->
-    </footer>
+
+    <footer></footer>
   </div>
-  <!-- External JavaScript -->
+
   <script src="{{ '/assets/js/dark-mode-toggle.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/index-sort.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/text-animation.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/lazy-load.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/orphaned-punctuation.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/lightbox.js' | relative_url }}"></script>
 </body>
 </html>
