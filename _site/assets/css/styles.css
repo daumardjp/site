@@ -579,6 +579,16 @@ body.dark-mode .article-index tr:hover a {
   box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
 
+header hr.header-divider{
+  border: 0 !important;
+  height: 0.5px !important;
+  background: rgba(0,0,0,0.5) !important;
+  transform: scaleY(0.5) !important;
+  transform-origin: 0 0 !important;
+}
+.dark-mode header hr.header-divider{
+  background: rgba(216,217,226,0.5) !important;
+}
 
 
 
@@ -730,4 +740,5 @@ body.dark-mode .article-index tr:hover a {
     }
 
 }
+
 
