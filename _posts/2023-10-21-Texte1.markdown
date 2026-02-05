@@ -4,7 +4,7 @@ title:  "Moderne, vous avez dit moderne ?"
 category: "Essai"
 author: "Jean-Pierre Daumard"
 keywords: "déconstruction, ancien, Nancy, Steiner, analogie, modernité, post-moderne" 
-image: "/assets/img/mnemosyne.jpg"
+image: "/assets/img/mnemosyne.png"
 ---
 
 <br/>
