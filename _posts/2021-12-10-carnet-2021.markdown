@@ -4,7 +4,7 @@ title: "Carnet — 2021"
 category: "Carnet"
 author: "Jean-Pierre Daumard"
 keywords: "aquarelle, feutre, dessin, crayon" 
-image: "/assets/img/moleskine_bg.png"
+image: "/assets/img/couverture_2021.jpg"
 images:
   - /assets/img/carnet_2021/1.jpg
   - /assets/img/carnet_2021/3.jpg
@@ -99,5 +99,6 @@ images:
   - /assets/img/carnet_2021/168.jpg
 
 ---
+
 
 
