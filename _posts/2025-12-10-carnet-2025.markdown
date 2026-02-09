@@ -4,7 +4,7 @@ title: "Carnet — 2025"
 category: "Carnet"
 author: "Jean-Pierre Daumard"
 keywords: "aquarelle, feutre, dessin, crayon" 
-image: "/assets/img/moleskine_bg.png"
+image: "/assets/img/couverture_2025.jpg"
 images:
   - /assets/img/carnet_2025/1.jpg
   - /assets/img/carnet_2025/2.jpg
@@ -106,5 +106,6 @@ images:
 
 
 ---
+
 
 
