@@ -1,0 +1,95 @@
+n---
+layout: carnet
+title: "Carnet — 2022"
+category: "Carnet"
+author: "Jean-Pierre Daumard"
+keywords: "aquarelle, feutre, dessin, crayon" 
+image: "/assets/img/moleskine_bg.png"
+images:
+  - /assets/img/carnet_2022/0.jpg
+  - /assets/img/carnet_2022/1.jpg
+  - /assets/img/carnet_2022/2.jpg
+  - /assets/img/carnet_2022/3.jpg
+  - /assets/img/carnet_2022/4.jpg
+  - /assets/img/carnet_2022/5.jpg
+  - /assets/img/carnet_2022/6.jpg
+  - /assets/img/carnet_2022/7.jpg
+  - /assets/img/carnet_2022/8.jpg
+  - /assets/img/carnet_2022/9.jpg
+  - /assets/img/carnet_2022/10.jpg
+  - /assets/img/carnet_2022/11.jpg
+  - /assets/img/carnet_2022/12.jpg
+  - /assets/img/carnet_2022/14.jpg
+  - /assets/img/carnet_2022/16.jpg
+  - /assets/img/carnet_2022/19.jpg
+  - /assets/img/carnet_2022/20.jpg
+  - /assets/img/carnet_2022/21.jpg
+  - /assets/img/carnet_2022/23.jpg
+  - /assets/img/carnet_2022/24.jpg
+  - /assets/img/carnet_2022/27.jpg
+  - /assets/img/carnet_2022/29.jpg
+  - /assets/img/carnet_2022/30.jpg
+  - /assets/img/carnet_2022/31.jpg
+  - /assets/img/carnet_2022/32.jpg
+  - /assets/img/carnet_2022/37.jpg
+  - /assets/img/carnet_2022/38.jpg
+  - /assets/img/carnet_2022/39.jpg
+  - /assets/img/carnet_2022/40.jpg
+  - /assets/img/carnet_2022/41.jpg
+  - /assets/img/carnet_2022/43.jpg
+  - /assets/img/carnet_2022/44.jpg
+  - /assets/img/carnet_2022/45.jpg
+  - /assets/img/carnet_2022/46.jpg
+  - /assets/img/carnet_2022/50.jpg
+  - /assets/img/carnet_2022/52.jpg
+  - /assets/img/carnet_2022/53.jpg
+  - /assets/img/carnet_2022/54.jpg
+  - /assets/img/carnet_2022/55.jpg
+  - /assets/img/carnet_2022/56.jpg
+  - /assets/img/carnet_2022/59.jpg
+  - /assets/img/carnet_2022/60.jpg
+  - /assets/img/carnet_2022/62.jpg
+  - /assets/img/carnet_2022/64.jpg
+  - /assets/img/carnet_2022/66.jpg
+  - /assets/img/carnet_2022/71.jpg
+  - /assets/img/carnet_2022/72.jpg
+  - /assets/img/carnet_2022/76.jpg
+  - /assets/img/carnet_2022/79.jpg
+  - /assets/img/carnet_2022/80.jpg
+  - /assets/img/carnet_2022/81.jpg
+  - /assets/img/carnet_2022/83.jpg
+  - /assets/img/carnet_2022/92.jpg
+  - /assets/img/carnet_2022/93.jpg
+  - /assets/img/carnet_2022/94.jpg
+  - /assets/img/carnet_2022/95.jpg
+  - /assets/img/carnet_2022/96.jpg
+  - /assets/img/carnet_2022/97.jpg
+  - /assets/img/carnet_2022/98.jpg
+  - /assets/img/carnet_2022/99.jpg
+  - /assets/img/carnet_2022/102.jpg
+  - /assets/img/carnet_2022/103.jpg
+  - /assets/img/carnet_2022/105.jpg
+  - /assets/img/carnet_2022/106.jpg
+  - /assets/img/carnet_2022/107.jpg
+  - /assets/img/carnet_2022/108.jpg
+  - /assets/img/carnet_2022/110.jpg
+  - /assets/img/carnet_2022/111.jpg
+  - /assets/img/carnet_2022/112.jpg
+  - /assets/img/carnet_2022/113.jpg
+  - /assets/img/carnet_2022/116.jpg
+  - /assets/img/carnet_2022/117.jpg
+  - /assets/img/carnet_2022/120.jpg
+  - /assets/img/carnet_2022/122.jpg
+  - /assets/img/carnet_2022/124.jpg
+  - /assets/img/carnet_2022/126.jpg
+  - /assets/img/carnet_2022/127.jpg
+  - /assets/img/carnet_2022/135.jpg
+  - /assets/img/carnet_2022/136.jpg
+  - /assets/img/carnet_2022/140.jpg
+  - /assets/img/carnet_2022/141.jpg
+  - /assets/img/carnet_2022/144.jpg
+  - /assets/img/carnet_2022/146.jpg
+
+---
+
+
