@@ -4,7 +4,7 @@ title: "Carnet — 2022"
 category: "Carnet"
 author: "Jean-Pierre Daumard"
 keywords: "aquarelle, feutre, dessin, crayon" 
-image: "/assets/img/moleskine_bg.png"
+image: "/assets/img/couverture_2022.jpg"
 images:
   - /assets/img/carnet_2022/0.jpg
   - /assets/img/carnet_2022/1.jpg
@@ -91,6 +91,7 @@ images:
   - /assets/img/carnet_2022/146.jpg
 
 ---
+
 
 
 
