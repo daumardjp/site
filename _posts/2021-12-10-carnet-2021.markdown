@@ -1,0 +1,103 @@
+---
+layout: carnet
+title: "Carnet — 2021"
+category: "Carnet"
+author: "Jean-Pierre Daumard"
+keywords: "aquarelle, feutre, dessin, crayon" 
+image: "/assets/img/moleskine_bg.png"
+images:
+  - /assets/img/carnet_2021/1.jpg
+  - /assets/img/carnet_2021/3.jpg
+  - /assets/img/carnet_2021/5.jpg
+  - /assets/img/carnet_2021/8.jpg
+  - /assets/img/carnet_2021/11.jpg
+  - /assets/img/carnet_2021/16.jpg
+  - /assets/img/carnet_2021/22.jpg
+  - /assets/img/carnet_2021/23.jpg
+  - /assets/img/carnet_2021/24.jpg
+  - /assets/img/carnet_2021/25.jpg
+  - /assets/img/carnet_2021/28.jpg
+  - /assets/img/carnet_2021/30.jpg
+  - /assets/img/carnet_2021/32.jpg
+  - /assets/img/carnet_2021/41.jpg
+  - /assets/img/carnet_2021/47.jpg
+  - /assets/img/carnet_2021/50.jpg
+  - /assets/img/carnet_2021/51.jpg
+  - /assets/img/carnet_2021/52.jpg
+  - /assets/img/carnet_2021/55.jpg
+  - /assets/img/carnet_2021/56.jpg
+  - /assets/img/carnet_2021/59.jpg
+  - /assets/img/carnet_2021/60.jpg
+  - /assets/img/carnet_2021/61.jpg
+  - /assets/img/carnet_2021/62.jpg
+  - /assets/img/carnet_2021/63.jpg
+  - /assets/img/carnet_2021/64.jpg
+  - /assets/img/carnet_2021/65.jpg
+  - /assets/img/carnet_2021/68.jpg
+  - /assets/img/carnet_2021/70.jpg
+  - /assets/img/carnet_2021/72.jpg
+  - /assets/img/carnet_2021/78.jpg
+  - /assets/img/carnet_2021/80.jpg
+  - /assets/img/carnet_2021/82.jpg
+  - /assets/img/carnet_2021/83.jpg
+  - /assets/img/carnet_2021/84.jpg
+  - /assets/img/carnet_2021/87.jpg
+  - /assets/img/carnet_2021/88.jpg
+  - /assets/img/carnet_2021/89.jpg
+  - /assets/img/carnet_2021/90.jpg
+  - /assets/img/carnet_2021/91.jpg
+  - /assets/img/carnet_2021/92.jpg
+  - /assets/img/carnet_2021/93.jpg
+  - /assets/img/carnet_2021/94.jpg
+  - /assets/img/carnet_2021/95.jpg
+  - /assets/img/carnet_2021/96.jpg
+  - /assets/img/carnet_2021/97.jpg
+  - /assets/img/carnet_2021/98.jpg
+  - /assets/img/carnet_2021/99.jpg
+  - /assets/img/carnet_2021/100.jpg
+  - /assets/img/carnet_2021/101.jpg
+  - /assets/img/carnet_2021/102.jpg
+  - /assets/img/carnet_2021/103.jpg
+  - /assets/img/carnet_2021/104.jpg
+  - /assets/img/carnet_2021/105.jpg
+  - /assets/img/carnet_2021/106.jpg
+  - /assets/img/carnet_2021/107.jpg
+  - /assets/img/carnet_2021/108.jpg
+  - /assets/img/carnet_2021/109.jpg
+  - /assets/img/carnet_2021/110.jpg
+  - /assets/img/carnet_2021/111.jpg
+  - /assets/img/carnet_2021/112.jpg
+  - /assets/img/carnet_2021/113.jpg
+  - /assets/img/carnet_2021/114.jpg
+  - /assets/img/carnet_2021/117.jpg
+  - /assets/img/carnet_2021/122.jpg
+  - /assets/img/carnet_2021/125.jpg
+  - /assets/img/carnet_2021/127.jpg
+  - /assets/img/carnet_2021/130.jpg
+  - /assets/img/carnet_2021/131.jpg
+  - /assets/img/carnet_2021/132.jpg
+  - /assets/img/carnet_2021/135.jpg
+  - /assets/img/carnet_2021/136.jpg
+  - /assets/img/carnet_2021/137.jpg
+  - /assets/img/carnet_2021/142.jpg
+  - /assets/img/carnet_2021/145.jpg
+  - /assets/img/carnet_2021/146.jpg
+  - /assets/img/carnet_2021/147.jpg
+  - /assets/img/carnet_2021/148.jpg
+  - /assets/img/carnet_2021/149.jpg
+  - /assets/img/carnet_2021/150.jpg
+  - /assets/img/carnet_2021/151.jpg
+  - /assets/img/carnet_2021/152.jpg
+  - /assets/img/carnet_2021/153.jpg
+  - /assets/img/carnet_2021/158.jpg
+  - /assets/img/carnet_2021/159.jpg
+  - /assets/img/carnet_2021/160.jpg
+  - /assets/img/carnet_2021/162.jpg
+  - /assets/img/carnet_2021/163.jpg
+  - /assets/img/carnet_2021/166.jpg
+  - /assets/img/carnet_2021/167.jpg
+  - /assets/img/carnet_2021/168.jpg
+
+---
+
+
