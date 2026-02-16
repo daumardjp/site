@@ -142,7 +142,7 @@ header {
 }
 
 .content {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 /* Define a keyframes animation for the fade-in effect */
@@ -870,6 +870,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
