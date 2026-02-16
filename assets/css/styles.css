@@ -85,12 +85,12 @@ body {
   visibility: hidden;
   opacity: 0;
   transition: opacity 0.5s ease-out;
-  background-color: #FCFCFA;
+  background-color: #FFFFFF;
 }
 
 /* Background color of selected text */
 ::selection {
-  background: #C8FF64; 
+  background: #F0402C; 
 }
 
 /* Header Structure */
@@ -924,6 +924,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
