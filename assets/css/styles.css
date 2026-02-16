@@ -112,7 +112,7 @@ header {
 .header-right a {
   font-family: 'Geograph', sans-serif;
   font-weight: normal;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   color: #111;
   text-decoration: none;
   margin: 0; /* Remove default margins if any */
@@ -306,7 +306,7 @@ h1, h2, h3, h4, h5, h6 {
 .post-content h1 {
   font-family: 'Geograph', sans-serif;
   font font-weight: normal;
-  font-size: 1.3em; /* Adjust the size as needed 1.5 */
+  font-size: 1.4em; /* Adjust the size as needed 1.5 */
   margin-bottom: 1em; /* Space below the title */
   margin-top: 2em;
   counter-reset: sidenote-counter; /* Initializes the counter */
@@ -347,7 +347,7 @@ article.post-content h1 {
 .post-body {
   margin-top: 0em; /* Space between the title and the content */
   font-family: 'Geograph', sans-serif;
-  font-size: 1.3em;
+  font-size: 1.4em;
   line-height: 1.6em;
   letter-spacing: 0.015em;
 }
@@ -924,6 +924,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
