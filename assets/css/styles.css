@@ -306,7 +306,7 @@ h1, h2, h3, h4, h5, h6{
 .post-category{
   position: absolute;
   top: 0;
-  right: calc(100% + 2rem);
+  right: calc(100% + 9rem);
   margin: 0;
   font-family: 'Geograph', sans-serif;
   font-size: 1.4em;
@@ -902,6 +902,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
