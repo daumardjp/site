@@ -7,6 +7,7 @@ keywords: "déconstruction, urbanisme, arbre, rhizome, transcendance, verticalit
 image: "/assets/img/calame.jpeg"
 ---
 
+<br/>
 
 L'Arbre :  Pourquoi si mal aimé désormais dans nos villes ?
 
@@ -126,4 +127,5 @@ Avec en tête cependant, le regret de Brassens :
 J’aurais jamais dû m’éloigner de mon arbre<br />
 Auprès de mon arbre je vivais heureux<br />
 J’aurais jamais dû le quitter des yeux" 'Georges Brassens, <em>Auprès de mon arbre</em>' %}
+
 
