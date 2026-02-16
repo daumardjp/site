@@ -289,13 +289,14 @@ header {
 
 .post-content{
   position: relative;
-  max-width: var(--measure);
-  margin-left: auto;
+  width: min(100ch, calc(100% - 18% - 2rem)); /* limite + évite débordement */
+  margin-left: 18%;
   margin-right: auto;
   margin-top: 2em;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.3em;
+
+  padding-left: 9ch; /* réserve la place du label de catégorie */
 }
+
 
 
 /*.post-content {
@@ -362,10 +363,11 @@ article.post-content h1 {
 .post-body{
   margin-top: 0;
   font-family: 'Geograph', sans-serif;
-  font-size: var(--body-size);
-  line-height: var(--leading);
-  letter-spacing: 0.013em;
+  font-size: 1.4em;
+  line-height: 1.53em;      /* ton interligne */
+  letter-spacing: 0.013em;  /* ton espacement lettres */
 }
+
 
 
 /* .post-body {
@@ -716,10 +718,22 @@ body.dark-mode .article-index tr:hover a {
 
 
 @media (max-width: 1100px){
-  :root{
-    --measure: clamp(58ch, 78vw, 90ch);
-    --body-size: 1.2rem;
-    --leading: 1.45;
+  .post-content{
+    margin-left: 10%;
+    width: min(92ch, calc(100% - 10% - 2rem));
+    padding-left: 0; /* plus besoin de gouttière */
+  }
+
+  .post-header{
+    position: static;
+    margin-bottom: .6rem;
+  }
+
+  .post-category{
+    position: static;   /* passe dans le flux */
+    display: block;
+    font-size: 1em;
+    margin-bottom: .2rem;
   }
 }
 
@@ -956,6 +970,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
