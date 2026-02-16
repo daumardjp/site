@@ -11,6 +11,7 @@ image: "/assets/img/calame.jpeg"
 
 L'Arbre :  Pourquoi si mal aimé désormais dans nos villes ?
 
+Les hommes se sont engagés dans une impasse et ont prouvé clairement
 Dans l’aménagement de nos villes, tout particulièrement de nos villes à majorité « écolo-gaucho-bobo », le minéral, qui tient le « haut du pavé » (si l’on peut dire), a laissé le végétal, sous sa forme agressive de « végétalisation », coloniser l’espace libéré par l’éradication, tout à la fois insidieuse et forcenée de l’arbre, dans nos villes. « Forcenée », en effet car non seulement *obstinée* mais « hors » de tout « bon sens ».
 
 On aimerait alors essayer de penser cette guerre menée contre l’arbre, qui n’est peut-être qu’un avatar particulier d’une *déconstruction* plus générale, poursuivant sur ce terrain son processus de *désœuvrement*.
@@ -127,5 +128,6 @@ Avec en tête cependant, le regret de Brassens :
 J’aurais jamais dû m’éloigner de mon arbre<br />
 Auprès de mon arbre je vivais heureux<br />
 J’aurais jamais dû le quitter des yeux" 'Georges Brassens, <em>Auprès de mon arbre</em>' %}
+
 
 
