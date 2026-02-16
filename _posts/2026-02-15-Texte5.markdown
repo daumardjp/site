@@ -1,0 +1,128 @@
+---
+layout: post
+title:  "Guerre à l'Arbre"
+category: "Humeur"
+author: "Jean-Pierre Daumard"
+keywords: "déconstruction, urbanisme, arbre, rhizome, transcendance, verticalité, modernité" 
+image: "/assets/img/calame.jpeg"
+---
+
+
+L'Arbre :  Pourquoi si mal aimé désormais dans nos villes ?
+
+Dans l’aménagement de nos villes, tout particulièrement de nos villes à majorité « écolo-gaucho-bobo », le minéral, qui tient le « haut du pavé » (si l’on peut dire), a laissé le végétal, sous sa forme agressive de « végétalisation », coloniser l’espace libéré par l’éradication, tout à la fois insidieuse et forcenée de l’arbre, dans nos villes. « Forcenée », en effet car non seulement *obstinée* mais « hors » de tout « bon sens ».
+
+On aimerait alors essayer de penser cette guerre menée contre l’arbre, qui n’est peut-être qu’un avatar particulier d’une *déconstruction* plus générale, poursuivant sur ce terrain son processus de *désœuvrement*.
+
+Pour ce faire, nous partirons de deux grandes figures de la pensée française : Paul Valéry et Gillles Deleuze.
+
+Qui mieux que Valéry a célébré l’âme de l’arbre, en harmonie avec celle de l’homme (coeur et raison entremêlés), dans son superbe « Dialogue de l’Arbre » ?
+
+Quant à la pensée de cette sorte d’excitation végétale, issue d’abstractions idéologiques qu’est la *végétalisation* (qui nous renvoie l’image d’un dépérissement de *végétants*), on la cherchera du côté du « rhizome », tel que Deleuze et Guattari le conceptualisent dans *Mille Plateaux*.
+
+
+Dans tous les mots qui désignent l’arbre, se trouve un radical « arb » ou « urb », exprimant ce qui pousse, ce qui est fécond. En vieil anglais, le mot « arbre » se disait « treow », qui signifiait non seulement « arbre » mais aussi « confiance », « promesse ». En latin « arbor » signifiait aussi « mât », comme dans la plupart des langues romanes et désignait aussi une pièce du pressoir à huile.
+
+Fécondité, promesse, confiance, élévation et verticalité du mât, on retrouve déjà ici, dans le nom même de l’arbre, la pleine positivité d’une idée de *croissance* et d’*amour* qui est au coeur du texte de Valéry :
+
+« J’attends l’arbre et l’amour que tu te plais à joindre » dit dans la perle d’un alexandrin incluse dans sa prose poétique, LUCRÈCE du « Dialogue » à TITYRE qui lui répond par ce poème :
+
+{% epigraph AMOUR n’est rien qu’il ne croisse à l’extrême:
+Croître est sa loi; il meurt d’être le même,
+Et meurt en qui ne meure pas d’amour.
+Vivant de soif toujours inassouvie,
+Arbre dans l’âme aux racines de chair
+Qui vit de vivre au plus vif de la vie
+Il vit de tout, du doux et de l’amer
+Et du cruel, encore mieux que du tendre.
+Grand Arbre Amour, qui ne cesse d’étendre
+Dans ma faiblesse une étrange vigueur,
+Mille moments que se garde le coeur
+Te sont feuillage et flèches de lumière!
+Mais cependant qu’au soleil du bonheur
+Dans l’or du jour s’épanouit sa joie,
+Ta même soif, qui gagne en profondeur,
+Puise dans l’ombre, à la source des pleurs… 'Paul Valéry, *Dialogue de l’Arbre*' %}
+
+D’emblée, l’essentiel, dans un vision traditionnelle de l’arbre : *AMOUR n’est rien qu’il ne croisse à l’extrême*.
+
+La « croissance » désigne bien non seulement la progression d’une activité en cours, d’une expansion et d’une maturation sans terme, sans limite et sans fin. À l’image de cette croissance « extrême » de l’amour affirmée par Tityre, la croissance de l’arbre, son désir d’expansion spatiale indéfinie, alimenté par une « soif toujours inassouvie ». Cette soif de croissance inassouvissable assez semblable, finalement, à celle qu’a pu connaître Rimbaud est le Désir même, dans son essence, métaphysique, ce que Rimbaud appelle « élan vers la perfection. »
+
+Une telle croissance de l’arbre, une telle expansion, occupation de l’espace dont le spectacle insuffle en l’âme une « étrange vigueur » n’a rien à voir avec la progression rampante, insinuante, horizontale, du rhizome, avec le « système radicelle, ou racines fasciculées » (Deleuze) des plans végétalisés de nos villes, cette sorte de chiendent, de mauvaise herbe, scutellaire rampante de terrain vague, dont le spectacle est lassitude, abattement…
+
+Or c’est de l’arbre que Deleuze est fatigué car l’arbre, « image du monde », fait encore de ce monde un « cosmos » alors que le monde, dit-il, « est devenu chaos », à l’image du rhizome, « tige souterraine » qui tisse une toile, se ramifie en tous sens et par multiples connexions « jusqu’à ses concrétions en bulbes et tubercules », tout cela de manière anarchique (surtout pas « hiérarchique » !), dispersée, avec pour horizon une simple « ligne de fuite ». Le rhizome, multiplicité éclatée sans limite et surtout sans unité, est tout sauf « l’intériorité d’une substance ou d’un sujet ».
+
+Soit, et c’est qu’alors on a définitivement évacué l’idée d’un *ordre* cosmique, qu’on a même évacué l’idée d’un ordre quelconque (tout n’étant plus, écrit Deleuze, qu’agencement de hasard) et qu’on a faite sienne l’idée post-nietzschéenne de « la mort de l’homme » après celle de Dieu, de la disparition du « sujet » et de l’ »intériorité » donc de tout dualisme (ontologique, axiologique) et de la possibilité même qu’il y ait du *sens*…
+
+Or pour Tityre encore, et pour Lucrèce, l’Arbre continue de faire sens.
+Il le peut de par sa dualité centrée qui s’impose à la contemplation de l’un comme de l’autre, qui aboutira chez l’un comme chez l’autre, à s’identifier à son être.
+
+Pour sa part Tityre célèbre l’ « étrange volonté souterraine des racines » *et* la « divines ardeur de ses branches » dans « la masse palpitante de la lumière », pour la sienne Lucrèce admire la plongée des racines dans « les sels de la terre » *et* l’ouverture des branches à l’air libre, « dans les largesses du ciel ». L’un comme l’autre donc, en l’arbre se reconnaissent : « Mon âme aujourd’hui se fait arbre » dit Tityre, le pâtre-poète, à Lucrèce qui, lui, pense « participer de tout (son) être » à la « méditation puissante et agissante » de l’arbre.
+
+L’un s’y reconnait comme poète, il veut « chanter » le nom de l’arbre, « donner figure musicale à la brise qui le pénètre et le tourmente » l’autre, en penseur qui veut « la nature des choses », se sent conduit à une « contemplation intérieure de l’idée de la Plante ». Par son chant, le pâtre-poète ne prétend pas « poursuivre le vrai », la « réalité lui suffit, il lui suffit de voir et de chanter ce « qui paraît au jour ».
+
+Lucrèce lui, le penseur, voit en l’arbre une « Plante qui pense », un modèle de pensée, une « méditation puissante et agissante » qui lui donne matière à penser. Le réel ne lui suffit pas, il lui faut atteindre le « vrai », la « louange » et le chant non plus, il lui faut l’application de la « raison ».
+
+Mais l’essentiel est dit de ce que suscite l’Arbre : « connaissance » et « louange », « …et faisons entre nous, dit Tityre, l’échange de la connaissance de cet Arbre, avec l’amour et la louange qu’il m’inspire… » Car nous sommes encore avec Valéry, dans un monde où le vrai et le beau vont de pair …
+
+
+Mais pour Gilles Deleuze, la pensée « n’est pas arborescente » et c’est même une « triste image de la pensée » que l’ « arbre et la racine inspirent », car les systèmes arborescents « sont des systèmes hiérarchiques qui comportent des centres de signifiance et de subjectivation ». En une phrase Deleuze a résumé tout ce qui, pour lui est a priori néfaste et à déconstruire : *hiérarchie* ; *centralité* ; *signifiance* ; *sujet*, qui ne seraient que des éléments de… dictature.
+
+Guerre à l’arbre donc, image de centralité, de hiérarchie, de subjectivité et de signifiance donc de « dictature » ! Et vive la ligne de fuite du rhizome et la « fragmentation de l’individu » ! Et foin de ce que, en réalité, la pensée, quand elle se fait *méditation*, loin d’être comme ce débordement linéaire, sans forme ni fin, poussée latérale de l’herbe (la mauvaise herbe célébrée également par Henry Miller), est ce double mouvement de retrait intérieur et de projection lumineuse extérieure. Comme Lucrèce le dit de la Plante, « Autant elle s’enfonce, autant s’élève-t-elle ». Il poursuit :
+
+« Méditer, n’est-ce point s’approfondir dans l’ordre ? Vois comme l’Arbre aveugle aux membres divergents s’accroît autour de soi selon la symétrie. La vie en lui calcule, exhausse une structure, et rayonne son nombre par branches et leurs brins, et chaque brin sa feuille, aux points même marqués par le naissant futur… »
+
+Approfondissement, soi, ordre, symétrie, structure, branches.. voilà point par point tout ce qui sera méthodiquement déconstruit par Deleuze. Des racines plongées en terre aux branches tendues vers le ciel, voilà qui pour Deleuze ne peut sans doute qu’évoquer la « Transcendance », cette « maladie européenne », maladie dont c’est probablement d’en être « guéris » aujourd’hui que nous *végétons* comme rhizome et nous vautrons en satisfaite déréliction…
+
+Deux notions essentielles sont pour Deleuze à évacuer : le *dualisme ontologique et axiologique* (terre/ciel) et tout ensemble : *production*, *oeuvre*, *pouvoir* et *volonté*. Or ces deux séries de notions sont au coeur même de l’idée et de l’être de l’Arbre.
+
+1) Dualisme
+
+{% epigraph « Car le surnaturel est lui-même charnel
+Et l’arbre de la grâce est raciné profond
+Et plonge dans le sol et cherche jusqu’au fond
+Et l’arbre de la race est lui-même éternel » 'Charles Péguy' %}
+
+{% epigraph « Arbre dans l’âme aux racines de chair » 'Paul Valéry' %}
+
+2) Oeuvre et production
+
+L’oeuvre n’est pas pur et simple *processus*, « il n’y a point d’oeuvre sans idée » dit Lucrèce. Point d’oeuvre en effet qui ne soit l’accomplissement d’une idée c’est à dire bien autre chose qu’une suite de connexions hasardeuses. L’ « oeuvre », comparable au germe ou à la racine qui alimentent et *produisent* l’arbre, sera donc, pour Deleuze à évacuer de nos têtes.
+
+Il cite alors Henry Miller qui met sur le même plan la production des « fleurs » et celle des « porte-avions » ou des « Sermons sur la montagne » (*Hamlet*). Autrement dit, toute oeuvre est comparable à une machine de guerre fût-elle, pour le cas du « Sermon sur la montagne » idéologique. Le porte-avion est fait pour accomplir la guerre, les « Sermons sur la montagne » pour « accomplir la loi », selon les mots mêmes du Christ. Quant à la sexualité, si elle est soumise « au modèle de la reproduction », elle aussi sera bannie.
+
+C’est bien à la fois *finalité* et *transcendance* qui sont pour Deleuze à évacuer de nos têtes, finalité et transcendance ou « exhaussement » pourrait-on dire : tout ce que l’arbre figure si bien, comme le dit Lucrèce : « La vie en lui … exhausse une structure ».
+
+
+Célébrer l’herbe au détriment de l’arbre, et proscrire l’arbre parce qu’il fait « oeuvre », se ramène à célébrer le relâchement, l’abandon, la mort de la volonté, et c’est tout l’inverse de ce que Lucrèce célébrait dans l’arbre : « l’oeuvre de l’arbre, disait-il, insère les puissances d’une étrange volonté souterraine ». Alors, puisque qu’il faut, comme l’écrit Miller (cité par Deleuze), laisser le « dernier mot » à l’herbe, à ses débordements, puisqu’il est bien venu de lui laisser occuper les « espaces non cultivés », allons jusqu’à nous réjouir de ces « poussées latérales successives en connexion immédiate avec un dehors » du « rhizome américain » que sont « beatnik, underground, souterrains, bandes et gangs »… On pourrait ajouter à cette liste les « réseaux mafieux », ce que A. Supiot a bien vu. « Le modèle réticulaire du réseau où Deleuze et Guattari pensaient, écrit-il, avoir trouvé la forme la plus radicale de subversion de l’ordre établi, ordre symbolisé à leurs yeux par la verticalité de l’arbre plongeant ses racines dans le sol, est en fait, depuis longtemps, celui des réseaux mafieux. » (*La gouvernance par les nombres*)
+
+Il y aurait même encore de fortes similitudes à repérer entre « l’ajustement mutuel » du rhizome comme de la « végétalisation » et la « catalaxie » économique du théoricien néo-libéral Hayek, terme qui désigne un « ordre engendré par l’ajustement mutuel de nombreuses économies individuelles sur un marché. » Autrement dit, le « laisser-faire » économique proclamé par A. Smith et le « laisser-faire » rhizomique de la « végétalisation » font très bon ménage !… D’ailleurs, si l’on se souvient qu’en latin classique « vegetatio » ne signifie rien d’autre que « excitation », « mouvement », on notera la juste correspondance analogique entre la mise en mouvement perpétuelle de la végétalisation et celle d’un processus économique lui-même sans cesse en mouvement…
+
+Triste image de notre société, vue sous tous ses angles que nous renvoient ces végétalisations envahissantes de nos villes !…
+
+C’est bien à une inversion des valeurs qu’aboutit cette guerre menée contre l’Arbre. Inversion parfaitement assumée par H. Miller auquel Deleuze se reporte : « Mais l’herbe est débordement, c’est une leçon de morale » (*Hamlet*) Étrange « morale » que celle des « débordements » ! Et bien venus alors tous les « débordements » toutes les submersions migratoires, criminelles, pulsionnelles et autres ?…
+
+La guerre à l’arbre n’a plus de cesse, « ne cherchez pas de racine, suivez le canal… », chante Patti Smith. Le mot d’ordre implicite est le suivant : ôtez-nous l’arbre de notre tête ! (Arbre de Jessé, généalogie de Jésus, Arbre de la Croix qui deviendra peut-être bien cet « horrible arbrisseau » de Rimbaud, fleur de lys, « parce que c’est une plante à racines profondes accrochant les talus »…)
+
+Ôtez-nous l’arbre de notre tête, ôtez-le de notre vue, dans nos villes « écolos » constamment « réaménagées », « végétalisées » à tout va ! Malmenez-les ! Coupez-les ! Faîtes-les disparaître ou alors remplacez-les, réduisez-les au statut provisoire de plantes en pot, de bouquets d’arbustes plus ou moins bien « fagotés », disposés en agencement décoratif !…
+
+Puisque tout n’est plus aujourd’hui que *processus* autonome alors place au « processus immanent » du rhizome dans nos villes !..
+
+Ne nous restera plus en mémoire, comme membre fantôme de l’amputé, que « la forme fugitive et comme l’idée nue de l’Arbre et de l’instant » (Tityre), ne nous restera plus que le souvenir de l’arbre confident, avec au coeur, « l’amour et la louange » qu’il inspire, lui confiant ce que nous *sommes*, ne sous restera plus que le souvenir d’une soif puisée « dans l’ombre à la source des pleurs », « à la source des larmes : L’INEFFABLE »
+
+Avec en tête cependant, le regret de Brassens :
+
+{% epigraph « Auprès de mon arbre je vivais heureux
+J’aurais jamais dû m’éloigner de mon arbre
+Auprès de mon arbre je vivais heureux
+J’aurais jamais dû le quitter des yeux » 'Georges Brassens, *Auprès de mon arbre*' %}
+
+                                                                                                           
+
+
+
+
+
+
+
+
