@@ -289,6 +289,23 @@ header {
   white-space: nowrap;
 }
 
+/* ✅ Titre REPLACÉ dans la même colonne que .post-content */
+.post-header h1{
+  width: 100ch;
+  max-width: calc(100% - 18% - 6rem);
+  margin-left: 18%;
+  margin-right: 20rem;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  font-family: 'Geograph', sans-serif;
+  font-weight: normal;
+  font-size: 1.4em;
+  line-height: 1.53em;
+  counter-reset: sidenote-counter;
+  text-decoration: none;
+}
+
 
 /* Colonne principale */
 
@@ -900,6 +917,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
