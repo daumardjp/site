@@ -682,11 +682,49 @@ body.dark-mode .article-index tr:hover a {
     font-weight: normal;
     font-size: 1.4em;
     line-height: 1.42em;
+  }
+
 }
 
 
-  
+/* =========================
+   PRE-MOBILE (évite collision)
+========================= */
+@media (max-width: 900px){
+
+  /* plus de marge gauche */
+  .post-content{
+    margin-left: 0 !important;
+    margin-right: 12rem; /* garde ton espace sidenotes si tu veux */
+    max-width: calc(100% - 4rem);
+  }
+
+  .post-header h1{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: auto !important;
+    max-width: 100% !important;
+  }
+
+  /* header en 2 colonnes : titre à gauche, catégorie à droite */
+  .post-header{
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: baseline;
+    column-gap: 1rem;
+    min-height: 0; /* annule la “ligne réservée” desktop si besoin */
+  }
+
+  .post-category{
+    position: static !important;
+    margin: 0 !important;
+    justify-self: end;
+    text-align: right;
+    white-space: nowrap;
+    display: inline-block;
+  }
 }
+
 
 /* =========================
    MOBILE
@@ -931,4 +969,5 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
