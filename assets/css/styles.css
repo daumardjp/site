@@ -262,37 +262,47 @@ header {
    POST – DESKTOP
 ========================= */
 
+/* Wrapper pleine largeur (même repère que le menu) */
+
+.post-article{
+  position: relative;
+}
+
+/* Header pleine largeur */
+
+.post-header{
+  position: relative;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+/* Catégorie arrimée au même repère que le menu */
+
+.post-category{
+  position: absolute;
+  left: 2rem;                 /* même padding que .container */
+  top: 0;
+  margin: 0;
+  font-family: 'Geograph', sans-serif;
+  font-size: 1.4em;
+  line-height: 1.53em;
+  white-space: nowrap;
+}
+
+/* Colonne principale */
+
 .post-content{
   position: relative;
   width: 100ch;
   max-width: calc(100% - 18% - 6rem);
   margin-left: 18%;
   margin-right: 20rem;
-  margin-top: 2em;
-  padding-left: 0;
 }
 
-.post-date{
-  display: none;
-}
+/* Titre */
 
-/* Headings */
-
-h1, h2, h3, h4, h5, h6{
-  color: #333333;
-}
-
-/* Header container */
-
-.post-header{
-  position: relative;
+.post-content h1{
   margin: 0 0 1em 0;
-}
-
-/* Title (dans post-header) */
-
-.post-header h1{
-  margin: 0;
   font-family: 'Geograph', sans-serif;
   font-weight: normal;
   font-size: 1.4em;
@@ -301,20 +311,7 @@ h1, h2, h3, h4, h5, h6{
   text-decoration: none;
 }
 
-/* Catégorie collée bord gauche écran */
-
-.post-category{
-  position: absolute;
-  top: 0;
-  right: calc(100% + 9rem);
-  margin: 0;
-  font-family: 'Geograph', sans-serif;
-  font-size: 1.4em;
-  line-height: 1.53em;
-  white-space: nowrap;
-}
-
-/* Body */
+/* Corps */
 
 .post-body{
   margin-top: 0;
@@ -324,7 +321,11 @@ h1, h2, h3, h4, h5, h6{
   letter-spacing: 0.013em;
 }
 
-/* Inline styles */
+/* Divers */
+
+.post-date{
+  display: none;
+}
 
 .post-content u{
   text-decoration: underline;
@@ -747,6 +748,7 @@ body.dark-mode .article-index tr:hover a {
     margin: 10px 0;
   }
 
+  /* Colonne article */
   .post-content{
     width: 100% !important;
     max-width: 100% !important;
@@ -756,19 +758,19 @@ body.dark-mode .article-index tr:hover a {
     padding-right: 0 !important;
   }
 
-  /* header 2 colonnes */
+  /* Header : catégorie à droite du titre */
   .post-header{
     display: grid;
     width: 100%;
     grid-template-columns: 1fr auto;
-    grid-template-rows: 1fr;
+    grid-template-rows: auto;
     column-gap: 1rem;
     align-items: baseline;
-    margin: 0;
+    margin: 0 0 1em 0;
     padding: 0;
   }
 
-  /* titre */
+  /* Titre */
   .post-content h1{
     grid-column: 1;
     grid-row: 1;
@@ -778,7 +780,7 @@ body.dark-mode .article-index tr:hover a {
     min-width: 0;
   }
 
-  /* catégorie à droite, même ligne */
+  /* Catégorie : même ligne, collée à droite, pas d'absolu */
   .post-category{
     grid-column: 2;
     grid-row: 1;
@@ -902,6 +904,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
