@@ -260,10 +260,12 @@ header {
 .post-content{
   position: relative;
   width: 100ch;
+  max-width: calc(100% - 18% - 6rem); /* marge droite min = 6rem */
   margin-left: 18%;
-  margin-right: 0;
+  margin-right: 6rem;               /* marge droite constante */
   margin-top: 2em;
 }
+
 
 .post-date {
   display: none;
@@ -634,10 +636,11 @@ body.dark-mode .article-index tr:hover a {
 
   .post-content{
     width: 100ch;
-    max-width: 100%;
+    max-width: calc(100% - 10% - 4rem);
     margin-left: 10%;
-    margin-right: 0;
+    margin-right: 4rem;
   }
+
 
   .post-body{
     font-size: 1.22em;
@@ -885,3 +888,4 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
