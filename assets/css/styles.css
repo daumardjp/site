@@ -43,7 +43,7 @@ body {
 header {
   position: relative;
   border-bottom: 1px solid rgba(0,0,0,0.55);
-  padding-bottom: 150px; 
+  padding-bottom: 160px; 
 }
 
 
@@ -142,7 +142,7 @@ header {
 }
 
 .content {
-  margin-top: 6rem;
+  margin-top: 38px;
 }
 
 /* Define a keyframes animation for the fade-in effect */
@@ -869,6 +869,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
