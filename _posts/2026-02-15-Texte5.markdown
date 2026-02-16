@@ -27,6 +27,8 @@ Fécondité, promesse, confiance, élévation et verticalité du mât, on retrou
 
 « J’attends l’arbre et l’amour que tu te plais à joindre » dit dans la perle d’un alexandrin incluse dans sa prose poétique, LUCRÈCE du « Dialogue » à TITYRE qui lui répond par ce poème :
 
+<br/>
+
 {% epigraph "AMOUR n’est rien qu’il ne croisse à l’extrême:<br />
 Croître est sa loi; il meurt d’être le même,<br />
 Et meurt en qui ne meure pas d’amour.<br />
@@ -80,6 +82,8 @@ Deux notions essentielles sont pour Deleuze à évacuer : le *dualisme ontologiq
 
 1) Dualisme
 
+<br/>
+
 {% epigraph "Car le surnaturel est lui-même charnel<br />
 Et l’arbre de la grâce est raciné profond<br />
 Et plonge dans le sol et cherche jusqu’au fond<br />
@@ -122,3 +126,4 @@ Avec en tête cependant, le regret de Brassens :
 J’aurais jamais dû m’éloigner de mon arbre<br />
 Auprès de mon arbre je vivais heureux<br />
 J’aurais jamais dû le quitter des yeux" 'Georges Brassens, <em>Auprès de mon arbre</em>' %}
+
