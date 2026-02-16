@@ -62,11 +62,6 @@ html {
   scroll-behavior: smooth;
 }
 
-:root{
-  --measure: clamp(62ch, 70vw, 100ch);
-  --body-size: clamp(1.15rem, 1.0vw + 0.9rem, 1.4em);
-  --leading: clamp(1.35, 0.7vw + 1.1, 1.53);
-}
 
 
 .post-image {
@@ -288,14 +283,13 @@ header {
 /* Container for the post content area */
 
 .post-content{
-  position: relative;
-  width: 100ch;
-  margin-left: 18%;
-  margin-right: auto;
+  width: 100ch;        /* 100ch réel sur grand écran */
+  max-width: 100%;     /* peut rétrécir sans min()/clamp()/calc() */
+  margin-left: 18%;    /* 18% exact */
+  margin-right: 0;     /* jamais recentré */
   margin-top: 2em;
-
-  padding-left: 10ch;                 /* réserve catégorie */
-  max-width: calc(100% - 18% - 2rem); /* évite de déborder */
+  padding-left: 0;     /* la réserve passe au layout header/body */
+  position: relative;
 }
 
 
@@ -350,24 +344,42 @@ article.post-content h1 {
     white-space: nowrap;
 }
 
-
-.post-header {
-  position: relative; /* Establishes the basis for absolute positioning */
+.post-header{
+  display: grid;
+  grid-template-columns: 10ch 1fr; /* colonne catégorie + colonne titre */
+  align-items: baseline;
+  column-gap: 0;
+  margin-bottom: 0;
 }
 
-.post-category {
+
+/* .post-header {
+  position: relative; /* Establishes the basis for absolute positioning */
+}
+*/
+
+.post-category{
+  position: static; /* plus d'absolu => plus de chevauchement */
+  font-family: 'Geograph', sans-serif;
+  font-size: 1.4em;
+}
+
+
+/* .post-category {
   position: absolute; /* Positions the category absolutely */
   left: 0; 
   font-family: 'Geograph', sans-serif;
   font-size: 1.4em;
 }
+*/ 
 
 .post-body{
   margin-top: 0;
+  padding-left: 10ch;        /* aligne le corps sous le titre (colonne 2) */
   font-family: 'Geograph', sans-serif;
-  font-size: 1.4em;
-  line-height: 1.53em;      /* ton interligne */
-  letter-spacing: 0.013em;  /* ton espacement lettres */
+  font-size: 1.4em;          /* grand écran */
+  line-height: 1.53em;       /* suit proportionnellement */
+  letter-spacing: 0.013em;
 }
 
 
@@ -721,27 +733,27 @@ body.dark-mode .article-index tr:hover a {
 
 @media (max-width: 1100px){
   .post-content{
-    width: min(100ch, calc(100% - 10% - 2rem));
+    width: 100ch;
+    max-width: 100%;
     margin-left: 10%;
-    padding-left: 0; /* on évite la collision en repassant la catégorie dans le flux */
+    margin-right: 0;
   }
 
   .post-body{
-    font-size: 1.22em;   /* ↓ */
-    line-height: 1.42em; /* ↓ */
+    font-size: 1.22em;
+    line-height: 1.42em;
+    padding-left: 10ch;
   }
 
   .post-header{
-    position: static;
-    margin-bottom: .6rem;
-  }
-  .post-category{
-    position: static;
-    display: block;
-    font-size: 1.4em;
+    grid-template-columns: 10ch 1fr;
   }
 
+  .post-category{
+    font-size: 1.22em;
+  }
 }
+
 
 
 
@@ -757,9 +769,33 @@ body.dark-mode .article-index tr:hover a {
         word-spacing: .045em;
     }
 
+    .post-content{
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+    }
+  
+    .post-header{
+      grid-template-columns: 1fr; /* pile catégorie + titre */
+      row-gap: 0.2rem;
+    }
+  
+    .post-body{
+      padding-left: 0;
+      line-height: 1.3em;
+      font-size: .96em;
+    }
+  
+    .post-category{
+      text-align: right;
+      font-size: .96em;
+    }
+
+    /*
     .content {
       margin-top: 4rem;
     }
+    */
   
     .header-left h1 {
         font-size: .96em !important;
@@ -836,7 +872,8 @@ body.dark-mode .article-index tr:hover a {
       width: 100%;
       margin: 0;
     }
-
+  
+    /*
     .post-body {
       line-height: 1.3em;
       font-size: .96em;
@@ -847,6 +884,7 @@ body.dark-mode .article-index tr:hover a {
       right: 0;
       text-align: right;
     }
+    */
 
     .post-content h1 {
       font-size: .96em;
@@ -976,6 +1014,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
