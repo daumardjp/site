@@ -256,79 +256,65 @@ header {
   color: #FF3E2F;
 }
 
-/* Container for the post content area */
+
+
+/* =========================
+   POST – DESKTOP
+========================= */
 
 .post-content{
   position: relative;
   width: 100ch;
-  max-width: calc(100% - 18% - 6rem); /* marge droite min = 6rem */
+  max-width: calc(100% - 18% - 6rem);
   margin-left: 18%;
-  margin-right: 20rem;               /* marge droite constante */
+  margin-right: 20rem;
   margin-top: 2em;
 }
 
-
-.post-date {
+.post-date{
   display: none;
 }
 
 /* Headings */
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6{
   color: #333333;
 }
 
-.post-content h1 {
+/* Header container */
+
+.post-header{
+  position: relative;
+  margin: 0 0 1em 0;
+}
+
+/* Title (dans post-header) */
+
+.post-header h1{
+  margin: 0;
   font-family: 'Geograph', sans-serif;
   font-weight: normal;
   font-size: 1.4em;
   line-height: 1.53em;
-  margin: 0 0 1em 0;
   counter-reset: sidenote-counter;
   text-decoration: none;
 }
 
-article.post-content h1 {
-  font-weight: normal;
-}
-
-.post-content u {
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-}
-
-.post-content strong {
-  font-size: 0.95em;
-}
-
-.nowrap {
-  white-space: nowrap;
-}
-
-/* Header layout */
-
-.post-header{
-  position: relative;
-}
-
-.post-header h1{
-  grid-column: 2;
-  margin: 0;
-  font-size: 1.4em;
-  line-height: 1.53em;
-  min-width: 0;
-}
+/* Catégorie collée bord gauche écran */
 
 .post-category{
-  position: absolute;
-  top: 0;
-  left: calc(-18vw);          /* colle au bord gauche de l’écran */
+  position: fixed;
+  left: 0;
   margin: 0;
-  font-family: 'Geograph', sans-serif;  /* force la font */
+  padding-left: .5rem;
+  font-family: 'Geograph', sans-serif;
   font-size: 1.4em;
   line-height: 1.53em;
   white-space: nowrap;
+  pointer-events: none;
 }
+
+/* Body */
 
 .post-body{
   margin-top: 0;
@@ -337,6 +323,22 @@ article.post-content h1 {
   line-height: 1.53em;
   letter-spacing: 0.013em;
 }
+
+/* Inline styles */
+
+.post-content u{
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+
+.post-content strong{
+  font-size: 0.95em;
+}
+
+.nowrap{
+  white-space: nowrap;
+}
+
 
 /* Sidenotes */
 
@@ -900,6 +902,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
