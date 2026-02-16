@@ -27,22 +27,22 @@ Fécondité, promesse, confiance, élévation et verticalité du mât, on retrou
 
 « J’attends l’arbre et l’amour que tu te plais à joindre » dit dans la perle d’un alexandrin incluse dans sa prose poétique, LUCRÈCE du « Dialogue » à TITYRE qui lui répond par ce poème :
 
-{% epigraph "AMOUR n’est rien qu’il ne croisse à l’extrême:
-Croître est sa loi; il meurt d’être le même,
-Et meurt en qui ne meure pas d’amour.
-Vivant de soif toujours inassouvie,
-Arbre dans l’âme aux racines de chair
-Qui vit de vivre au plus vif de la vie
-Il vit de tout, du doux et de l’amer
-Et du cruel, encore mieux que du tendre.
-Grand Arbre Amour, qui ne cesse d’étendre
-Dans ma faiblesse une étrange vigueur,
-Mille moments que se garde le coeur
-Te sont feuillage et flèches de lumière!
-Mais cependant qu’au soleil du bonheur
-Dans l’or du jour s’épanouit sa joie,
-Ta même soif, qui gagne en profondeur,
-Puise dans l’ombre, à la source des pleurs…" 'Paul Valéry, *Dialogue de l’Arbre*' %}
+{% epigraph "AMOUR n’est rien qu’il ne croisse à l’extrême:<br />
+Croître est sa loi; il meurt d’être le même,<br />
+Et meurt en qui ne meure pas d’amour.<br />
+Vivant de soif toujours inassouvie,<br />
+Arbre dans l’âme aux racines de chair<br />
+Qui vit de vivre au plus vif de la vie<br />
+Il vit de tout, du doux et de l’amer<br />
+Et du cruel, encore mieux que du tendre.<br />
+Grand Arbre Amour, qui ne cesse d’étendre<br />
+Dans ma faiblesse une étrange vigueur,<br />
+Mille moments que se garde le coeur<br />
+Te sont feuillage et flèches de lumière!<br />
+Mais cependant qu’au soleil du bonheur<br />
+Dans l’or du jour s’épanouit sa joie,<br />
+Ta même soif, qui gagne en profondeur,<br />
+Puise dans l’ombre, à la source des pleurs…" 'Paul Valéry, <em>Dialogue de l’Arbre</em>' %}
 
 D’emblée, l’essentiel, dans un vision traditionnelle de l’arbre : *AMOUR n’est rien qu’il ne croisse à l’extrême*.
 
@@ -78,9 +78,9 @@ Deux notions essentielles sont pour Deleuze à évacuer : le *dualisme ontologiq
 
 1) Dualisme
 
-{% epigraph "Car le surnaturel est lui-même charnel
-Et l’arbre de la grâce est raciné profond
-Et plonge dans le sol et cherche jusqu’au fond
+{% epigraph "Car le surnaturel est lui-même charnel<br />
+Et l’arbre de la grâce est raciné profond<br />
+Et plonge dans le sol et cherche jusqu’au fond<br />
 Et l’arbre de la race est lui-même éternel" 'Charles Péguy' %}
 
 {% epigraph "Arbre dans l’âme aux racines de chair" 'Paul Valéry' %}
@@ -112,7 +112,7 @@ Ne nous restera plus en mémoire, comme membre fantôme de l’amputé, que « l
 
 Avec en tête cependant, le regret de Brassens :
 
-{% epigraph "Auprès de mon arbre je vivais heureux
-J’aurais jamais dû m’éloigner de mon arbre
-Auprès de mon arbre je vivais heureux
-J’aurais jamais dû le quitter des yeux" 'Georges Brassens, *Auprès de mon arbre*' %}
+{% epigraph "Auprès de mon arbre je vivais heureux<br />
+J’aurais jamais dû m’éloigner de mon arbre<br />
+Auprès de mon arbre je vivais heureux<br />
+J’aurais jamais dû le quitter des yeux" 'Georges Brassens, <em>Auprès de mon arbre</em>' %}
