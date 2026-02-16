@@ -666,7 +666,7 @@ body.dark-mode .article-index tr:hover a {
 @media screen and (max-width: 650px) {
 
   html{
-    font-size: 14px;
+    font-size: 16px;
   }
 
 
@@ -683,15 +683,11 @@ body.dark-mode .article-index tr:hover a {
     margin-top: 4rem;
   }
 
-  .header-left h1 {
-    font-size: .96em !important;
-  }
 
   .header-right li,
   .header-right a {
     padding: 0;
     margin: 0;
-    font-size: .96em !important;
   }
 
   #dark-mode-toggle {
@@ -759,24 +755,30 @@ body.dark-mode .article-index tr:hover a {
   }
 
 
-  .post-header {
-    padding-left: 0;
+  .post-header{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding-left: 0 !important;
   }
 
-  .post-category {
+
+  .post-category{
     position: static;
-    width: auto;
+    flex: 0 0 auto;
+    margin-left: 1rem;
     text-align: right;
-    font-size: .96em;
+    white-space: nowrap;
   }
+
 
   .post-content h1 {
-    font-size: .96em;
     line-height: 1.3em;
+    margin: 0;
+    flex: 1 1 auto;
   }
 
   .post-body {
-    font-size: .96em;
     line-height: 1.3em;
   }
 
@@ -902,6 +904,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
