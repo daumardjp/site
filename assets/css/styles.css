@@ -789,13 +789,20 @@ body.dark-mode .article-index tr:hover a {
   .post-header h1{
     grid-column: 1;
     grid-row: 1;
+  
     margin: 0 !important;
     min-width: 0;
+  
+    width: auto !important;        /* ✅ reset desktop 100ch */
+    max-width: 100% !important;    /* ✅ évite contrainte calc(...) */
+    margin-right: 0 !important;    /* ✅ reset desktop 20rem */
+  
     font-family: 'Geograph', sans-serif;
     font-weight: normal;
     font-size: 1em;
     line-height: 1.35em;
   }
+
 
   .post-category{
     grid-column: 2;
@@ -924,3 +931,4 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
