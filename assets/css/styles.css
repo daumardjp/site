@@ -308,16 +308,25 @@ article.post-content h1 {
 /* Header layout */
 
 .post-header{
-  position: relative;
-  padding-left: 10ch;
+  display: grid;
+  grid-template-columns: 10ch 1fr;
+  column-gap: 1rem;
+  align-items: baseline;
+}
+
+.post-header h1{
+  grid-column: 2;
+  margin: 0;
+  font-size: 1.4em;
+  line-height: 1.53em;
+  min-width: 0;
 }
 
 .post-category{
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 10ch;
-  font-family: 'Geograph', sans-serif;
+  grid-column: 1;
+  margin: 0;
+  text-align: left;
+  white-space: nowrap;
   font-size: 1.4em;
   line-height: 1.53em;
 }
@@ -751,16 +760,15 @@ body.dark-mode .article-index tr:hover a {
 
   /* ✅ clé : ancre pour l’absolu */
   .post-header{
-    display: grid;
-    width: 100%;
     grid-template-columns: 1fr auto;
-    grid-template-rows: 1fr;
-    column-gap: 1rem;
-    align-items: baseline;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
   }
-  
+
+  .post-header h1{
+    grid-column: 1;
+    font-size: 1em;
+    line-height: 1.35em;
+  }
+    
   .post-content h1{
     grid-column: 1;
     grid-row: 1;
@@ -793,15 +801,13 @@ body.dark-mode .article-index tr:hover a {
 
 
   /* ✅ catégorie collée à droite, même baseline (top identique + même line-height) */
-  .post-category{
-    position: static;
-    margin: 0 !important;
-    font-size: 1em;
-    line-height: 1.35em;
-    white-space: nowrap;
-    justify-self: end;         /* collé à droite */
-    text-align: right;
-  }
+   .post-category{
+      grid-column: 2;
+      text-align: right;
+      justify-self: end;
+      font-size: 1em;
+      line-height: 1.35em;
+    }
 
 
   .post-body {
@@ -915,6 +921,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
