@@ -262,34 +262,31 @@ header {
    POST – DESKTOP
 ========================= */
 
-/* Wrapper pleine largeur (même repère que le menu) */
-
 .post-article{
   position: relative;
 }
 
-/* Header pleine largeur */
-
+/* Header */
 .post-header{
   position: relative;
   margin-top: 2em;
   margin-bottom: 1em;
 }
 
-/* Catégorie arrimée au même repère que le menu */
-
+/* Catégorie (marge gauche, alignée au container/menu) */
 .post-category{
   position: absolute;
-  left: 0;            /* aligné exactement comme le menu */
+  left: 0;                 /* si tu veux l'aligner au menu du container */
   top: 0;
   margin: 0;
   font-family: 'Geograph', sans-serif;
+  font-weight: normal;
   font-size: 1.4em;
   line-height: 1.53em;
   white-space: nowrap;
 }
 
-/* ✅ Titre REPLACÉ dans la même colonne que .post-content */
+/* Titre : même colonne que le corps (18% + 100ch) */
 .post-header h1{
   width: 100ch;
   max-width: calc(100% - 18% - 6rem);
@@ -306,9 +303,7 @@ header {
   text-decoration: none;
 }
 
-
-/* Colonne principale */
-
+/* Colonne principale (corps + footer) */
 .post-content{
   position: relative;
   width: 100ch;
@@ -317,20 +312,7 @@ header {
   margin-right: 20rem;
 }
 
-/* Titre */
-
-.post-content h1{
-  margin: 0 0 1em 0;
-  font-family: 'Geograph', sans-serif;
-  font-weight: normal;
-  font-size: 1.4em;
-  line-height: 1.53em;
-  counter-reset: sidenote-counter;
-  text-decoration: none;
-}
-
 /* Corps */
-
 .post-body{
   margin-top: 0;
   font-family: 'Geograph', sans-serif;
@@ -340,10 +322,7 @@ header {
 }
 
 /* Divers */
-
-.post-date{
-  display: none;
-}
+.post-date{ display: none; }
 
 .post-content u{
   text-decoration: underline;
@@ -357,6 +336,8 @@ header {
 .nowrap{
   white-space: nowrap;
 }
+
+
 
 
 /* Sidenotes */
@@ -917,6 +898,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
