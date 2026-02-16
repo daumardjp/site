@@ -1,4 +1,7 @@
-/* Font face declarations */
+/* =========================
+   FONTS
+========================= */
+
 @font-face {
   font-family: 'KarlsbaderGrotesk';
   src: url('/assets/fonts/KarlsbaderGrotesk-400.ttf') format('truetype');
@@ -33,15 +36,6 @@
 
 @font-face {
   font-family: 'Geograph';
-  src: url('/assets/fonts/geograph/GeographEditWeb-MediumItalic.woff2') format('woff2'),
-       url('/assets/fonts/geograph/GeographEditWeb-MediumItalic.woff') format('woff');
-  font-weight: 550;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Geograph';
   src: url('/assets/fonts/geograph/GeographEditWeb-Bold.woff2') format('woff2'),
        url('/assets/fonts/geograph/GeographEditWeb-Bold.woff') format('woff');
   font-weight: 700;
@@ -49,689 +43,73 @@
   font-display: swap;
 }
 
-@font-face {
-  font-family: 'Geograph';
-  src: url('/assets/fonts/geograph/GeographEditWeb-BoldItalic.woff2') format('woff2'),
-       url('/assets/fonts/geograph/GeographEditWeb-BoldItalic.woff') format('woff');
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-}
+/* =========================
+   BASE
+========================= */
 
-html {
-  scroll-behavior: smooth;
-}
+* { box-sizing: border-box; }
 
-
-
-.post-image {
-    opacity: 0;
-    transition: opacity 1s ease;
-}
-
-.post-image.loaded {
-    opacity: 1;
-}
-
-.container {
-  padding-left: 2rem; /* Increase left padding as needed */
-  padding-right: 2rem;
-  padding-top: 1rem;
-  max-width: 100%;
-}
-
-
-
-/* Base background color for the entire site */
 body {
-  visibility: hidden;
-  opacity: 0;
-  transition: opacity 0.5s ease-out;
-  background-color: #FFFFFF;
-}
-
-/* Background color of selected text */
-::selection {
-  background: #F0402C; 
-}
-
-/* Header Structure */
-header {
-  position: relative;
-  border-bottom: 1px solid rgba(0,0,0,0.55);
-  padding-bottom: 160px; 
-}
-
-
-.header-top {
-  display: flex; /* Use flexbox for the container */
-  justify-content: space-between; /* Space between title and menu */
-  align-items: center; /* Vertical alignment */
-  margin-bottom: 1rem;
-}
-
-.header-left h1,
-.header-right a {
   font-family: 'Geograph', sans-serif;
-  font-weight: normal;
-  font-size: 1.4rem;
-  color: #111;
-  text-decoration: none;
-  margin: 0; /* Remove default margins if any */
-  padding: 0; /* Aligning with the menu */
+  background:#fff;
+  margin:0;
 }
 
-.header-right {
-  display: flex;
-  justify-content: flex-end; 
-  margin-right: 0;
-  padding-right: 0
-}
-
-.header-right ul {
-  display: flex; /* Align menu items in a row */
-  padding: 0;
-  margin: 0;
-  list-style: none;
-}
-
-.header-right li {
-  padding: 0 1rem; /* Provide space between menu items */
-  padding-right: 0;
-}
-
-/* Target only the first two list items for increased spacing */
-.header-right li:not(:last-child) {
-  margin-right: 1rem; /* Adjust the right margin as needed */
-}
-
-.header-right a:hover,
-.header-right a:focus {
-  text-decoration: underline;
-  text-underline-offset: 0.3em; /* Adjust this value as needed */
-  text-decoration-thickness: 1px;
-}
-
-
-.header-title-link {
-  color: #111; /* or the color of your title */
-}
-
-.header-title-link:hover,
-.header-title-link:focus {
-  /*color: #FF3E2F;*/
-  /*font-style: italic;*/
-  text-decoration: none;
-}
-
-
-/* Divider */
-.header-divider {
-  border: none;
-  height: 1px;
-  background-color: #111;
-  width: 100%;
-}
-
-
-/* Styles for the Menu and Contact links */
-.menu-button,
-.contact-button a {
-  font-family: 'Geograph', sans-serif;
-  color: #111;
-  text-decoration: none;
-  margin: 1rem;
-}
-
-
-
-/* Dark Mode Switch as a Logo */
-#dark-mode-toggle {
-  background: url('/assets/img/switch.svg') no-repeat center;
-  width: 14px; /* Logo width */
-  height: 14px; /* Logo height */
-  display: inline-block; /* Needed for width and height to take effect */
-  margin-top: 5px;
-  cursor: pointer;
-  border: none; /* Remove any default border */
-  background-size: contain; /* Ensure the logo is contained within the dimensions */
-}
-
-.content {
-  margin-top: 20px;
-}
-
-/* Define a keyframes animation for the fade-in effect */
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    /*transform: translateY(0px);*/ 
-  }
-  to {
-    opacity: 1;
-    /*transform: translateY(0);*/
-  }
-}
-
-/* Grid layout for posts */
-.grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns grid */
-  column-gap: 60px; /* Space between the grid items */
-  row-gap: 90px;
-  width: 85%; /* Full width */
-  margin: 0 auto; 
-  padding: 0; /* Reset paddings */
-}
-
-.grid-item {
-  display: flex; /* Use flexbox */
-  flex-direction: column; /* Stack children vertically */
-  align-items: center; /* Center children horizontally */
-  justify-content: center; /* Center children vertically */
-  width: 100%; /* Full width */
-  min-height: 1px; /* This will ensure that the item has a minimum height */
-}
-
-/* Container for image to maintain uniform height */
-.grid-item-image {
-    width: 100%; /* Full width of the container */
-    height: 340px; /* Fixed height for all images */
-    overflow: hidden; /* Hide parts of the image that overflow */
-    display: flex; /* Use flexbox to center image */
-    align-items: center; /* Vertically center image in the container */
-    justify-content: center; /* Horizontally center image in the container */
-}
-
-/* Style for grid item images */
-.grid-item img {
-  max-height: 95%; /* Ensure it doesn't exceed its container */
-  width: auto; /* Maintain aspect ratio */
-  object-fit: contain;
-}
-
-/* Category and title styles */
-.grid-item .category,
-.grid-item .title {
-  text-align: center; /* Center the text */
-  color: #313130;
-  margin: 0.1em 0; /* Spacing around the title and category */
-  font-family: 'Geograph', sans-serif;
-  font-style: normal;
-}
-
-.grid-item .category {
-  font-size: 0.8em; /* Smaller font size for category */
-  letter-spacing: 0.06em;
-}
-
-.grid-item .title {
-  font-size: 1.1em; 
-}
-
-
-/* Hover effect for grid item */
-.grid-item:hover .category,
-.grid-item:hover .title {
-  color: #FF3E2F; /* Change text color to red on hover */
-}
-
-
-
-
-
-/* Container for the post content area */
+/* =========================
+   ARTICLE LAYOUT
+========================= */
 
 .post-content{
-  width: 100ch;        /* 100ch réel sur grand écran */
-  max-width: 100%;     /* peut rétrécir sans min()/clamp()/calc() */
-  margin-left: 18%;    /* 18% exact */
-  margin-right: 0;     /* jamais recentré */
-  margin-top: 2em;
-  padding-left: 0;     /* la réserve passe au layout header/body */
   position: relative;
-}
-
-
-
-
-/*.post-content {
-  position: relative;
-  
-  width: 100ch;
-  margin-left: 18%;
-  margin-right: auto;
+  width: 100ch;          /* EXACT */
+  max-width: 100%;       /* peut réduire mais jamais dépasser */
+  margin-left: 18%;      /* EXACT */
+  margin-right: 0;       /* jamais centré */
   margin-top: 2em;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.3em;
-} */
-
-.post-date {
-  display: none;
 }
 
-/* Styling for header elements */
-h1, h2, h3, h4, h5, h6 {
-  color: #333333;
-}
-
-.post-content h1 {
-  font-family: 'Geograph', sans-serif;
-  font-weight: normal;
-  font-size: 1.4em;
-  margin-bottom: 1em;
-  margin-top: 2em;
-  counter-reset: sidenote-counter;
-  text-decoration: none;
-}
-
-
-article.post-content h1 {
-  font-weight: normal;
-}
-
-
-.post-content u {
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-}
-
-.post-content strong {
-  font-size: 0.95em; /* Smaller than the surrounding text */
-}
-
-.nowrap {
-    white-space: nowrap;
-}
+/* Header structure sans collision */
 
 .post-header{
-  display: grid;
-  grid-template-columns: 10ch 1fr; /* colonne catégorie + colonne titre */
-  align-items: baseline;
-  column-gap: 0;
-  margin-bottom: 0;
+  position: relative;
+  padding-left: 10ch; /* réserve colonne catégorie */
 }
 
-
-/* .post-header {
-  position: relative; /* Establishes the basis for absolute positioning */
-}
-*/
+/* Catégorie dans colonne gauche */
 
 .post-category{
-  position: static; /* plus d'absolu => plus de chevauchement */
-  font-family: 'Geograph', sans-serif;
-  font-size: 1.4em;
-}
-
-
-/* .post-category {
-  position: absolute; /* Positions the category absolutely */
-  left: 0; 
-  font-family: 'Geograph', sans-serif;
-  font-size: 1.4em;
-}
-*/ 
-
-.post-body{
-  margin-top: 0;
-  padding-left: 10ch;        /* aligne le corps sous le titre (colonne 2) */
-  font-family: 'Geograph', sans-serif;
-  font-size: 1.4em;          /* grand écran */
-  line-height: 1.53em;       /* suit proportionnellement */
-  letter-spacing: 0.013em;
-}
-
-
-
-/* .post-body {
-  margin-top: 0em; /* Space between the title and the content */
-  font-family: 'Geograph', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 10ch;
   font-size: 1.4em;
   line-height: 1.53em;
-  letter-spacing: 0.013em; 
-} */
+}
 
+/* Titre du post */
 
-.sidenote, .marginnote {
-  float: right;
-  clear: right;
-  margin-right: -60%;
-  width: 50%;
+.post-content h1{
+  font-size: 1.4em;
+  line-height: 1.53em;
+  font-weight: normal;
+  margin: 0 0 1em 0;
+}
+
+/* Corps */
+
+.post-body{
+  font-size: 1.4em;
+  line-height: 1.53em;
+  letter-spacing: 0.013em;
   margin-top: 0;
-  margin-bottom: 1.96rem;
-  font-size: .85rem;
-  line-height: 1.4;
-  vertical-align: baseline;
-  position: relative;
 }
 
-/* Style for the index near annotated word */
-.sidenote-number { 
-  counter-increment: sidenote-counter; 
-}
+/* =========================
+   RESPONSIVE DESKTOP REDUIT
+========================= */
 
-/* Style for the index near annotated word */
-.sidenote-number:after, .sidenote:before { 
-  content: counter(sidenote-counter) " ";
-  color: $contrast-color; /* added color*/
-  position: relative;
-  vertical-align: baseline; 
-}
+@media (max-width:1100px){
 
-.sidenote-number:after { 
-  content: counter(sidenote-counter);
-  font-size: .8rem;
-  top: -0.5rem;
-  left: 0.1rem; 
-  margin-right: 0.2rem;
-}
-
-.sidenote:before { 
-  content: counter(sidenote-counter) ".\000a0"; /* this is unicode for a non-breaking space */
-  color: $contrast-color;
-  top: 0rem; /*removed superscripting for numerical reference in sidenote */
-} 
-
-/* Adjustments for list items containing side notes */
-li .sidenote, li .marginnote {
-  margin-right: -80%;
-
-}
-
-/* Adjustments for blockquotes containing side notes */
-blockquote .sidenote, blockquote .marginnote {
-  margin-right: -79%;
-}
-
-
-.epigraph blockquote {
-  border-left: none;
-  margin-bottom: -3%;
-  /* ... other styles ... */
-}
-
-
-
-/* Style for images to fit within the text flow */
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto 1rem; /* Center images with margin below */
-}
-
-/* Blockquotes */
-blockquote {
-  font-style: italic;
-  font-size: 1rem;
-  border-left: 4px solid #cccccc;
-  padding-left: 1rem;
-  margin-left: 0;
-  margin-right: 2rem;
-}
-
-/* Ensure that links stand out */
-a {
-  color: #0000CC;
-  text-decoration: none;
-}
-
-
-/* Style for epigraphs */
-.epigraph {
-  font-style: italic;
-  font-size: 1rem;
-  text-align: center;
-  margin: 2rem 0;
-}
-
-/* Style for figures */
-figure {
-  margin: 1rem 0;
-  text-align: center;
-}
-
-figcaption {
-  /*font-style: italic;*/
-  font-size: 0.7em;
-}
-
-/* Footer */
-footer {
-  font-style: normal;
-  text-align: center;
-  padding: 1rem 0;
-  font-size: 0.7em;
-  color: #111;
-}
-
-.post-footer {
-    font-family: 'Geograph', sans-serif;
-    text-align: center; /* Center the link */
-    font-size: .9em;
-    padding-top: 40px;
-}
-
-.post-footer a {
-    color: #111; /* Set the link color */
-    text-decoration: underline;
-    text-decoration-style: dotted; /* Set the underline to be dotted */
-    text-decoration-thickness: 1px; /* Adjust thickness of the underline */
-    text-underline-offset: .2rem; 
-}
-
-.post-footer a:hover {
-    color: #111; /* FF3E2F */
-}
-
-
-
-/* Style for the horizontal line at the top of the content */
-.content-top-divider {
-  height: .5px; 
-  background-color: #111; 
-  margin-top: 120px;
-  margin-bottom: 10px; 
-
-}
-
-
-
-/* Styles for the article index table */
-.article-index {
-  width: 100%;
-  border-collapse: collapse;
-  margin-bottom: 20px; /* Space at the bottom of the table */
-  font-family: 'Geograph', sans-serif;
-  font-size: 1em;
-}
-
-/* Remove borders and background color for table headers */
-.article-index th {
-  position: relative;
-  font-weight: normal; /* Set categories to normal weight */
-  border: none;
-  background-color: transparent;
-  padding: 8px 0;
-  padding-bottom: 50px;
-  text-align: left;
-  cursor: pointer;
-}
-
-.article-index th:hover {
-  color: #FF3E2F;
-}
-
-/* Remove borders for table data cells */
-.article-index td {
-  border: none;
-  padding-left: 0;
-  padding-bottom: 3px;
-  text-align: left;
-}
-
-/* Align the last cell in each row to the right */
-.article-index td:last-child {
-  text-align: right; /* Align text to the right */
-  padding-right: 0; /* Remove or minimize right padding */
-}
-
-/* Optionally, if you want to apply this to header cells as well */
-.article-index th:last-child {
-  text-align: right;
-  padding-right: 0;
-}
-
-
-.article-index th#sort-date.sort-arrow-up,
-.article-index th#sort-date.sort-arrow-down {
-  padding-right: 17px; /* Create space for the arrow */
-  /* Other styles as needed */
-}
-
-.article-index th#sort-date.sort-arrow-up::after,
-.article-index th#sort-date.sort-arrow-down::after {
-  margin-right: -1px; /* Adjust arrow position */
-}
-
-
-/* Hover effect for rows in the table body */
-.article-index tbody tr:hover {
-  color: #FF3E2F; /* Change the background color to red on hover */
-}
-
-
-.article-index a {
-  color: inherit; /* Hyperlink color */
-  text-decoration: none; /* Optional: removes underline from links */
-}
-
-.article-index a:hover {
-  text-decoration: none;
-}
-
-.sort-arrow-up::after, .sort-arrow-down::after {
-  position: absolute;
-  content: " ";
-  margin-left: 7px; /* Adjust as needed */
-}
-
-.sort-arrow-up::after {
-  content: " ↑";
-}
-
-.sort-arrow-down::after {
-  content: " ↓";
-}
-
-
-.carnet-gallery{
-  margin-top: 2rem;
-}
-
-.carnet-figure{
-  margin: 0 0 3.6rem 0;   /* ≈ 1.4 cm */
-}
-
-
-.carnet-figure img{
-  display:block;
-  width:100%;
-  height:auto;
-}
-
-/* Carnet: zone de contenu plus large */
-.post-carnet{
-  width: 60%;
-  margin-left: 18%;
-  margin-right: 22%;
-}
-
-.carnet-img{
-  width: 100%;
-  height: auto;
-  display: block;
-  cursor: zoom-in;
-}
-
-
-body, #dark-mode-toggle, .header-right a, .header-title-link, .header-divider, .grid-item .title, .grid-item .category {
-  transition: background-color 0.3s ease, color 0.3s ease, filter 0.3s ease;
-}
-
-/* Dark mode styles */
-.dark-mode {
-  background-color: #333541; /* Example background color for dark mode */
-  color: #D8D9E2; /* Example text color for dark mode DDDEE7 D8D9E2*/
-}
-
-/* Change color of the separation line in dark mode */
-.dark-mode .header-divider,
-.dark-mode .content-top-divider {
-  background-color: rgba(216, 217, 226, 0.5); /* Lighter line color in dark mode */
-}
-
-/* Change color of titles and categories in dark mode */
-.dark-mode .post-content h1,
-.dark-mode .post-content h2,
-.dark-mode .post-content h3,
-.dark-mode .post-content h4,
-.dark-mode .post-content h5,
-.dark-mode .post-content h6,
-.dark-mode .post-footer a,
-.dark-mode .header-title-link,
-.dark-mode .header-right a, 
-.dark-mode .article-index a,
-.dark-mode .grid-item .title,
-.dark-mode .grid-item .category {
-  color: #D8D9E2; /* Color of titles and categories in dark mode */
-}
-
-.dark-mode header {
-  border-bottom: 0.5px solid rgba(216,217,226,0.5);
-}
-
-
-.dark-mode footer {
-  color: #9C9DA6;
-}
-
-/* Change color of dark mode switch if needed */
-.dark-mode #dark-mode-toggle {
-  filter: invert(96%) sepia(0%) saturate(0%) hue-rotate(197deg) brightness(106%) contrast(100%);
-}
-
-body.dark-mode .article-index tr:hover {
-    color: #FF3E2F; 
-}
-
-body.dark-mode .article-index tr:hover a {
-    color: #FF3E2F; 
-}
-
-/* Background color of selected text */
-.dark-mode ::selection {
-  background: #C5C6FF; 
-  color: #111;
-}
-
-/* Thin frame around images */
-.dark-mode .grid-item img {
-    border: 2px solid #CECFD8; /* Change '2px' to adjust thickness and '#FFFFFF' to your chosen color */
-}
-
-/* links */
-.dark-mode a {
-  color: #709EDD;
-}
-
-* {
-  box-sizing: border-box; /* Include padding and border in the element's total width and height */
-}
-
-
-@media (max-width: 1100px){
   .post-content{
     width: 100ch;
     max-width: 100%;
@@ -739,314 +117,52 @@ body.dark-mode .article-index tr:hover a {
     margin-right: 0;
   }
 
+  .post-category{
+    font-size: 1.22em;
+    line-height: 1.42em;
+  }
+
+  .post-content h1{
+    font-size: 1.22em;
+    line-height: 1.42em;
+  }
+
   .post-body{
     font-size: 1.22em;
     line-height: 1.42em;
-    padding-left: 10ch;
+  }
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width:650px){
+
+  .post-content{
+    width:100%;
+    margin-left:0;
+    margin-right:0;
   }
 
   .post-header{
-    grid-template-columns: 10ch 1fr;
+    padding-left:0;
   }
 
   .post-category{
-    font-size: 1.22em;
+    position:static;
+    width:auto;
+    text-align:right;
+    font-size:.96em;
+  }
+
+  .post-content h1{
+    font-size:.96em;
+    line-height:1.3em;
+  }
+
+  .post-body{
+    font-size:.96em;
+    line-height:1.3em;
   }
 }
-
-
-
-
-/* Media query for small screens (smartphones) */
-@media screen and (max-width: 650px) {
-
-    .container {
-        max-width: 100% !important; /* Ensure it spans the full width */
-        padding-left: .5rem !important; /* Increase left padding as needed */
-        padding-right: .5rem !important;
-        padding-top: .5rem !important;
-        letter-spacing: 0em;
-        word-spacing: .045em;
-    }
-
-    .post-content{
-      width: 100%;
-      margin-left: 0;
-      margin-right: 0;
-    }
-  
-    .post-header{
-      grid-template-columns: 1fr; /* pile catégorie + titre */
-      row-gap: 0.2rem;
-    }
-  
-    .post-body{
-      padding-left: 0;
-      line-height: 1.3em;
-      font-size: .96em;
-    }
-  
-    .post-category{
-      text-align: right;
-      font-size: .96em;
-    }
-
-    /*
-    .content {
-      margin-top: 4rem;
-    }
-    */
-  
-    .header-left h1 {
-        font-size: .96em !important;
-
-    }
-
-    .header-right li, .header-right a {
-        padding: 0;
-        margin: 0;
-        font-size: .96em !important;
-    }
-
-    #dark-mode-toggle {
-        width: 10px;
-        height: 10px; 
-        margin-top: 3px;
-    }
-
-    .header-top {
-      margin-bottom: .7rem;
-    }
-
-
-    .grid {
-      grid-template-columns: 1fr;
-      column-gap: 0;
-      row-gap: 15px;
-      width: 100%; 
-      margin: 0 auto; 
-      padding: 0;
-    }
-
-
-    .grid-item {
-      width: 100%;
-      padding: 0;
-    }
-
-    .grid-item img {
-      width: 100%;
-      height: auto;
-      max-width: 100%; 
-      max-height: 100%;
-      object-fit: cover;
-    }
-
-    .grid-item-image {
-      width: 100%; /* Full width of the container */
-      height: auto; /* Fixed height for all images */
-      //overflow: hidden; /* Hide parts of the image that overflow */
-      justify-content: center; /* Horizontally center image in the container */
-}
-
-
-    .grid-item .category,
-    .grid-item .title {
-      text-align: left;
-      margin: 0 0; 
-    }
-
-    .grid-item .category {
-      font-size: 0.7em; /* Smaller font size for category */
-      letter-spacing: 0.06em;
-      margin: -10px 0;
-    }
-
-    .grid-item .title {
-      font-size: .96em; 
-      margin: 10px 0;
-    }
-
-
-    .post-content {
-      width: 100%;
-      margin: 0;
-    }
-  
-    /*
-    .post-body {
-      line-height: 1.3em;
-      font-size: .96em;
-    }
-
-    .post-category {
-      font-size: .96em;
-      right: 0;
-      text-align: right;
-    }
-    */
-
-    .post-content h1 {
-      font-size: .96em;
-    }
-
-
-    .post-footer {
-      text-align: right;
-      padding: 1rem 0;
-      font-size: 0.7em;
-    }
-
-
-    .sidenote, .marginnote {
-        display: none;
-        position: relative;
-        width: 100%;
-        float: none;
-        left: 0;
-        margin: 1rem 0;
-    }
-
-    .sidenote-number {
-        cursor: pointer;
-        color: #FF3E2F;
-    }
-
-    .epigraph blockquote {
-      font-size: .83em;
-    }
-  
-    .margin-toggle:checked + .sidenote-number + .sidenote {
-        display: block;
-    }
-
-    /* Adjust the width of the "Numéro" column */
-    .article-index th#sort-number,
-    .article-index td:nth-child(1) { /* targeting the first column */
-        width: 25%; /* Adjust as needed */
-        min-width: 50px; /* Minimum width, adjust as needed */
-    }
-
-    /* Adjust the width of the "Titre" column */
-    .article-index th#sort-title,
-    .article-index td:nth-child(3) { /* targeting the third column */
-        width: 75%; /* Adjust as needed */
-    }
-
-    /* Hide all other table headers and cells except for "Numéro" and "Titre" */
-    .article-index th:not(#sort-number):not(#sort-title),
-    .article-index td:not(:nth-child(1)):not(:nth-child(3)) {
-        display: none;
-    }
-
-}
-
-/* Lightbox */
-#lb-overlay{
-  position: fixed;
-  inset: 0;
-  display: none;
-  z-index: 99999;
-  pointer-events: none; /* évite de bloquer quand fermé */
-}
-#lb-overlay.is-open{
-  display: block;
-  pointer-events: auto;
-}
-
-#lb-overlay .lb-backdrop{
-  position:absolute;
-  inset:0;
-  background: rgba(0,0,0,0.86);
-}
-
-#lb-overlay .lb-stage{
-  position:absolute;
-  inset:0;
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  justify-content:center;
-  padding: 4vh 4vw 10vh;
-}
-
-#lb-overlay .lb-image{
-  max-width: 92vw;
-  max-height: 78vh;
-}
-
-#lb-overlay .lb-close{
-  position:absolute;
-  top: 14px;
-  right: 18px;
-  background: transparent;
-  border: 0;
-  color:#fff;
-  font-size: 40px;
-  cursor:pointer;
-  padding: 6px 10px;
-  z-index: 2;
-}
-
-#lb-overlay .lb-nav{
-  position:absolute;
-  bottom: 22px;
-  display:flex;
-  align-items:center;
-  gap: 18px;
-  color:#fff;
-  font-size: 18px;
-  z-index: 2;
-}
-
-#lb-overlay .lb-prev,
-#lb-overlay .lb-next{
-  background: transparent;
-  border: 0;
-  color:#fff;
-  font-size: 34px;
-  cursor:pointer;
-  padding: 6px 12px;
-}
-
-#lb-overlay .lb-counter{
-  min-width: 90px;
-  text-align:center;
-  user-select:none;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
