@@ -665,9 +665,7 @@ body.dark-mode .article-index tr:hover a {
 
 @media screen and (max-width: 650px) {
 
-  html{
-    font-size: 15px;
-  }
+  html{ font-size: 15px; }
 
   .container {
     max-width: 100% !important;
@@ -678,29 +676,25 @@ body.dark-mode .article-index tr:hover a {
     word-spacing: .045em;
   }
 
-  .content {
-    margin-top: 4rem;
+  .content { margin-top: 4rem; }
+
+  /* menus = taille texte */
+  .header-left h1,
+  .header-right li,
+  .header-right a{
+    padding: 0;
+    margin: 0;
+    font-size: 1em !important;
+    line-height: 1.35em;
   }
 
   #dark-mode-toggle {
     width: 10px;
-    height: 10px; 
+    height: 10px;
     margin-top: 3px;
   }
 
-  .header-top {
-    margin-bottom: .7rem;
-  }
-
-  /* menus même taille que texte */
-  .header-left h1,
-  .header-right li,
-  .header-right a{
-    font-size: 1.0em !important;
-    line-height: 1.35em;
-  }
-
-  /* grid */
+  .header-top { margin-bottom: .7rem; }
 
   .grid {
     grid-template-columns: 1fr;
@@ -711,10 +705,7 @@ body.dark-mode .article-index tr:hover a {
     padding: 0;
   }
 
-  .grid-item {
-    width: 100%;
-    padding: 0;
-  }
+  .grid-item { width: 100%; padding: 0; }
 
   .grid-item img {
     width: 100%;
@@ -727,27 +718,28 @@ body.dark-mode .article-index tr:hover a {
   .grid-item-image {
     width: 100%;
     height: auto;
+    /* overflow: hidden; */
     justify-content: center;
   }
 
   .grid-item .category,
   .grid-item .title {
     text-align: left;
-    margin: 0; 
+    margin: 0;
   }
 
   .grid-item .category {
     font-size: 0.7em;
     letter-spacing: 0.06em;
+    margin: -10px 0;
   }
 
   .grid-item .title {
-    font-size: 1.0em;
+    font-size: 1em;
+    margin: 10px 0;
   }
 
-  /* article */
-
-  .post-content{
+  .post-content {
     width: 100% !important;
     max-width: 100% !important;
     margin-left: 0 !important;
@@ -756,37 +748,34 @@ body.dark-mode .article-index tr:hover a {
     padding-right: 0 !important;
   }
 
+  /* ✅ clé : ancre pour l’absolu */
   .post-header{
-    display: grid;
-    grid-template-columns: 1fr auto;
-    align-items: baseline;
-    column-gap: 1rem;
+    position: relative;
+    padding-right: 8ch;  /* réserve à droite pour la catégorie */
     padding-left: 0 !important;
   }
 
+  /* ✅ titre même ligne, sans marge haute */
   .post-content h1{
-    grid-column: 1;
-    grid-row: 1;
     margin: 0 !important;
-    font-size: 1.0em;
+    font-size: 1em;
     line-height: 1.35em;
   }
 
+  /* ✅ catégorie collée à droite, même baseline (top identique + même line-height) */
   .post-category{
-    grid-column: 2;
-    grid-row: 1;
-    position: static;
-    margin: 0 !important;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 1em;
+    line-height: 1.35em;
     text-align: right;
     white-space: nowrap;
-    font-size: 1.0em;
-    line-height: 1.35em;
-    justify-self: end;
-    align-self: baseline;
+    margin: 0 !important;
   }
 
   .post-body {
-    font-size: 1.0em;
+    font-size: 1em;
     line-height: 1.35em;
   }
 
@@ -796,26 +785,9 @@ body.dark-mode .article-index tr:hover a {
     font-size: 0.7em;
   }
 
-  /* sidenotes */
+  .sidenote, .marginnote { display: none; }
 
-  .sidenote, .marginnote {
-    display: none;
-  }
-
-  .sidenote-number {
-    cursor: pointer;
-    color: #FF3E2F;
-  }
-
-  .epigraph blockquote {
-    font-size: .9em;
-  }
-
-  .margin-toggle:checked + .sidenote-number + .sidenote {
-    display: block;
-  }
-
-  /* table */
+  .epigraph blockquote { font-size: .9em; }
 
   .article-index th#sort-number,
   .article-index td:nth-child(1) {
@@ -836,7 +808,6 @@ body.dark-mode .article-index tr:hover a {
 }
 
 
-    
 /* =========================
    LIGHTBOX
 ========================= */
@@ -914,6 +885,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
