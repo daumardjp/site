@@ -27,7 +27,7 @@ Fécondité, promesse, confiance, élévation et verticalité du mât, on retrou
 
 « J’attends l’arbre et l’amour que tu te plais à joindre » dit dans la perle d’un alexandrin incluse dans sa prose poétique, LUCRÈCE du « Dialogue » à TITYRE qui lui répond par ce poème :
 
-{% epigraph AMOUR n’est rien qu’il ne croisse à l’extrême:
+{% epigraph "AMOUR n’est rien qu’il ne croisse à l’extrême:
 Croître est sa loi; il meurt d’être le même,
 Et meurt en qui ne meure pas d’amour.
 Vivant de soif toujours inassouvie,
@@ -42,7 +42,7 @@ Te sont feuillage et flèches de lumière!
 Mais cependant qu’au soleil du bonheur
 Dans l’or du jour s’épanouit sa joie,
 Ta même soif, qui gagne en profondeur,
-Puise dans l’ombre, à la source des pleurs… 'Paul Valéry, *Dialogue de l’Arbre*' %}
+Puise dans l’ombre, à la source des pleurs…" 'Paul Valéry, *Dialogue de l’Arbre*' %}
 
 D’emblée, l’essentiel, dans un vision traditionnelle de l’arbre : *AMOUR n’est rien qu’il ne croisse à l’extrême*.
 
@@ -78,12 +78,12 @@ Deux notions essentielles sont pour Deleuze à évacuer : le *dualisme ontologiq
 
 1) Dualisme
 
-{% epigraph « Car le surnaturel est lui-même charnel
+{% epigraph "Car le surnaturel est lui-même charnel
 Et l’arbre de la grâce est raciné profond
 Et plonge dans le sol et cherche jusqu’au fond
-Et l’arbre de la race est lui-même éternel » 'Charles Péguy' %}
+Et l’arbre de la race est lui-même éternel" 'Charles Péguy' %}
 
-{% epigraph « Arbre dans l’âme aux racines de chair » 'Paul Valéry' %}
+{% epigraph "Arbre dans l’âme aux racines de chair" 'Paul Valéry' %}
 
 2) Oeuvre et production
 
@@ -112,17 +112,7 @@ Ne nous restera plus en mémoire, comme membre fantôme de l’amputé, que « l
 
 Avec en tête cependant, le regret de Brassens :
 
-{% epigraph « Auprès de mon arbre je vivais heureux
+{% epigraph "Auprès de mon arbre je vivais heureux
 J’aurais jamais dû m’éloigner de mon arbre
 Auprès de mon arbre je vivais heureux
-J’aurais jamais dû le quitter des yeux » 'Georges Brassens, *Auprès de mon arbre*' %}
-
-                                                                                                           
-
-
-
-
-
-
-
-
+J’aurais jamais dû le quitter des yeux" 'Georges Brassens, *Auprès de mon arbre*' %}
