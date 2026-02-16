@@ -720,7 +720,7 @@ body.dark-mode .article-index tr:hover a {
 @media (max-width: 1100px){
   .post-content{
     margin-left: 10%;
-    width: min(92ch, calc(100% - 10% - 2rem));
+    width: min(100ch, calc(100% - 10% - 2rem));
     padding-left: 0; /* plus besoin de gouttière */
   }
 
@@ -970,6 +970,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
