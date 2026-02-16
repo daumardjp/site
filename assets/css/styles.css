@@ -292,8 +292,8 @@ article.post-content h1 {
 .post-body {
   margin-top: 0em; /* Space between the title and the content */
   font-family: 'KarlsbaderGrotesk', sans-serif;
-  font-size: 1.15em;
-  line-height: 1.5em;
+  font-size: 1.2em;
+  line-height: 1.6em;
 }
 
 
@@ -868,6 +868,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
