@@ -4,6 +4,33 @@
   src: url('/assets/fonts/KarlsbaderGrotesk-400.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'Geograph';
+  src: url('/assets/fonts/geograph/Geograph-Edit-Regular.woff2') format('woff2'),
+       url('/assets/fonts/geograph/Geograph-Edit-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('/assets/fonts/geograph/Geograph-Edit-Italic.woff2') format('woff2'),
+       url('/assets/fonts/geograph/Geograph-Edit-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geograph';
+  src: url('/assets/fonts/geograph/Geograph-Edit-Bold.woff2') format('woff2'),
+       url('/assets/fonts/geograph/Geograph-Edit-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -56,7 +83,7 @@ header {
 
 .header-left h1,
 .header-right a {
-  font-family: 'KarlsbaderGrotesk', sans-serif;
+  font-family: 'Geograph', sans-serif;
   font-weight: normal;
   font-size: 1.3rem;
   color: #111;
@@ -121,7 +148,7 @@ header {
 /* Styles for the Menu and Contact links */
 .menu-button,
 .contact-button a {
-  font-family: 'KarlsbaderGrotesk', sans-serif;
+  font-family: 'Geograph', sans-serif;
   color: #111;
   text-decoration: none;
   margin: 1rem;
@@ -200,7 +227,7 @@ header {
   text-align: center; /* Center the text */
   color: #313130;
   margin: 0.1em 0; /* Spacing around the title and category */
-  font-family: 'KarlsbaderGrotesk', sans-serif;
+  font-family: 'Geograph', sans-serif;
   font-style: normal;
 }
 
@@ -250,7 +277,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .post-content h1 {
-  font-family: 'KarlsbaderGrotesk', sans-serif;
+  font-family: 'Geograph', sans-serif;
   font font-weight: normal;
   font-size: 1.3em; /* Adjust the size as needed 1.5 */
   margin-bottom: 1em; /* Space below the title */
@@ -286,13 +313,13 @@ article.post-content h1 {
 .post-category {
   position: absolute; /* Positions the category absolutely */
   left: 0; 
-  font-family: 'KarlsbaderGrotesk', sans-serif;
+  font-family: 'Geograph', sans-serif;
   font-size: 1.3em;
 }
 
 .post-body {
   margin-top: 0em; /* Space between the title and the content */
-  font-family: 'KarlsbaderGrotesk', sans-serif;
+  font-family: 'Geograph', sans-serif;
   font-size: 1.3em;
   line-height: 1.6em;
   letter-spacing: 0.015em;
@@ -413,7 +440,7 @@ footer {
 }
 
 .post-footer {
-    font-family: 'KarlsbaderGrotesk', sans-serif;
+    font-family: 'Geograph', sans-serif;
     text-align: center; /* Center the link */
     font-size: .9em;
     padding-top: 40px;
@@ -449,7 +476,7 @@ footer {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 20px; /* Space at the bottom of the table */
-  font-family: 'KarlsbaderGrotesk', sans-serif;
+  font-family: 'Geograph', sans-serif;
   font-size: 1em;
 }
 
@@ -870,6 +897,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
