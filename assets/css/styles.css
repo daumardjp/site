@@ -58,7 +58,7 @@ header {
 .header-right a {
   font-family: 'KarlsbaderGrotesk', sans-serif;
   font-weight: normal;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   color: #111;
   text-decoration: none;
   margin: 0; /* Remove default margins if any */
@@ -252,7 +252,7 @@ h1, h2, h3, h4, h5, h6 {
 .post-content h1 {
   font-family: 'KarlsbaderGrotesk', sans-serif;
   font font-weight: normal;
-  font-size: 1.2em; /* Adjust the size as needed 1.5 */
+  font-size: 1.3em; /* Adjust the size as needed 1.5 */
   margin-bottom: 1em; /* Space below the title */
   margin-top: 2em;
   counter-reset: sidenote-counter; /* Initializes the counter */
@@ -287,13 +287,13 @@ article.post-content h1 {
   position: absolute; /* Positions the category absolutely */
   left: 0; 
   font-family: 'KarlsbaderGrotesk', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.3em;
 }
 
 .post-body {
   margin-top: 0em; /* Space between the title and the content */
   font-family: 'KarlsbaderGrotesk', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.3em;
   line-height: 1.6em;
 }
 
@@ -869,6 +869,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
