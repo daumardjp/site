@@ -750,29 +750,35 @@ body.dark-mode .article-index tr:hover a {
 
   /* ✅ clé : ancre pour l’absolu */
   .post-header{
-    position: relative;
-    padding-right: 8ch;  /* réserve à droite pour la catégorie */
+    display: grid;
+    grid-template-columns: 1fr max-content;
+    column-gap: 1rem;
+    align-items: baseline;
     padding-left: 0 !important;
+    padding-right: 0 !important;
   }
+
 
   /* ✅ titre même ligne, sans marge haute */
   .post-content h1{
     margin: 0 !important;
     font-size: 1em;
     line-height: 1.35em;
+    min-width: 0;              /* autorise le shrink */
   }
+
 
   /* ✅ catégorie collée à droite, même baseline (top identique + même line-height) */
   .post-category{
-    position: absolute;
-    top: 0;
-    right: 0;
+    position: static;
+    margin: 0 !important;
     font-size: 1em;
     line-height: 1.35em;
-    text-align: right;
     white-space: nowrap;
-    margin: 0 !important;
+    justify-self: end;         /* collé à droite */
+    text-align: right;
   }
+
 
   .post-body {
     font-size: 1em;
@@ -885,6 +891,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
