@@ -44,6 +44,8 @@ Dans l’or du jour s’épanouit sa joie,<br />
 Ta même soif, qui gagne en profondeur,<br />
 Puise dans l’ombre, à la source des pleurs…" 'Paul Valéry, <em>Dialogue de l’Arbre</em>' %}
 
+<br/>
+
 D’emblée, l’essentiel, dans un vision traditionnelle de l’arbre : *AMOUR n’est rien qu’il ne croisse à l’extrême*.
 
 La « croissance » désigne bien non seulement la progression d’une activité en cours, d’une expansion et d’une maturation sans terme, sans limite et sans fin. À l’image de cette croissance « extrême » de l’amour affirmée par Tityre, la croissance de l’arbre, son désir d’expansion spatiale indéfinie, alimenté par une « soif toujours inassouvie ». Cette soif de croissance inassouvissable assez semblable, finalement, à celle qu’a pu connaître Rimbaud est le Désir même, dans son essence, métaphysique, ce que Rimbaud appelle « élan vers la perfection. »
@@ -83,7 +85,11 @@ Et l’arbre de la grâce est raciné profond<br />
 Et plonge dans le sol et cherche jusqu’au fond<br />
 Et l’arbre de la race est lui-même éternel" 'Charles Péguy' %}
 
+<br/>
+
 {% epigraph "Arbre dans l’âme aux racines de chair" 'Paul Valéry' %}
+
+<br/>
 
 2) Oeuvre et production
 
