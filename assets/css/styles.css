@@ -323,14 +323,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .post-content h1 {
   font-family: 'Geograph', sans-serif;
-  font font-weight: normal;
-  font-size: 1.4em; /* Adjust the size as needed 1.5 */
-  margin-bottom: 1em; /* Space below the title */
+  font-weight: normal;
+  font-size: 1.4em;
+  margin-bottom: 1em;
   margin-top: 2em;
-  counter-reset: sidenote-counter; /* Initializes the counter */
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
+  counter-reset: sidenote-counter;
+  text-decoration: none;
 }
+
 
 article.post-content h1 {
   font-weight: normal;
@@ -359,7 +359,7 @@ article.post-content h1 {
   position: absolute; /* Positions the category absolutely */
   left: 0; 
   font-family: 'Geograph', sans-serif;
-  font-size: 1.3em;
+  font-size: 1.4em;
 }
 
 .post-body{
@@ -738,9 +738,9 @@ body.dark-mode .article-index tr:hover a {
   .post-category{
     position: static;
     display: block;
-    font-size: 1em;
-    margin-bottom: .2rem;
+    font-size: 1.4em;
   }
+
 }
 
 
@@ -976,6 +976,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
