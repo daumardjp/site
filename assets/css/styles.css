@@ -749,7 +749,6 @@ body.dark-mode .article-index tr:hover a {
     margin: 10px 0;
   }
 
-  /* Colonne article */
   .post-content{
     width: 100% !important;
     max-width: 100% !important;
@@ -759,7 +758,6 @@ body.dark-mode .article-index tr:hover a {
     padding-right: 0 !important;
   }
 
-  /* Header : catégorie à droite du titre */
   .post-header{
     display: grid;
     width: 100%;
@@ -770,7 +768,6 @@ body.dark-mode .article-index tr:hover a {
     padding: 0;
   }
 
-  
   .post-header h1{
     grid-column: 1;
     grid-row: 1;
@@ -780,8 +777,6 @@ body.dark-mode .article-index tr:hover a {
     min-width: 0;
   }
 
-
-  /* Catégorie : même ligne, collée à droite, pas d'absolu */
   .post-category{
     grid-column: 2;
     grid-row: 1;
@@ -905,6 +900,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
