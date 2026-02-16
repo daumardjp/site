@@ -227,7 +227,7 @@ header {
 .post-content {
   position: relative;
   
-  width: 70ch;
+  width: 80ch;
   margin-left: 18%;
   margin-right: auto;
   
@@ -868,6 +868,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
