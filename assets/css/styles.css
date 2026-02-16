@@ -289,13 +289,15 @@ header {
 
 .post-content{
   position: relative;
-  width: min(100ch, calc(100% - 18% - 2rem)); /* limite + évite débordement */
+  width: 100ch;
   margin-left: 18%;
   margin-right: auto;
   margin-top: 2em;
 
-  padding-left: 9ch; /* réserve la place du label de catégorie */
+  padding-left: 10ch;                 /* réserve catégorie */
+  max-width: calc(100% - 18% - 2rem); /* évite de déborder */
 }
+
 
 
 
@@ -719,18 +721,22 @@ body.dark-mode .article-index tr:hover a {
 
 @media (max-width: 1100px){
   .post-content{
-    margin-left: 10%;
     width: min(100ch, calc(100% - 10% - 2rem));
-    padding-left: 0; /* plus besoin de gouttière */
+    margin-left: 10%;
+    padding-left: 0; /* on évite la collision en repassant la catégorie dans le flux */
+  }
+
+  .post-body{
+    font-size: 1.22em;   /* ↓ */
+    line-height: 1.42em; /* ↓ */
   }
 
   .post-header{
     position: static;
     margin-bottom: .6rem;
   }
-
   .post-category{
-    position: static;   /* passe dans le flux */
+    position: static;
     display: block;
     font-size: 1em;
     margin-bottom: .2rem;
@@ -970,6 +976,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
