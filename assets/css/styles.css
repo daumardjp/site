@@ -349,6 +349,7 @@ article.post-content h1 {
   font-family: 'Geograph', sans-serif;
   font-size: 1.4em;
   line-height: 1.55em;
+  letter-spacing: 0.010em; 
 }
 
 
@@ -923,6 +924,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
