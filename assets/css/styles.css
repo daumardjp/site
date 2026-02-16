@@ -348,8 +348,7 @@ article.post-content h1 {
   margin-top: 0em; /* Space between the title and the content */
   font-family: 'Geograph', sans-serif;
   font-size: 1.4em;
-  line-height: 1.6em;
-  letter-spacing: 0.015em;
+  line-height: 1.55em;
 }
 
 
@@ -924,6 +923,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
