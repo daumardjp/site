@@ -646,7 +646,7 @@ body.dark-mode .article-index tr:hover a {
 /* =========================
    GRAND DESKTOP (texte réduit)
 ========================= */
-@media (min-width: 1300px){
+@media (max-width: 1300px){
 
   html{
     font-size: 14px;   /* plus petit que la base actuelle */
@@ -962,6 +962,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
