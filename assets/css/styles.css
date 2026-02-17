@@ -690,7 +690,7 @@ body.dark-mode .article-index tr:hover a {
 /* =========================
    PRE-MOBILE (évite collision)
 ========================= */
-@media (max-width: 1000px){
+@media (max-width: 1024px){
 
   /* même alignement gauche pour header + corps */
   .post-content{
@@ -701,33 +701,38 @@ body.dark-mode .article-index tr:hover a {
   }
 
   .post-header{
-    display: grid;
-    grid-template-columns: 1fr auto;
-    align-items: start;
-    column-gap: 1rem;
+    display: flex;
+    align-items: baseline;          /* ✅ aligne sur la 1ère ligne du h1 */
+    justify-content: space-between; /* h1 à gauche, catégorie à droite */
+    gap: 1rem;
     min-height: 0;
   }
 
   .post-header h1{
-    grid-column: 1;
-    justify-self: start;            /* ✅ force à gauche dans la grille */
-    text-align: left;
-    line-height: 1.42em;
+    flex: 1 1 auto;
+    min-width: 0;
 
     margin-left: 0 !important;
     margin-right: 0 !important;
-    width: auto !important;         /* ✅ annule 100ch desktop si besoin */
-    max-width: 100% !important;
-    min-width: 0;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+
+    width: auto !important;
+    max-width: none !important;
+
+    text-align: left;
+    line-height: 1.42em;
   }
 
   .post-category{
-    grid-column: 2;
+    flex: 0 0 auto;
+
     position: static !important;
-    justify-self: end;
     margin: 0 !important;
+
     white-space: nowrap;
     display: inline-block;
+    text-align: right;
     line-height: 1.42em;
   }
 }
@@ -977,6 +982,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
