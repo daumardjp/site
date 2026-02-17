@@ -692,50 +692,50 @@ body.dark-mode .article-index tr:hover a {
 ========================= */
 @media (max-width: 1024px){
 
-  /* même alignement gauche pour header + corps */
+  /* corps : plus de marge gauche */
   .post-content{
     margin-left: 0 !important;
-    margin-right: 12rem;            /* mets 0 si tu veux aussi supprimer cette marge */
+    margin-right: 12rem;      /* mets 0 si tu veux “comme 650px” */
     width: 100ch;
     max-width: calc(100% - 4rem);
   }
 
+  /* header doit suivre le même cadre horizontal que le corps */
   .post-header{
-    display: flex;
-    align-items: baseline;          /* ✅ aligne sur la 1ère ligne du h1 */
-    justify-content: space-between; /* h1 à gauche, catégorie à droite */
-    gap: 1rem;
-    min-height: 0;
+    position: relative;
+    max-width: calc(100% - 4rem);
+    margin: 0 0 1em 0;
   }
 
+  /* h1 : même colonne que le corps */
   .post-header h1{
-    flex: 1 1 auto;
-    min-width: 0;
+    width: 100ch;
+    max-width: 100%;
+    margin: 0 !important;
 
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
-
-    width: auto !important;
-    max-width: none !important;
+    /* réserve à droite pour la catégorie (hors flux) */
+    padding-right: 12ch;
 
     text-align: left;
     line-height: 1.42em;
+    min-width: 0;
   }
 
+  /* catégorie : à droite, hors flux (ne rétrécit pas le h1) */
   .post-category{
-    flex: 0 0 auto;
+    position: absolute !important;
+    right: 0;
+    left: auto !important;
+    top: 0;
 
-    position: static !important;
     margin: 0 !important;
-
     white-space: nowrap;
-    display: inline-block;
     text-align: right;
     line-height: 1.42em;
+    display: inline-block;
   }
 }
+
 
 
 /* =========================
@@ -982,6 +982,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
