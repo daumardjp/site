@@ -8,39 +8,35 @@ Define the mapping from English to French month names
 {% endcomment %}
 {% assign months_en_to_fr = "January:Janvier,February:Février,March:Mars,April:Avril,May:Mai,June:Juin,July:Juillet,August:Août,September:Septembre,October:Octobre,November:Novembre,December:Décembre" | split: "," %}
 
-<main class="content">
-  <div class="content-top-divider"></div>
-
-  <table class="article-index">
-    <thead>
+<table class="article-index">
+  <thead>
+    <tr>
+      <th id="sort-number" class="sort-arrow-down">Numéro</th>
+      <th id="sort-category">Catégorie</th>
+      <th id="sort-title">Titre</th>
+      <th id="sort-date">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign total_posts = site.posts | size %}
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts %}
       <tr>
-        <th id="sort-number" class="sort-arrow-down">Numéro</th>
-        <th id="sort-category">Catégorie</th>
-        <th id="sort-title">Titre</th>
-        <th id="sort-date">Date</th>
+        <td>{{ total_posts | minus: forloop.index0 }}</td>
+        <td>{{ post.category | default: "Uncategorized" }}</td>
+        <td><a href="{{ post.url | relative_url }}">{{ post.title }}</a></td>
+        <td>
+          {% assign month_year = post.date | date: "%B %Y" %}
+          {% for month_map in months_en_to_fr %}
+            {% assign month_pair = month_map | split: ":" %}
+            {% if month_year contains month_pair[0] %}
+              {% assign month_year = month_year | replace: month_pair[0], month_pair[1] %}
+            {% endif %}
+          {% endfor %}
+          {{ month_year }}
+        </td>
       </tr>
-    </thead>
-    <tbody>
-      {% assign total_posts = site.posts | size %}
-      {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-      {% for post in sorted_posts %}
-        <tr>
-          <td>{{ total_posts | minus: forloop.index0 }}</td>
-          <td>{{ post.category | default: "Uncategorized" }}</td>
-          <td><a href="{{ post.url | relative_url }}">{{ post.title }}</a></td>
-          <!-- Translate and format the date -->
-          <td>
-            {% assign month_year = post.date | date: "%B %Y" %}
-            {% for month_map in months_en_to_fr %}
-              {% assign month_pair = month_map | split: ":" %}
-              {% if month_year contains month_pair[0] %}
-                {% assign month_year = month_year | replace: month_pair[0], month_pair[1] %}
-              {% endif %}
-            {% endfor %}
-            {{ month_year }}
-          </td>
-        </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-</main>
+    {% endfor %}
+  </tbody>
+</table>
+
