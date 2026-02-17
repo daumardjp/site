@@ -2,22 +2,33 @@
 layout: default
 ---
 
-<div class="post-header">
-  {% if page.category %}
-    <span class="post-category">{{ page.category }}</span>
-  {% endif %}
-</div>
+<article class="post-article">
 
-<article class="post-content post-carnet">
-  <h1>{{ page.title }}</h1>
-
-  <div class="carnet-gallery">
-    {% for src in page.images %}
-      <figure class="carnet-figure">
-        <a href="{{ src | relative_url }}" data-lightbox="carnet" data-index="{{ forloop.index0 }}">
-          <img class="carnet-img" src="{{ src | relative_url }}" alt="">
-        </a>
-      </figure>
-    {% endfor %}
+  <div class="post-header">
+    {% if page.category %}
+      <span class="post-category">{{ page.category }}</span>
+    {% endif %}
+    <h1>{{ page.title }}</h1>
   </div>
+
+  <div class="post-content">
+    <div class="post-body">
+
+      <div class="carnet-gallery">
+        {% for src in page.images %}
+          <figure class="carnet-figure">
+            <a href="{{ src | relative_url }}" data-lightbox="carnet" data-index="{{ forloop.index0 }}">
+              <img class="carnet-img" src="{{ src | relative_url }}" alt="">
+            </a>
+          </figure>
+        {% endfor %}
+      </div>
+
+    </div>
+
+    <div class="post-footer">
+      <a href="#top">Haut de page</a>
+    </div>
+  </div>
+
 </article>
