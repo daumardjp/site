@@ -103,7 +103,7 @@ body {
 header {
   position: relative;
   border-bottom: 1px solid rgba(0,0,0,0.55);
-  padding-bottom: 60px; 
+  padding-bottom: 160px; 
 }
 
 .header-top {
@@ -270,7 +270,7 @@ header {
 /* Header */
 .post-header{
   position: relative;
-  margin-top: 1em;
+  margin-top: .5em;
   margin-bottom: 1em;
 }
 
@@ -1004,6 +1004,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
