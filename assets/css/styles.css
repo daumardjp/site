@@ -680,11 +680,13 @@ body.dark-mode .article-index tr:hover a {
   }
 
   .post-header{
-  position: relative;
-  max-width: calc(100% - 4rem);
-  margin: 0 0 1em 0;
-  min-height: 1.42em;
-}
+    position: relative;
+    width: 100%;          /* ✅ prend toute la largeur dispo (dans le container) */
+    max-width: none;      /* ✅ enlève l’inset artificiel */
+    margin: 0 0 1em 0;
+    min-height: 1.42em;
+  }
+
 
   .post-category{
     font-family: 'Geograph', sans-serif;
@@ -948,6 +950,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
