@@ -57,7 +57,7 @@ Une telle croissance de l’arbre, une telle expansion, occupation de l’espace
 
 Or c’est de l’arbre que Deleuze est fatigué car l’arbre, « image du monde », fait encore de ce monde un « cosmos » alors que le monde, dit-il, « est devenu chaos », à l’image du rhizome, « tige souterraine » qui tisse une toile, se ramifie en tous sens et par multiples connexions « jusqu’à ses concrétions en bulbes et tubercules », tout cela de manière anarchique (surtout pas « hiérarchique » !), dispersée, avec pour horizon une simple « ligne de fuite ». Le rhizome, multiplicité éclatée sans limite et surtout sans unité, est tout sauf « l’intériorité d’une substance ou d’un sujet ».
 
-Soit, et c’est qu’alors on a définitivement évacué l’idée d’un *ordre* cosmique, qu’on a même évacué l’idée d’un ordre quelconque (tout n’étant plus, écrit Deleuze, qu’agencement de hasard) et qu’on a faite sienne l’idée post-nietzschéenne de « la mort de l’homme » après celle de Dieu, de la disparition du « sujet » et de l’ »intériorité » donc de tout dualisme (ontologique, axiologique) et de la possibilité même qu’il y ait du *sens*…
+Soit, et c’est qu’alors on a définitivement évacué l’idée d’un *ordre* cosmique, qu’on a même évacué l’idée d’un ordre quelconque (tout n’étant plus, écrit Deleuze, qu’agencement de hasard) et qu’on a faite sienne l’idée post-nietzschéenne de « la mort de l’homme » après celle de Dieu, de la disparition du « sujet » et de l’ « intériorité » donc de tout dualisme (ontologique, axiologique) et de la possibilité même qu’il y ait du *sens*…
 
 Or pour Tityre encore, et pour Lucrèce, l’Arbre continue de faire sens.
 Il le peut de par sa dualité centrée qui s’impose à la contemplation de l’un comme de l’autre, qui aboutira chez l’un comme chez l’autre, à s’identifier à son être.
@@ -127,6 +127,7 @@ Avec en tête cependant, le regret de Brassens :
 J’aurais jamais dû m’éloigner de mon arbre<br />
 Auprès de mon arbre je vivais heureux<br />
 J’aurais jamais dû le quitter des yeux" 'Georges Brassens, <em>Auprès de mon arbre</em>' %}
+
 
 
 
