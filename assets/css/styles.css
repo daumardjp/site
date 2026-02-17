@@ -264,6 +264,7 @@ header {
 
 .post-article{
   position: relative;
+  counter-reset: sidenote-counter;
 }
 
 /* Header */
@@ -863,7 +864,24 @@ body.dark-mode .article-index tr:hover a {
     font-size: 0.7em;
   }
 
-  .sidenote, .marginnote { display: none; }
+  /* Mobile notes: cachées par défaut, affichées via checkbox */
+  .sidenote, .marginnote{
+    display: none;
+    float: none;
+    clear: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+  
+  /* le numéro reste cliquable */
+  .sidenote-number{ cursor: pointer; }
+  
+  /* règle de toggle (Tufte-style) */
+  .margin-toggle:checked + .sidenote-number + .sidenote,
+  .margin-toggle:checked + .marginnote{
+    display: block;
+  }
+
 
   .epigraph blockquote { font-size: .9em; }
 
@@ -962,6 +980,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
