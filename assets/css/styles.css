@@ -292,8 +292,8 @@ header {
 
 /* Titre : même colonne que le corps (18% + 100ch) */
 .post-header h1{
-  width: min(100ch, calc(85vw - 18%));
-  max-width: 100%;
+  width: 100ch;
+  max-width: calc(75vw - 20rem);
   margin-left: 18%;
   margin-right: 20rem;
   margin-top: 0;
@@ -310,8 +310,8 @@ header {
 /* Colonne principale (corps + footer) */
 .post-content{
   position: relative;
-  width: min(100ch, calc(85vw - 18%));
-  max-width: 100%;
+  width: 100ch;
+  max-width: calc(75vw - 20rem);
   margin-left: 18%;
   margin-right: 20rem;
 }
@@ -962,6 +962,7 @@ body.dark-mode .article-index tr:hover a {
   text-align:center;
   user-select:none;
 }
+
 
 
 
