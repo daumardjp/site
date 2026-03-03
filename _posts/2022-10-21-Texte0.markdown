@@ -1,16 +1,11 @@
 ---
 layout: post
-title:  "La rime, à quoi ça rime ?"
+title:  "Rime et Raison : À quoi ça rime, la rime ?"
 category: "Essai"
 author : "Jean-Pierre Daumard"
 keywords: "poésie, rime, rythme, versification, mémoire, histoire, métaphysique, modernité, langage, mètre" 
 image: "/assets/img/portrait.jpg"
 ---
-
-
-<br/>
-
-Rime et Raison : À quoi ça rime, la rime ?
 
 <br/>
 
@@ -36,6 +31,7 @@ où un beau vers ne rime à rien" 'Jules Renard' %}
 <br/>
 
 1)
+<br/>
 <br/>
 
 « À quoi ça rime? »: expression familière qui signifie: quel est le sens, la cohérence, voire l’intérêt de ceci ou de cela, en l’occurrence de faire des rimes (et peut-être aussi, pour commencer, à quoi ça rime de s’intéresser à la rime?)
@@ -568,6 +564,7 @@ Litanie" 'Réda, « L’instant »' %}
 
 2)                                                                           - -O- -
 
+<br/>
 <br/>
 
 Or ce jeu a fini par lasser.  Le primat de la rime à partir de quoi le poème s’organise a été dénoncé comme un vain artifice. Entre autre par A. Karr, pour qui « chercher, disposer, aligner les rimes, si riches » fait que « les vers en étaient ruinés et pauvres car « on remplissait le reste du vers avec ce qu’on pouvait. »
