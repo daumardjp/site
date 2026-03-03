@@ -10,7 +10,7 @@ image: "/assets/img/portrait.jpg"
 
 <br/>
 
-Rime et Raion : À quoi ça rime, la rime ?
+Rime et Raison : À quoi ça rime, la rime ?
 
 <br/>
 
