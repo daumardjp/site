@@ -632,7 +632,7 @@ Pour Vigny « toute démocratie est un désert de sable », les Constitutions ne
 
 Le poète a perdu, à l’âge prosaïque de la démocratie (la « tyrannie démocratique » dira Apollinaire !), à l’âge de la technique et de l’argent, tout à la fois la circularité de son « auréole » (son aura) et la circularité des rimes.
 
-Dés lors :
+Dès lors :
 
 <br/>
 
@@ -660,20 +660,20 @@ Le monde est devenu « une route interminable où l’on se perd », sur laquell
 
 <br/>
 
-« Quand la raison ne tient plus à la rime », dit encore Reverdy (Voyage en Grèce), il n’y a plus qu’à lâcher les amarres; le poète désormais, s’en va « seul », « dans l’ombre sans écho » ( Comme on change)
+« Quand la raison ne tient plus à la rime », dit encore Reverdy (Voyage en Grèce), il n’y a plus qu’à lâcher les amarres; le poète désormais, s’en va « seul », « dans l’ombre sans écho » (Comme on change)
 
-Le poème,  est 
+Le poème, est 
 
 <br/>
 
 {% epigraph "lâché comme un chien<br/>
 Débridé qui court à droite et à gauche flairant tournant cherchant<br/>
 La rime<br/>
-Tombée à terre et cela fait un joli désastre…" 'Aragon, <em>Le roman inachevé</em>' %}
+Tombée à terre et cela fait un joli désastre …" 'Aragon, <em>Le roman inachevé</em>' %}
 
 <br/>
 
-Désastre de la rime, en effet, à entendre en son sens fort, étymologique: chute de l’astre!…
+Désastre de la rime, en effet, à entendre en son sens fort, étymologique: chute de l’astre ! …
 
 Cette époque qui ne rime plus à rien, c’est l’époque du nihilisme, qui « ne cherche plus à revenir à soi », comme l’avait bien repéré Nietzsche dans un texte qui date de 1888:
 
@@ -685,19 +685,19 @@ Cette époque qui ne rime plus à rien, c’est l’époque du nihilisme, qui «
 
 Et cela, pour Bataille, jusque’à vouloir « effacer la trace de (ses) pas ». Tristan Tzara, lui, reprendra de Descartes cette phrase: « Je ne veux même pas savoir qu’il y a eu des hommes avant moi »
 
-« Du passé faisons table rase! »: tel va devenir le mot d’ordre révolutionnaire de toute avant-garde.
+« Du passé faisons table rase ! »: tel va devenir le mot d’ordre révolutionnaire de toute avant-garde.
 
-La « tyrannie démocratique » et la guerre civile européenne (1914-1945, cf. Les analyses d’Enzo Traverso), sonnent le glas de l’Orphie du bestiaire d’Apollinaire, de « la voix que la lumière fit entendre / t dont parle Hermès Trismégiste en son Pimandre », de l’Orphée sublime et christique, « Ce beau poisson divin qu’est JÉSUS, Mon Sauveur. »
+La « tyrannie démocratique » et la guerre civile européenne (1914-1945, cf. Les analyses d’Enzo Traverso), sonnent le glas de l’Orphée du bestiaire d’Apollinaire, de « la voix que la lumière fit entendre / et dont parle Hermès Trismégiste en son Pimandre », de l’Orphée sublime et christique, « Ce beau poisson divin qu’est JÉSUS, Mon Sauveur. »
 
 À l’Orphée qui pouvait tout charmer, jusqu’aux bêtes sauvages, s’est substituée la sauvagerie d’un monde abandonné, d’où l’Idéal a été congédié.
 
-Le poète américain Walt Whitman, dans son projet de « grand psaume de la république » veut en finir « avec ces poèmes en vers » et donc avec la rime…
+Le poète américain Walt Whitman, dans son projet de « grand psaume de la république » veut en finir « avec ces poèmes en vers » et donc avec la rime …
 
 Il y a désormais comme un embourbement dans la contingence pure :
 
 <br/>
 
-{% epigraph "Nos certitudes? Ce jour est le jour.<br/>
+{% epigraph "Nos certitudes ? Ce jour est le jour.<br/>
 Cette heure l’heure, ce moment le moment, cela<br/>
 Ce que nous sommes, voilà tout.<br/>
 S’écoule, pérenne, cette heure interminable<br/>
@@ -718,23 +718,23 @@ S’accumule dans l’espace." 'Toge Sankichi, <em>Poème de la bombe atomique</
 
 <br/>
 
-Aragon lui-même, fait dire à Boabdil,après le désastre de Grenade : « rien ne m’est plus rimé » , le poète « a oublié la rime d’or »…
+Aragon lui-même, fait dire à Boabdil, après le désastre de Grenade : « rien ne m’est plus rimé », le poète « a oublié la rime d’or » …
 
 Pour J. Dupin, au lendemain de la guerre deviennent impossibles aussi bien le lyrisme rimé des chants de la Résistance que le flamboiement surréaliste:
 
 <br/>
 
-{% epigraph "D’un côté la cavalcade de la rose et du réséda (Aragon clairement visé), des cadences composées pour la nuit et le coude à coude de la Résistance; mais qui, à ciel ouvert, s’étiolaient, sonnaient le creux, perdaient le souffle… Et de l’autre côté, le refus des ultimes fleurs harassées du surréalisme, les reliefs d’un festin ancien, les brandons refroidis de la fête…" 'J. Dupin' %}
+{% epigraph "D’un côté la cavalcade de la rose et du réséda (Aragon clairement visé), des cadences composées pour la nuit et le coude à coude de la Résistance; mais qui, à ciel ouvert, s’étiolaient, sonnaient le creux, perdaient le souffle … Et de l’autre côté, le refus des ultimes fleurs harassées du surréalisme, les reliefs d’un festin ancien, les brandons refroidis de la fête …" %}
 
-Encore une fois: « Du passé faisons table rase! » et depuis le « futurisme » déjà  la nouvelle religion est celle de la vitesse. En avant, aussi vite que possible, et sans se retourner! Dans l’irréligion futuriste de Marinetti, « Divinité » avait déjà été remplacée par « Vélocité »: ligne droite de la vitesse, en accord avec une conception du « temps homogène », linéaire, analysé par Benjamin comme par Péguy.
+Encore une fois: « Du passé faisons table rase ! » et depuis le « futurisme » déjà  la nouvelle religion est celle de la vitesse. En avant, aussi vite que possible, et sans se retourner ! Dans l’irréligion futuriste de Marinetti, « Divinité » avait déjà été remplacée par « Vélocité » : ligne droite de la vitesse, en accord avec une conception du « temps homogène », linéaire, analysé par Benjamin comme par Péguy.
 
-C’est  ce qu’avait commencé de faire Rimbaud qui « allait être pris comme signe de ralliement de l’oubli » (P; Muray)
+C’est ce qu’avait commencé de faire Rimbaud qui « allait être pris comme signe de ralliement de l’oubli » (P. Muray)
 
 La philosophie postmoderne de la déconstruction reprendra à son compte cet éloge, sinon de la vitesse, du moins du mouvement pour le mouvement, un mouvement qui jamais ne cesse, sans origine ni fin, sous le concept omniprésent de « nomadisme », « affirmation de la vie nomade » (Blanchot) ou de « destinerrance » (Derrida).
 
-La rime, on l’a vu, suscite la comparaison, l’analogie, le retour. Or, l’analogie étant raisonnement métaphysique par excellence , est forcément, pour un philosophe comme Feleuze, à déconstruire.  Il en va de même pour la rime évidemment. 
+La rime, on l’a vu, suscite la comparaison, l’analogie, le retour. Or, l’analogie étant raisonnement métaphysique par excellence, est forcément, pour un philosophe comme Deleuze, à déconstruire. Il en va de même pour la rime évidemment. 
 
-À peine d’ailleurs si l’on peut encore escompter le retour de l « ’aurore » !(Dubouchet)…
+À peine d’ailleurs si l’on peut encore escompter le retour de l’ «aurore » ! (Dubouchet) …
 
 S’il n’y a plus de pulsation du monde, il n’y a plus non plus de pulsation rythmique, de pulsation rimée, bref,
 
@@ -760,9 +760,9 @@ La voix se tait " 'Reverdy, <em>Sable mouvant</em>' %}
 
 <br/>
 
-Arrivés à un point extrême de désenchantement, tout se défait: le chant, le vers, la rime, qui ne rime plus à rien:
+Arrivés à un point extrême de désenchantement, tout se défait : le chant, le vers, la rime, qui ne rime plus à rien:
 
-De même pour un poète comme J. Dupin, , à rebours des liaisons de la rime, sa parole poétique n’est plus que « brèche dans le mur » (les Brisants) , celle de Du Bouchet n’est plus qu’émiettement, dispersion…
+De même pour un poète comme J. Dupin, à rebours des liaisons de la rime, sa parole poétique n’est plus que « brèche dans le mur » (les Brisants), celle de Du Bouchet n’est plus qu’émiettement, dispersion …
 
 La voix lyrique de naguère, emportée par le rythme et la rime, s’est éteinte. « La mémoire a perdu son pas de manivelle » écrit Reverdy, et sous la forme d’un alexandrin, comme pour mieux le congédier et congédier la rime avec lui. Restent les mots précieux d’une langue morte :
 
@@ -794,17 +794,17 @@ Et dans cet avenir lourd comme un soir sans lampe<br/>
 Aucun signe de main<br/>
 Pas un froissement d’aile<br/>
 Rien<br/>
-Pas même un écho " 'Du Bouchet' %}
+Pas même un écho" 'Du Bouchet' %}
 
 <br/>
 
-Plus de sens dans tous les sens du terme (direction et signification, « écho » donc correspondance), tout cela encore vécu sur le mode d’une perte, ce qui ne sera plus du tout le cas avec un Deleuze qui semble plutôt se réjouir qu’après « l’effondrement central », « aucune ligne ne sépare la terre et le ciel, qui sont de même substance; il n’y a plus d’horizon, de fond, ni perspective, ni limite, ni contour ou forme, ni centre »…
+Plus de sens dans tous les sens du terme (direction et signification, « écho » donc correspondance), tout cela encore vécu sur le mode d’une perte, ce qui ne sera plus du tout le cas avec un Deleuze qui semble plutôt se réjouir qu’après « l’effondrement central », « aucune ligne ne sépare la terre et le ciel, qui sont de même substance; il n’y a plus d’horizon, de fond, ni perspective, ni limite, ni contour ou forme, ni centre » …
 
-Voilà bien cette époque de « consentement au néant » cette époque où le « sens ontologique »(Boutang) est perdu.
+Voilà bien cette époque de « consentement au néant » cette époque où le « sens ontologique » (Boutang) est perdu.
 
 Plus de rimes bien entendu et la parole poétique elle-même est « comme décolorée par la rapidité avec laquelle elle s’éloigne de la circonstance qui lui avait conféré un semblant de signification. Si loin qu’elle apparaît nette de passé, qu’on la retrouve au devant de soi comme non avenue, son point d’origine ne se laissant localiser que dans l’instant, et dans un instant qui la dessaisit, coup après coup, et nous ne quittons pas ce ciel, à un pouce du sol où nous sommes établis. »  (Du Bouchet)
 
-« …ciel à un pouce du sol »: finie toute idée de transcendance bien évidemment ! Contingence! Contingence!  
+« … ciel à un pouce du sol »: finie toute idée de transcendance bien évidemment ! Contingence! Contingence !  
 
 Autant dire que la disparition de la rime est le triomphe de la mort.
 
@@ -820,35 +820,35 @@ Peut-être est-ce bientôt mon tour<br/>
 <br/>
 Le messager de mort<br/>
 <br/>
-Sur mes lèvres soudain va suspendre la rime." 'Chénier' %}
+Sur mes lèvres soudain va suspendre la rime." %}
 
 <br/>
 
-La rime, comme rythme (ruthmos) est forme car la forme, comme disait Valéry est « essentiellement répétition ».. Elle participe d’une conception encore architectonique de l’art. Or c’est bien ce concept central d’archè que l’esthétique et la philosophie contemporaines rejettent en bloc. C’est ce que B. Rappin expose clairement dans ce qu’il appelle la « stratégie générale de la déconstruction »: au centre de la métaphysique qu’il s’agirait désormais de déconstruire est « la notion grecque d’archè, qui signifie à la fois le commencement et le commandement et surtout, la nécessaire relation qui se tisse entre les deux. » Il s’agit alors désormais de mettre en doute l’origine et  l’autorité d’une parole souveraine. D’où le parti-pris de l’an-archie dans la démarche déconstructionniste qui expose une pensée « sans origine ni autorité ». (Abécédaire de la déconstruction)
+La rime, comme rythme (ruthmos) est forme car la forme, comme disait Valéry est « essentiellement répétition » ... Elle participe d’une conception encore architectonique de l’art. Or c’est bien ce concept central d’*archè* que l’esthétique et la philosophie contemporaines rejettent en bloc. C’est ce que B. Rappin expose clairement dans ce qu’il appelle la « stratégie générale de la déconstruction » : au centre de la métaphysique qu’il s’agirait désormais de déconstruire est « la notion grecque d’archè, qui signifie à la fois le commencement et le commandement et surtout, la nécessaire relation qui se tisse entre les deux. » Il s’agit alors désormais de mettre en doute l’origine et l’autorité d’une parole souveraine. D’où le parti-pris de l’an-archie dans la démarche déconstructionniste qui expose une pensée « sans origine ni autorité ». (*Abécédaire de la déconstruction*)
 
-Loin de Cratyle qui voyait dans les mots comme une émanation de l’être, nous sommes depuis au moins le linguiste Saussure, dans une affirmation de l’arbitraire du signe, n’importe quel « signifiant » renvoyant à tel « signifié », dans la seul nécessité de distinguer et sans tenir compte de l’ »intention de signifier », donc sans tenir compte des « idées » bref, sans tenir compte le moins du monde de la « genèse ontologique » du langage (Boutang)
+Loin de Cratyle qui voyait dans les mots comme une émanation de l’être, nous sommes depuis au moins le linguiste Saussure, dans une affirmation de l’arbitraire du signe, n’importe quel « signifiant » renvoyant à tel « signifié », dans la seul nécessité de distinguer et sans tenir compte de l’ « intention de signifier », donc sans tenir compte des « idées » bref, sans tenir compte le moins du monde de la « genèse ontologique » du langage (Boutang).
 
 Dans cet acharnement presque masochiste à « déconstruire » la poésie et la culture qu’elle incarnait, on retiendra ce règlement de compte de la « poésie », assez cyniquement rageur, de Christian Prigent :
 
 <br/>
 
-{% epigraph "… poésie, c’est crevé, perle de la pensée bourgeoise, idéalisme absolu, gros mollets rhétoriques, tête au ciel des paradis perdus, sphincters bouchés, obsession du sans trou " 'Christian Prigent' %}
+{% epigraph "… poésie, c’est crevé, perle de la pensée bourgeoise, idéalisme absolu, gros mollets rhétoriques, tête au ciel des paradis perdus, sphincters bouchés, obsession du sans trou" %}
 
 Et à partir de là, il proposait, pour atteindre un « réalisme intégral », d’aller jusqu’à défaire « la régulation symbolique de la langue en répétant et scandant ce qu’il appelle la « nov-langue » ou le « patmo » (pâte-mot de la langue médiatique mazouteuse) ou idiolecte médiatique » « idiotement mastiqué par les contemporains » (J.M. Maulpoix)
 
-Dieu merci Michel Deguy ne va quand même pas jusque là puisqu’il n’envisage pas toucher aux structures de la langue: « Pas d’attentat, dit-il. Le terrorisme a tort ».
+Dieu merci Michel Deguy ne va quand même pas jusque là puisqu’il n’envisage pas toucher aux structures de la langue : « Pas d’attentat, dit-il. Le terrorisme a tort ».
 
-On reconnaît aisément dans cette décontraction de la rime en poésie, tout comme dans la décontraction de la tonalité en musique, dans ce rejet progressif d’un sens et d’un centre, dans le rejet d’une remontée vers l’origine ou vers le soleil de l’être, le rejet de ce que Derrida appellera « logocentrisme » ou « phonologisme » (puis, au plan politique, « européocentrisme »), qui conduisent à coup sûr à la détestation de soi, si générale et constante aujourd’hui…
+On reconnaît aisément dans cette déconstruction de la rime en poésie, tout comme dans la déconstruction de la tonalité en musique, dans ce rejet progressif d’un sens et d’un centre, dans le rejet d’une remontée vers l’origine ou vers le soleil de l’être, le rejet de ce que Derrida appellera « logocentrisme » ou « phonologisme » (puis, au plan politique, « européocentrisme »), qui conduisent à coup sûr à la détestation de soi, si générale et constante aujourd’hui …
 
 À propos de la déconstruction musicale elle-même qu’est la musique sérielle, Levi Strauss a très judicieusement écrit ceci:
 
 <br/>
 
-{% epigraph "Bateau sans voilure que son capitaine, lassé qu’il serve de ponton aurait lancé en haute mer, dans l’intime persuasion qu’en soumettant la vie du bord aux règles d’un minutieux protocole, il détournera l’équipage de la nostalgie d’un port d’attache et du soin d’une destination." 'Levi Strauss' %}
+{% epigraph "Bateau sans voilure que son capitaine, lassé qu’il serve de ponton aurait lancé en haute mer, dans l’intime persuasion qu’en soumettant la vie du bord aux règles d’un minutieux protocole, il détournera l’équipage de la nostalgie d’un port d’attache et du soin d’une destination." %}
 
 <br/>
 
-La déconstruction de la rime n’est pas seulement suppression de tout espoir de retour à son « port d’attache », elle est aussi déconstruction de la musique tonale du vers, faite de l’anticipation des sons qui s’enchaînent selon une ligne mélodique et comme autour de ce que J.F. Mattei appelle « centre tonal ». C’est en quoi elle répond à une nécessité architectonique (et pas seulement chronologique) du sens. Wagner, dans Opéra et Drame a pu ainsi écrire:
+La déconstruction de la rime n’est pas seulement suppression de tout espoir de retour à son « port d’attache », elle est aussi déconstruction de la musique tonale du vers, faite de l’anticipation des sons qui s’enchaînent selon une ligne mélodique et comme autour de ce que J.F. Mattei appelle « centre tonal ». C’est en quoi elle répond à une nécessité architectonique (et pas seulement chronologique) du sens. Wagner, dans *Opéra et Drame* a pu ainsi écrire:
 
 <br/>
 
@@ -858,9 +858,9 @@ La déconstruction de la rime n’est pas seulement suppression de tout espoir d
 
 Or il est assuré qu’aujourd’hui (et depuis un certain temps déjà), on assiste à une sorte de réjouissance malsaine non seulement d’enregistrer mais d’activer et d’accélérer cette « dislocation » où Adorno a vu le « sceau d’authenticité du modernisme. »
 
-Telle est l’époque du désastre, au sens que lui donne Blanchot, c’est à dire au sens exactement étymologique de « détaché des astres » c’est-à-dire des « repères immémoriaux » (B. Rapin), a-cosmqiue, d’une humanité sans horizon, sans repère ni repaire, sans « fond » ni perspective, ni limite ni contour ou forme ni centre (Deleuze), pataugeant dans ce que Reverdy appelle Sable mouvant et dans ce que Deleuze appelle « Chaosmos »…
+Telle est l’époque du désastre, au sens que lui donne Blanchot, c’est à dire au sens exactement étymologique de « détaché des astres » c’est-à-dire des « repères immémoriaux » (B. Rappin), a-cosmqiue, d’une humanité sans horizon, sans repère ni repaire, sans « fond » ni perspective, ni limite ni contour ou forme ni centre (Deleuze), pataugeant dans ce que Reverdy appelle « sable mouvant » et dans ce que Deleuze appelle « Chaosmos » …
 
-Voilà de quuooi se rappeler le « Calme bloc » mallarméen « ici-bas chu de quelque désastre obscur »!…
+Voilà de quoi se rappeler le « Calme bloc » mallarméen « ici-bas chu de quelque désastre obscur » !…
 
 Abandonner la rime, faire fi de toute nécessité architectonique, c’est abandonner toute idée même de poésie , qui n’existe que d’obéir à des contraintes et à des règles. P. Muray nous le rappelle:
 
