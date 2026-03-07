@@ -29,8 +29,7 @@ où un beau vers ne rime à rien" 'Jules Renard' %}
 {% epigraph "je perçois Chaque pulsation de la fièvre du monde" 'V. Hugo' %}
 
 <br/>
-
-1)
+I/
 <br/>
 <br/>
 
@@ -342,28 +341,28 @@ Dans ce rythme de la respiration, essentiel est le rôle de la rime qui règle a
 
 Car la poésie rimée (telle est aussi sa raison) est une poésie réglée ...
 
-N’oublions pas en effet que le mot latin « ratio » signifie « compte » et qu’un « livre de raison » est un livre de « compte »
+N’oublions pas en effet que le mot latin « ratio » signifie « compte » et qu’un « livre de raison » est un livre de « compte ».
 
-« Dieu nous a donné le nombre, écrit Joseph de Maistre dans les Soirées de St Pétersbourg, et
+« Dieu nous a donné le nombre, écrit Joseph de Maistre dans les *Soirées de St Pétersbourg*, et
 c’est par le nombre qu’il se prouve à nous (…) Ôtez le nombre, vous ôtez les arts, les sciences, la parole, et par conséquent l’intelligence. Ramenez-le; avec lui reparaissent ses deux filles célestes, l’harmonie et la beauté; le cri devient chant, le bruit reçoit le rythme, le saut est danse, la force s’appelle dynamique, et les traces sont des figures. »
 
-Or la rime elle aussi est le « nombre »en ce qu’elle est hantée par l’ordre et la symétrie.
+Or la rime elle aussi est le « nombre » en ce qu’elle est hantée par l’ordre et la symétrie.
 
-« Pourquoi, poursuit Joseph de Maistre, les rimes, les pieds, les ritournelles, la mesure, le rythme, nous plaisent-ils dans la musique et dans la poésie? Pouvez-vous seulement imaginer qu’il y ait, par exemple, dans nos rimes plates (si heureusement nommées), quelque beauté intrinsèque, cette forme et tant d’autre ne peuvent nous plaire que parce que l’intelligence se plait dans tout ce qui prouve l’intelligence, et que son signe principal est le nombre. »
+« Pourquoi, poursuit Joseph de Maistre, les rimes, les pieds, les ritournelles, la mesure, le rythme, nous plaisent-ils dans la musique et dans la poésie ? Pouvez-vous seulement imaginer qu’il y ait, par exemple, dans nos rimes plates (si heureusement nommées), quelque beauté intrinsèque, cette forme et tant d’autre ne peuvent nous plaire que parce que l’intelligence se plait dans tout ce qui prouve l’intelligence, et que son signe principal est le nombre. »
 
-Le nombre est la raison de la rime et du plaisir qu’on y prend!…
+Le nombre est la raison de la rime et du plaisir qu’on y prend ! …
 
-« Grâce au nombre, écrit Claudel dans Positions et propositions, le sens parvient à l’intelligence par l’oreille, avec une plénitude délicieuse qui satisfait à la fois l’âme est le corps. »
+« Grâce au nombre, écrit Claudel dans *Positions et propositions*, le sens parvient à l’intelligence par l’oreille, avec une plénitude délicieuse qui satisfait à la fois l’âme et le corps. »
 
-Dans sa République, Cicéron explique la beauté de la musique céleste par l’ « impulsion et
+Dans sa *République*, Cicéron explique la beauté de la musique céleste par l’ « impulsion et
 mouvement des sphères inégalement distinctes les unes des autres, de façon que les intervalles
-soutiennent entre eux des rapports rationnels… »
+soutiennent entre eux des rapports rationnels … »
 
 D’où cette autre raison de la rime qui est le mètre.
 
 À ce propos, un poète contemporain comme Jacques Réda dit clairement son « adhésion au
 système métrique », celui de la poésie rimée. Il adhère pleinement au « système métrique » du
-vers régulier et au système symétrique , pourrait-on dire, des rimes:
+vers régulier et au système symétrique, pourrait-on dire, des rimes:
 
 <br/>
 
@@ -376,14 +375,14 @@ Le rythme nous arpente, il tient nos souffles et nos pas." 'Adhésion au systèm
 <br/>
 
 Le battement régulier de la rime, comme celui de la rame, rythme le chant. Les poètes ont
-d’ailleurs souvent joué de cette parenté du « rimeur » et du « rameur », pensant peut-être au chant d’Orphie sur la nef des Argonautes, en accord avec la cadence des rameurs. Hugo évoque dans
-les Orientales « quatre vingt rameurs » pirates, Baudelaire le « chant des mariniers » dans Parfum exotique, et Apollinaire la « chanson du batelier » (*Nuit Rhénane*)…
+d’ailleurs souvent joué de cette parenté du « rimeur » et du « rameur », pensant peut-être au chant d’Orphée sur la nef des Argonautes, en accord avec la cadence des rameurs. Hugo évoque dans
+*Les Orientales* « quatre vingt rameurs » pirates, Baudelaire le « chant des mariniers » dans *Parfum exotique*, et Apollinaire la « chanson du batelier » (*Nuit Rhénane*) …
 
-Quel qu’il soit, le mètre est ce qui met de l’ordre dans le désordre, et la rime souligne la mesure du mètre. Czeslaw Milosz, dans *La Pensée Captive* évoque un poète polonais dont les images étaient « un brouillard tourbillonnant et seul le rythme sec de l’hexamètre les sauvait d’une désintégration complète. ». Pour G. Gospodinov, « Toute la guerre de Troie a été conservée dans la capsule de l’hexamètre. Fourrée dans toute autre forme, cette histoire aurait tourné, cédé, elle se serait effritée, élimée… » (Physique de la Mélancolie). Quant à Claudel, dans ses Cinq grandes odes:
+Quel qu’il soit, le mètre est ce qui met de l’ordre dans le désordre, et la rime souligne la mesure du mètre. Czeslaw Milosz, dans *La Pensée Captive* évoque un poète polonais dont les images étaient « un brouillard tourbillonnant et seul le rythme sec de l’hexamètre les sauvait d’une désintégration complète. ». Pour G. Gospodinov, « Toute la guerre de Troie a été conservée dans la capsule de l’hexamètre. Fourrée dans toute autre forme, cette histoire aurait tourné, cédé, elle se serait effritée, élimée… » (*Physique de la Mélancolie*). Quant à Claudel, dans ses *Cinq grandes odes*:
 
 <br/>
 
-{% epigraph "…O porte, tu ne chanterais <br/>
+{% epigraph "… O poëte, tu ne chanterais <br/>
 Pas bien <br/>
 Ton chant si tu ne chantais en mesure." %}
 
@@ -394,28 +393,28 @@ Une mesure qui incite à la modération.
 La mesure du poème rimé aura aussi pour office (ce n’est pas sa moindre vertu), de corriger la
 démesure des hommes.
 
-Dans son essai sur Le sans de la démesure, sur le rapport essentiel, dans le monde grec ancien
-entre « hubris » et « Diké », J.F. Mattei a montré combien dans l’Odyssée d’Homère le mythe de
+Dans son essai sur *Le sens de la démesure*, sur le rapport essentiel, dans le monde grec ancien
+entre « hubris » et « Diké », J.F. Mattei a montré combien dans l’*Odyssée d’Homère* le mythe de
 la démesure de l’acte appelle la mesure de son chant et il en arrive à cette conclusion :
 
 <br/>
 
-{% epigraph "Aussi ne peut-on chanter la démesure qu’en parvenant à l’insérer dans la mesure du vers que les Grecs ont justement nommée metron, le « mètre ». Il est à la poésie, dans son accentuation temporelle, ce qu’est le rythme à la musique, dans sa pulsation continue. Le mètre et le rythme imposent une chaîne cadencée, et ainsi mesurée, qui contient dans ses limites la violence naturelle des paroles et des sons. Sans le rythme, ce mouvement répété des gestes du danseur et des musiciens qui imite le retour régulier des êtres de la nature, évolution des astres, cycles des saisons ou battement du coeur, l’unité de l’existence se dissoudrait dans le bruissement sans fin du monde. Rien n’aurait de sens pour l’homme qui aurait perdu tout repère et tout horizon sa pensée ne pourrait accéder à aucune intelligence." %}
+{% epigraph "Aussi ne peut-on chanter la démesure qu’en parvenant à l’insérer dans la mesure du vers que les Grecs ont justement nommée metron, le « mètre ». Il est à la poésie, dans son accentuation temporelle, ce qu’est le rythme à la musique, dans sa pulsation continue. Le mètre et le rythme imposent une chaîne cadencée, et ainsi mesurée, qui contient dans ses limites la violence naturelle des paroles et des sons. Sans le rythme, ce mouvement répété des gestes du danseur et des musiciens qui imite le retour régulier des êtres de la nature, évolution des astres, cycles des saisons ou battement du coeur, l’unité de l’existence se dissoudrait dans le bruissement sans fin du monde. Rien n’aurait de sens pour l’homme qui aurait perdu tout repère et tout horizon, sa pensée ne pourrait accéder à aucune intelligence." %}
 
 Le risque de la poésie sans rime et sans rythme, c’est aussi de ne plus simplement pouvoir rien
-dire. Si l’on se rappelle e effet que le dire a quelque rapport avec la juste mesure de la Dikè
+dire. Si l’on se rappelle en effet que le dire a quelque rapport avec la juste mesure de la Dikè
 grecque, cette instance juridique qui montre ce qui est le Droit.
 
-On ajoutera que le « pur devenir sans mesure », c’est précisément ce « devenir fou qui ne s’arrête jamais », comme dit Deleuze (Logique du sens) et qui n’a aucun sens…
+On ajoutera que le « pur devenir sans mesure », c’est précisément ce « devenir fou qui ne s’arrête jamais », comme dit Deleuze (*Logique du sens*) et qui n’a aucun sens …
 
-C’est peut-être ce qu’illustre B. Cendrars dans sa prose du Transsibérien:
+C’est peut-être ce qu’illustre B. Cendrars dans sa *prose du Transsibérien* :
 
-Pressentant « la venue du grand Christ rouge de la  / révolution russe », emporté dans le « devenir fou », sans halte ni pause dans un monde qui « s’étire et s’allonge et se retire comme un
-accordéon qu’une main sadique tourmente et qui…
+Pressentant « la venue du grand Christ rouge de la / révolution russe », emporté dans le « devenir fou », sans halte ni pause dans un monde qui « s’étire et s’allonge et se retire comme un
+accordéon qu’une main sadique tourmente et qui …
 
 <br/>
 
-{% epigraph "…comme l’horloge du quartier juif de Prague <br/>
+{% epigraph "… comme l’horloge du quartier juif de Prague <br/>
 Tourne éperdument à rebours" %}
 
 <br/>
@@ -431,44 +430,44 @@ Avec un long tressaillement à votre approche…" %}
 <br/>
 
 Avant toutefois d’en arriver à cet accomplissement et à cette résolution du sens à la rime, on
-pourra déjà simplement noter que la rime inévitable ment incite à la comparaison et que si, comme
+pourra déjà simplement noter que la rime inévitablement incite à la comparaison et que si, comme
 on le répète à satiété, « comparaison n’est pas raison », il n’empêche que toute opération
 sémantique procède par différenciation, c’est à dire par comparaison. Il en va déjà ainsi tout
-simplement de la lecture. Comme le dit G. Steiner dans Passions impunies: « Lire c’est
+simplement de la lecture. Comme le dit G. Steiner dans *Passions impunies*: « Lire c’est
 comparer ». C’est comparer et reconnaître. Et c’est « cette joie de l’anagnôsis des Grecs
-qu’Aristote loue comme la plus grande et la plus mystérieuse des jouissances artistiques (S. Zweig in Le monde d’hier). Or re-connaître, d’un point de vue cette fois platonicien, c’est faire retour au déjà connu mais occulté dans ce que Baudelaire appel « vie antérieur ». Le geste de la rime ne serait-il pas alors plus ou moins celui, nostalgique, sinon d’accomplir, du moins d’évoquer ce retour à la « vie antérieure »?
+qu’Aristote loue comme la plus grande et la plus mystérieuse des jouissances artistiques (S. Zweig in *Le monde d’hier*). Or re-connaître, d’un point de vue cette fois platonicien, c’est faire retour au déjà connu mais occulté dans ce que Baudelaire appelle « vie antérieur ». Le geste de la rime ne serait-il pas alors plus ou moins celui, nostalgique, sinon d’accomplir, du moins d’évoquer ce retour à la « vie antérieure »?
 
-L’essence de la rime serait peut-être bien d’exprimer ce que Péguy appelle « prière de résidence » (in La tapisserie de Notre-Dame),l’installation dans la stase de l’être. Ce qui suppose une
+L’essence de la rime serait peut-être bien d’exprimer ce que Péguy appelle « prière de résidence » (in *La tapisserie de Notre-Dame*), l’installation dans la stase de l’être. Ce qui suppose une
 conception naturaliste, ontologique, du langage, qui ne fasse pas du signe une pure convention.
 
 Dans un autre registre, moins esthétique que théologique et religieux, on sait que pour la tradition chrétienne, l’homme est « à l’image de Dieu », la rime alors, image et mime, ne fait peut-être bien que reprendre à son compte ce qui serait comme la condition et la situation, ontologique, de l’homme.
 
-Nous voilà revenus à ce désir fusionnel d’unité de la rime qui signifie sa propre disparition en tant que dualité et son risque d’anéantissement. La tentation de l’un peut être aussi celle du néant. Ce que dit ainsi Hugo dans La fin de Satan:
+Nous voilà revenus à ce désir fusionnel d’unité de la rime qui signifie sa propre disparition en tant que dualité et son risque d’anéantissement. La tentation de l’un peut être aussi celle du néant. Ce que dit ainsi Hugo dans *La fin de Satan*:
 
 <br/>
 
 {% epigraph "Or en ce même instant, l’homme indivisible <br/>
 Sans palpitation, sans souffle et sans écho, <br/>
 La lugubre unité de tombe et de chaos <br/>
-Qu’on nomme Enfer…" 'Hugo, <em>La fin de Satan</em>' %}
+Qu’on nomme Enfer…" %}
 
-Inévitable persistance de la dualité et de la rime!  Pas de soleil sans ombre:
+Inévitable persistance de la dualité et de la rime ! Pas de soleil sans ombre:
 
 <br/>
 
 {% epigraph "Ombre encre du soleil<br/>
-Écriture de ma lumière" 'Apollinaire' %}
+Écriture de ma lumière" %}
 
 <br/>
 
-écrit Apollinaire dans un de ses Calligrammes. 
+écrit Apollinaire dans un de ses *Calligrammes*. 
 
-La dualité de la rime ( sa raison) est aussi de montrer que la singularité n’existe pas. Il n’est pas de « un » sans « deux ». Le propre, à proprement parler, n’existe pas en propre. Il n’existe que de se détacher de ce qu’il n’est pas. La dualité est si fortement inscrite au coeur même de l’identité qu’Apollinaire a cette formule:
+La dualité de la rime (sa raison) est aussi de montrer que la singularité n’existe pas. Il n’est pas de « un » sans « deux ». Le propre, à proprement parler, n’existe pas en propre. Il n’existe que de se détacher de ce qu’il n’est pas. La dualité est si fortement inscrite au coeur même de l’identité qu’Apollinaire a cette formule:
 
 <br/>
 
 {% epigraph "Et je me deux<br/>
-D’être tout seul" 'Stavelot, <em>Le guetteur mélancolique</em>' %}
+D’être tout seul" 'Stavelot in <em>Le guetteur mélancolique</em>' %}
 
 <br/>
 
@@ -476,12 +475,12 @@ Autrement dit, la différence est inscrite au coeur même de l’identité. D’
 
 <br/>
 
-{% epigraph "Ah! Dans ses propres pas que marcher est étrange<br/>
+{% epigraph "Ah ! Dans ses propres pas que marcher est étrange<br/>
 Comme tout a changé et comme rien ne change" 'Aragon, « La nuit de Moscou » in <em>Le roman inachevé</em>' %}
 
 <br/>
 
-Comme nous- mêmes ne sommes jamais exactement nous mêmes (« ipse » n’est pas « idem »), il en va de même pour la rime:
+Comme nous-mêmes ne sommes jamais exactement nous mêmes (« ipse » n’est pas « idem »), il en va de même pour la rime:
 
 <br/>
 
@@ -492,24 +491,24 @@ Et je viens moins que je ne fuis" 'Aragon' %}
 
 La rime est bel et bien, au coeur même de sa répétition, travaillée par la différence. Nous n’avons conscience de la répétition que par l’écart de la différence. Dans la rime le 2 est constamment attente et ouverture au 3. Convocation de l’absence au coeur même de la présence. 
 
-Telle est bien d’ailleurs la structure du duel où, comme l’observe D.R. Dufour, « contrairement aux apparences, on n’est pas deux mais trois »: les deux duellistes et la mort à venir, déjà là en puissance.
+Telle est bien d’ailleurs la structure du duel où, comme l’observe D.R. Dufour, « contrairement aux apparences, on n’est pas deux mais trois » : les deux duellistes et la mort à venir, déjà là en puissance.
 
 Quatre vers de Réda pourraient assez bien illustrer cette remarque:
 
 <br/>
 
 {% epigraph "Une nuit j’ai compté - mais jusque’à quel nombre,<br/>
-Pour m’endormir: j’ai rêvé que j’étais trois<br/>
+Pour m’endormir : j’ai rêvé que j’étais trois<br/>
 Deux jouant aux dés sur un bateau qui sombre<br/>
 Le troisième nageant dans les courants froids." 'Réda' %}
 
 <br/>
 
-On connaît bien ce vers, apparemment unique d’Apollinaire:
+On connaît bien ce vers, apparemment unique d’Apollinaire :
 
 <br/>
 
-{% epigraph "Et l’unique cordeau des trompettes marines" 'Apollinaire' %}
+{% epigraph "Et l’unique cordeau des trompettes marines" %}
 
 <br/>
 
@@ -523,13 +522,13 @@ Différence au coeur de l’identité: cette partition se joue diversement. Exem
 
 <br/>
 
-{% epigraph "Ah! Tombe la neige<br/>
+{% epigraph "Ah ! Tombe la neige<br/>
 Tombe et que n’ai-je<br/>
-Ma bien aimée entre mes bras…" 'Apollinaire, « la blanche neige », <em>Alcool</em>' %}
+Ma bien aimée entre mes bras …" 'Apollinaire, « la blanche neige », <em>Alcool</em>' %}
 
-Toutes sortes d’écarts ici: sémantique ( la neige n’est pas la possession) , grammatical (substantif / verbe), types de phrases (exclamative / interrogative), sans parler du débordement par enjambement… de tout cela naît le plaisir de présenter un sens qui ne se saisit que de se fuir et de se déporter, se reporter, de pressentir « cette imminence d’une révélation qui ne se produit pas » qui est peut-être, pensait Borgès, la spécificité du « fait esthétique » (« La Muraille de Chine »)
+Toutes sortes d’écarts ici: sémantique (la neige n’est pas la possession), grammatical (substantif / verbe), types de phrases (exclamative / interrogative), sans parler du débordement par enjambement … de tout cela naît le plaisir de présenter un sens qui ne se saisit que de se fuir et de se déporter, se reporter, de pressentir « cette imminence d’une révélation qui ne se produit pas » qui est peut-être, pensait Borgès, la spécificité du « fait esthétique » (*La Muraille de Chine*)
 
-Dans ce conte un empereur, au fur et à mesure qu’il construit la muraille de Chine, fait détruire tous les livres. Comme s’il y avait une conjonction nécessaire entre faire et défaire…
+Dans ce conte un empereur, au fur et à mesure qu’il construit la muraille de Chine, fait détruire tous les livres. Comme s’il y avait une conjonction nécessaire entre faire et défaire …
 
 Telle l’ « attente muable » dans ce poème baroque:
 
@@ -539,7 +538,7 @@ Telle l’ « attente muable » dans ce poème baroque:
 Et regret du passé un désir indompté<br/>
 (...)<br/>
 Un espoir incertain, frivolement jette<br/>
-Sur le vain fondement d’une attente muable..." 'Chassignet' %}
+Sur le vain fondement d’une attente muable ..." 'Chassignet' %}
 
 <br/>
 
@@ -563,23 +562,23 @@ Litanie" 'Réda, « L’instant »' %}
 
 <br/>
 
-2)                                                                           - -O- -
+II/
 
 <br/>
 <br/>
 
-Or ce jeu a fini par lasser.  Le primat de la rime à partir de quoi le poème s’organise a été dénoncé comme un vain artifice. Entre autre par A. Karr, pour qui « chercher, disposer, aligner les rimes, si riches » fait que « les vers en étaient ruinés et pauvres car « on remplissait le reste du vers avec ce qu’on pouvait. »
+Or ce jeu a fini par lasser.  Le primat de la rime à partir de quoi le poème s’organise a été dénoncé comme un vain artifice. Entre autre par A. Karr, pour qui « chercher, disposer, aligner les rimes, si riches » fait que « les vers en étaient ruinés et pauvres » car « on remplissait le reste du vers avec ce qu’on pouvait. »
 
 Ce jeu des rimes est même carrément qualifié d’incestueux par Aragon dans son fou d’Elsa:
 
 <br/>
 
 {% epigraph "Je tremble rien que de vous voir qui ne puis le faire sans crime<br/>
-Et vous retrouve en mon miroir comme l’inceste d’une rime." 'Aragon' %}
+Et vous retrouve en mon miroir comme l’inceste d’une rime." %}
 
 <br/>
 
-Il y a déjà beau temps, au début du XX° siècle, comme l’écrit Paul Claudel dans ses réflexions et propositions sur le vers français que, plus encore que la rime elle-même, c’est la « technique alexandrine, en gâtant et en durcissant la sensibilité de l’artiste, en disciplinant l’oreille qui ne laisse plus passer que les rythmes primaires et les sonorités homophones » qui se trouve dans une impasse. Claudel pense alors que prose et poésie gagneraient à « marier leur ressource. »
+Il y a déjà beau temps, au début du XX° siècle, comme l’écrit Paul Claudel dans ses *réflexions et propositions* sur le vers français que, plus encore que la rime elle-même, c’est la « technique alexandrine, en gâtant et en durcissant la sensibilité de l’artiste, en disciplinant l’oreille qui ne laisse plus passer que les rythmes primaires et les sonorités homophones » qui se trouve dans une impasse. Claudel pense alors que prose et poésie gagneraient à « marier leur ressource. »
 
 Plus profondément, l’abandon progressif de la rime s’explique par le désenchantement d’un monde devenu inhumain :
 
@@ -588,7 +587,7 @@ Plus profondément, l’abandon progressif de la rime s’explique par le désen
 {% epigraph "L’inhumain ne s’est pas servilement converti<br/>
 Au comptoir des mots enchantés" 'Char' %}
 
-Désenchantement du monde aussi, devant le retrait du divin, la « mort de Dieu » (Nietzsche), celle de l’ »homme » (Foucault), la perte du sens de toutes choses, de la vie, des mots et de la poésie. Ce que Char exprimera ainsi:
+Désenchantement du monde aussi, devant le retrait du divin, la « mort de Dieu » (Nietzsche), celle de l’ « homme » (Foucault), la perte du sens de toutes choses, de la vie, des mots et de la poésie. Ce que Char exprimera ainsi:
 
 <br/>
 
@@ -600,11 +599,11 @@ Au paravant déjà, A. de Vigny avait encore fait rimer, dans son poème philoso
 
 Cette « faille géante » dont parle R. Char dans son poème, G. Steiner la date plus précisément « des années 1870 aux années 1930. » C’est « cette rupture de l’alliance entre le mot et le monde qui constitue une des très rares révolutions authentiques de l’esprit dans l’histoire de l’Occident et qui définit la modernité elle-même. »
 
-Nous ne sommes plus, à partir de la deuxième moitié du XIX° siècle dans « l’époque du logos, dans l’époque où le mot disait l’être (et c’est bien ce que signifie l’expression vulgarisée de « mort de Dieu »); depuis Mallarmé il y a divorce entre le langage et le référent (« Je dis « fleur », l’absente de tous bouquets », ce mot n’a ni tige ni pétale, ni épine. Il n’est ni rouge, ni jaune. Il n’en émane aucun parfum », il n’est plus qu’un signe vide et « arbitraire » diront les linguistes, en particulier Saussure qui « lui donnera forme systématique et canonique »); depuis Rimbaud, la première personne du singulier est déconstruite (« Je » est un autre », l’ego n’est plus lui-même, il n’est plus lui-même pour lui-même, la formule prend l’exact contre-pied de celle du Buisson ardent, la révélation de Dieu à Moïse dans cette tautologie: « Je suis celui qui suis »… Ces deux entreprises, et tout ce qu’elles impliquent, font éclater, dit Steiner, les fondations de l’édifice hébraïco-hellénico-cartésien qu’occupaient la ratio et la psychologie de la tradition la communication occidentale » (Réelles présences)
+Nous ne sommes plus, à partir de la deuxième moitié du XIX° siècle dans « l’époque du logos, dans l’époque où le mot disait l’être (et c’est bien ce que signifie l’expression vulgarisée de « mort de Dieu »); depuis Mallarmé il y a divorce entre le langage et le référent (« Je dis « fleur », l’absente de tous bouquets », ce mot n’a ni tige ni pétale, ni épine. Il n’est ni rouge, ni jaune. Il n’en émane aucun parfum », il n’est plus qu’un signe vide et « arbitraire » diront les linguistes, en particulier Saussure qui « lui donnera forme systématique et canonique »); depuis Rimbaud, la première personne du singulier est déconstruite (« Je » est un autre », l’ego n’est plus lui-même, il n’est plus lui-même pour lui-même, la formule prend l’exact contre-pied de celle du Buisson ardent, la révélation de Dieu à Moïse dans cette tautologie: « Je suis celui qui suis » … Ces deux entreprises, et tout ce qu’elles impliquent, font éclater, dit Steiner, les fondations de l’édifice hébraïco-hellénico-cartésien qu’occupaient la ratio et la psychologie de la tradition de communication occidentale » (*Réelles présences*)
 
-La voie est ouverte à toutes les déconstructions possibles, y compris bien entendu, celle de la rime puisque plus rien ne « rime » à rien : néant mallarméen, éclatement du « Je » rimbaldien, plus aucun « renvoi », « écho », résonance du sens n’est possible…
+La voie est ouverte à toutes les déconstructions possibles, y compris bien entendu, celle de la rime puisque plus rien ne « rime » à rien : néant mallarméen, éclatement du « Je » rimbaldien, plus aucun « renvoi », « écho », résonance du sens n’est possible …
 
-Voici venue la période du « nihilisme triomphant » dont parle Léon Bloy dans son Désespéré.
+Voici venue la période du « nihilisme triomphant » dont parle Léon Bloy dans son *Désespéré*.
 
 Tout est comme à l’arrêt:
 
@@ -627,11 +626,11 @@ Des sphères à travers ce silence d’exil" 'J. Réda, <em>Crépuscule</em>' %}
 
 Les hommes vont, certains croient même aller vers le progrès, cette « grande hérésie de la décrépitude » pour Baudelaire, l’homme civilisé ayant « inventé la philosophie de progrès pour se consoler de son abdication et de sa déchéance » .
 
-Nous voilà parvenus à cette époque où Baudelaire, prenant acte de la perte de l’aura (comme dira Walter Benjamin, lui-même parle d’ « auréole »), abandonne les vers pour la prose. Il abandonne la rime à cette époque prosaïque qui fait du poète rimeur un vieux « saltimbanque » hors du temps,  « voûté, caduc, décrépit ». Son « auréole » a glissé dans la « fange du macadam » et il n’ « pas eu le courage de la ramasser ».
+Nous voilà parvenus à cette époque où Baudelaire, prenant acte de la perte de l’aura (comme dira Walter Benjamin, lui-même parle d’ « auréole »), abandonne les vers pour la prose. Il abandonne la rime à cette époque prosaïque qui fait du poète rimeur un vieux « saltimbanque » hors du temps, « voûté, caduc, décrépit ». Son « auréole » a glissé dans la « fange du macadam » et il n’a « pas eu le courage de la ramasser ».
 
-Pour Vigny « toute démocratie est un désert de sable », les Constitutions ne sont que « sable mouvant », il est vain désormais d’espérer y tailler un « diamant pur » de poésie, « tout illuminé des feux de la rime!… »
+Pour Vigny « toute démocratie est un désert de sable », les Constitutions ne sont que « sable mouvant », il est vain désormais d’espérer y tailler un « diamant pur » de poésie, « tout illuminé des feux de la rime ! … »
 
-Le poète a perdu, à l’âge prosaïque de la démocratie (la « tyrannie démocratique » dira Apollinaire!), à l’âge de la technique et de l’argent, tout à la fois la circularité de son « auréole » (son aura) et la circularité des rimes.
+Le poète a perdu, à l’âge prosaïque de la démocratie (la « tyrannie démocratique » dira Apollinaire !), à l’âge de la technique et de l’argent, tout à la fois la circularité de son « auréole » (son aura) et la circularité des rimes.
 
 Dés lors :
 
@@ -657,7 +656,7 @@ Le monde est devenu « une route interminable où l’on se perd », sur laquell
 
 <br/>
 
-{% epigraph "Il marchait sur un pied sans savoir où il poserait l’autre" 'Reverdy' %}
+{% epigraph "Il marchait sur un pied sans savoir où il poserait l’autre" %}
 
 <br/>
 
