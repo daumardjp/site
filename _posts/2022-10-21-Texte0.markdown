@@ -3,7 +3,7 @@ layout: post
 title:  "Rime et Raison : À quoi ça rime, la rime ?"
 category: "Essai"
 author : "Jean-Pierre Daumard"
-keywords: "poésie, rime, rythme, versification, mémoire, histoire, métaphysique, modernité, langage, mètre" 
+keywords: "poésie, rime, rythme, versification, déconstruction, histoire, métaphysique, modernité, langage" 
 image: "/assets/img/portrait.jpg"
 ---
 
