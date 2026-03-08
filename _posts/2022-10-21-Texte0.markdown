@@ -826,7 +826,7 @@ Sur mes lèvres soudain va suspendre la rime." %}
 
 La rime, comme rythme (ruthmos) est forme car la forme, comme disait Valéry est « essentiellement répétition » ... Elle participe d’une conception encore architectonique de l’art. Or c’est bien ce concept central d’*archè* que l’esthétique et la philosophie contemporaines rejettent en bloc. C’est ce que B. Rappin expose clairement dans ce qu’il appelle la « stratégie générale de la déconstruction » : au centre de la métaphysique qu’il s’agirait désormais de déconstruire est « la notion grecque d’archè, qui signifie à la fois le commencement et le commandement et surtout, la nécessaire relation qui se tisse entre les deux. » Il s’agit alors désormais de mettre en doute l’origine et l’autorité d’une parole souveraine. D’où le parti-pris de l’an-archie dans la démarche déconstructionniste qui expose une pensée « sans origine ni autorité ». (*Abécédaire de la déconstruction*)
 
-Loin de Cratyle qui voyait dans les mots comme une émanation de l’être, nous sommes depuis au moins le linguiste Saussure, dans une affirmation de l’arbitraire du signe, n’importe quel « signifiant » renvoyant à tel « signifié », dans la seul nécessité de distinguer et sans tenir compte de l’ « intention de signifier », donc sans tenir compte des « idées » bref, sans tenir compte le moins du monde de la « genèse ontologique » du langage (Boutang).
+Loin de Cratyle qui voyait dans les mots comme une émanation de l’être, nous sommes depuis au moins le linguiste Saussure, dans une affirmation de l’arbitraire du signe, n’importe quel « signifiant » renvoyant à tel « signifié », dans la seule nécessité de distinguer et sans tenir compte de l’ « intention de signifier », donc sans tenir compte des « idées » bref, sans tenir compte le moins du monde de la « genèse ontologique » du langage (Boutang).
 
 Dans cet acharnement presque masochiste à « déconstruire » la poésie et la culture qu’elle incarnait, on retiendra ce règlement de compte de la « poésie », assez cyniquement rageur, de Christian Prigent :
 
@@ -852,7 +852,7 @@ La déconstruction de la rime n’est pas seulement suppression de tout espoir d
 
 <br/>
 
-{% epigraph "Je conçois l’origine du langage, de la mélodie, non pas selon l’ordre chronologique mais selon l’ordre architectonique" 'Wagner' %}
+{% epigraph "Je conçois l’origine du langage, de la mélodie, non pas selon l’ordre chronologique mais selon l’ordre architectonique" %}
 
 <br/>
 
@@ -866,23 +866,23 @@ Abandonner la rime, faire fi de toute nécessité architectonique, c’est aband
 
 <br/>
 
-{% epigraph "La poésie n’était acceptable que lorsqu’elle était poétique, c’est à dire surveillée, contenue dans son féroce carcan de règles, sous l’inspection de contrôleurs pointilleux, et soumise à d’étouffantes lois régissant le compte des syllabes, les césures, les enjambements, les hiatus et les rimes. Libérée de ses oppresseurs, la poésie n’est plus rien qu’une emphase qui divague. Sa libération, commencée comme toutes les libérations de notre temps à l’époque romantique, a été aussi le début de sa perte, par la révélation plus éclatante de son insuffisance: en se débarrassant des règles qui la contraignaient, en même temps qu’elles lui donnaient une certaine majesté, elle s’est aussi privée de tout ce qui empêchait qu’elle apparaisse comme insensée. Et il faut aujourd’hui une propagande d’essence religieuse pour que personne ne se rende compte que seules les règles dont elle subissait le joug lui donnaient un sens. Ces règles disparues, la poésie n’est plus qu’une prose paresseuse, informe, effilochée, prétentieuse et sans but." 'P. Muray, <em>Après l’Histoire</em>' %}
+{% epigraph "La poésie n’était acceptable que lorsqu’elle était poétique, c’est à dire surveillée, contenue dans son féroce carcan de règles, sous l’inspection de contrôleurs pointilleux, et soumise à d’étouffantes lois régissant le compte des syllabes, les césures, les enjambements, les hiatus et les rimes. Libérée de ses oppresseurs, la poésie n’est plus rien qu’une emphase qui divague. Sa libération, commencée comme toutes les libérations de notre temps à l’époque romantique, a été aussi le début de sa perte, par la révélation plus éclatante de son insuffisance : en se débarrassant des règles qui la contraignaient, en même temps qu’elles lui donnaient une certaine majesté, elle s’est aussi privée de tout ce qui empêchait qu’elle apparaisse comme insensée. Et il faut aujourd’hui une propagande d’essence religieuse pour que personne ne se rende compte que seules les règles dont elle subissait le joug lui donnaient un sens. Ces règles disparues, la poésie n’est plus qu’une prose paresseuse, informe, effilochée, prétentieuse et sans but." 'P. Muray, <em>Après l’Histoire</em>' %}
 
 <br/>
 
-Autrement dit, le geste du départ s’accompagne d’un retournement; comme le note très justement J.M. Maulpoix dans Adieux au poème, « Lorsque Victor Hugo compose son fameux poème « Demain dés l’aube », il concentre dans un même texte le départ et le retournement. Que dit-il à sa fille disparue, sinon « demain je me retournerai »; demain je me rendrai présent à ton absence, je serai ta mémoire ».
+Autrement dit, le geste du départ s’accompagne d’un retournement; comme le note très justement J.M. Maulpoix dans *Adieux au poème*, « Lorsque Victor Hugo compose son fameux poème « Demain dés l’aube », il concentre dans un même texte le départ et le retournement. Que dit-il à sa fille disparue, sinon « demain je me retournerai »; demain je me rendrai présent à ton absence, je serai ta mémoire ».
 
-De même Rimbaud accompagne son départ d’un retournement, son rejet violent de toute « vie antérieure » (comme disait Baudelaire) s’accompagne d’une confrontation avec le passé, la tradition,  tant il est vrai que « ce qui nous incite à revenir en arrière est aussi humain et nécessaire que ce qui nous pousse à aller de l’avant. » (Pasolini)
+De même Rimbaud accompagne son départ d’un retournement, son rejet violent de toute « vie antérieure » (comme disait Baudelaire) s’accompagne d’une confrontation avec le passé, la tradition, tant il est vrai que « ce qui nous incite à revenir en arrière est aussi humain et nécessaire que ce qui nous pousse à aller de l’avant. » (Pasolini)
 
-La rime n’est donc peut-être pas définitivement oubliée, ni non plus sa « raison » d’être. Une raison qui tient sans doute aussi tout simplement au plaisir qu’on éprouve à l’entendre, dans un moment de suspens, celui là même de toute résonance
+La rime n’est donc peut-être pas définitivement oubliée, ni non plus sa « raison » d’être. Une raison qui tient sans doute aussi tout simplement au plaisir qu’on éprouve à l’entendre, dans un moment de suspens, celui là même de toute résonance.
 
-Dans cette recherche d’accomplissement, de. recueillement du sens qui est celle de la rime (sens et son confondus), quelque chose ressemble peut-être à ce que Barthes appelle « fruition de l’amour » et volupté orale.
+Dans cette recherche d’accomplissement, de recueillement du sens qui est celle de la rime (sens et son confondus), quelque chose ressemble peut-être à ce que Barthes appelle « fruition de l’amour » et volupté orale.
 
-Il y aurait même parfois dans la rime (telle en serait aussi la « raison ») un besoin et un désir de tendresse, tendresse dont Barthes nous dit dans ses Fragments d’un discours amoureux « là où besoin et désir se joignent »
+Il y aurait même parfois dans la rime (telle en serait aussi la « raison ») un besoin et un désir de tendresse, tendresse dont Barthes nous dit dans ses *Fragments d’un discours amoureux* « là où besoin et désir se joignent ».
 
-N’en déplaise à Reverdy qui tourne en ridicule le « chanteur d’amour » roucoulant « pour l’oreille sonore qui l’accueille »,! N’en déplaise à Borges critiquant ces « rhétoriciens dont l’âme acoustique est si légère qu’elle considère un poème comme un échantillonnage d’accents, de rimes, d’élisions, de diphtongues et autre faune phonétique »! …
+N’en déplaise à Reverdy qui tourne en ridicule le « chanteur d’amour » roucoulant « pour l’oreille sonore qui l’accueille », n’en déplaise à Borges critiquant ces « rhétoriciens dont l’âme acoustique est si légère qu’elle considère un poème comme un échantillonnage d’accents, de rimes, d’élisions, de diphtongues et autre faune phonétique »! …
 
-Il se trouve qu’un poète naguère surréaliste comme Desnos est avide, à partir des années 30 de renouer avec la douceur des rimes:
+Il se trouve qu’un poète naguère surréaliste comme Desnos est avide, à partir des années 30, de renouer avec la douceur des rimes :
 
 <br/>
 
@@ -893,30 +893,30 @@ Où donc est mon enfant ma fleur et ma détresse." 'Corps et Biens' %}
 
 <br/>
 
-D’ailleurs Borges lui-même, si hostile, on l’a vu, à la « faune phonétique » et à la rime, n’apprécie pour autant guère ceux qui la calomnient de façon aussi dogmatique que pédante. Tel Breton dans son « turbulent manifeste. »
+D’ailleurs Borges lui-même, si hostile, on l’a vu, à la « faune phonétique » et à la rime, n’apprécie pour autant guère ceux qui la calomnient de façon aussi dogmatique que pédante. Tel Breton dans son « turbulent manifeste » :
 
-« Il y a vingt ans, écrit Borgès, les manifestes pullulaient. Ces documents autoritaires rénovaient l’art, abolissaient la ponctuation, évitaient l’orthographe et réussissaient souvent le solécisme. S’ils étaient le fait des gens de lettres, ils se plaisaient à calomnier la rime et à discuter la métaphore… »
+« Il y a vingt ans, écrit Borgès, les manifestes pullulaient. Ces documents autoritaires rénovaient l’art, abolissaient la ponctuation, évitaient l’orthographe et réussissaient souvent le solécisme. S’ils étaient le fait des gens de lettres, ils se plaisaient à calomnier la rime et à discuter la métaphore … »
 
-Propos « charlatanesques » que tout cela pour Borges!
+Propos « charlatanesques » que tout cela pour Borges !
 
-Verlaine admet que l’époque est à la mode du « vers libre » et qu’il hante de « jeunes cerveaux épris de hasard » mais il n’en reste pas moins pour lui que la rime demeure…
+Verlaine admet que l’époque est à la mode du « vers libre » et qu’il hante de « jeunes cerveaux épris de hasard » mais il n’en reste pas moins pour lui que la rime demeure …
 
 <br/>
 
-{% epigraph "…indispensable à notre art français,<br/>
+{% epigraph "… indispensable à notre art français,<br/>
 <br/>
 Autrement muet dans la poésie,<br/>
 Puisque le langage est sourd à l’accent.<br/>
 Qu’y voulez-vous faire? Et la fantaisie<br/>
-Ici perd ses droits: rimer est pressant." %}
+Ici perd ses droits : rimer est pressant." %}
 
 <br/>
 
-Puisqu’on parle du plaisir de la rime, du plaisir ressenti à son retour, peut prendre place ici l’analyse que Joseph de Maistre a fait du plaisir du « revenir », dans ses Soirées de St Pétersbourg:
+Puisqu’on parle du plaisir de la rime, du plaisir ressenti à son retour, peut prendre place ici l’analyse que Joseph de Maistre a fait du plaisir du « revenir », dans ses *Soirées de St Pétersbourg* :
 
-« Les Grecs, fait-il observer, exprimèrent par le même mot le plaisir et le revenir (nostimos). Or les Français ont suivi la même idée précisément. Ils ont dit « homme avenant », « femme avenante »; « figure, physionomie avenante. Cet homme me REVIENT: c’est à dire il m’est agréable comme un ami qui me reviendrait, puisqu’il n’y a rien de si doux que le retour d’une personne chérie longtemps séparée de nous, et, réciproquement, rien de si doux que le revenant, pour le guerrier surtout, que ce jour fortuné qui le rend sain et sauf à sa famille. »
+« Les Grecs, fait-il observer, exprimèrent par le même mot le plaisir et le revenir (nostimos). Or les Français ont suivi la même idée précisément. Ils ont dit « homme avenant », « femme avenante »; « figure, physionomie avenante ». Cet homme me REVIENT: c’est à dire il m’est agréable comme un ami qui me reviendrait, puisqu’il n’y a rien de si doux que le retour d’une personne chérie longtemps séparée de nous, et, réciproquement, rien de si doux que le revenant, pour le guerrier surtout, que ce jour fortuné qui le rend sain et sauf à sa famille. »
 
-Reverdy, on l’a vu, a abandonné la rime classique par désenchantement d’époque. Il y revient pourtant, timidement, à tâtons, modestement, commençant par cet aveu: « Je chante faux »; il y revient dans une sorte de chanson en octosyllabes, avec de simples consonances pour commencer (« vent » / « comment ») et des rimes riches pour finir (« ouverte » / « verte »):
+Reverdy, on l’a vu, a abandonné la rime classique par désenchantement d’époque. Il y revient pourtant, timidement, à tâtons, modestement, commençant par cet aveu : « Je chante faux »; il y revient dans une sorte de chanson en octosyllabes, avec de simples consonances pour commencer (« vent » / « comment ») et des rimes riches pour finir (« ouverte » / « verte ») :
 
 <br/>
 
@@ -930,11 +930,11 @@ Entendez je ne suis pas fou<br/>
 Je ris au bas de l’escalier<br/>
 Devant la porte grande ouverte<br/>
 Dans le soleil éparpillé<br/>
-Au mur parmi la vigne verte…" 'POUR LE MOMENT, <em>La lucarne ovale</em> 1916' %}
+Au mur parmi la vigne verte …" 'POUR LE MOMENT, <em>La lucarne ovale</em> 1916' %}
 
 <br/>
 
-Pas de doute ici:
+Pas de doute ici :
 
 <br/>
 
@@ -943,19 +943,19 @@ L’allure." 'ENVELOPPE, <em>Sable mouvant, Au soleil du plafond</em>' %}
 
 <br/>
 
-Pas de doute, c’est bien comme une restauration du temps qui autorise le rétablissement de la rime. C’est comme si le temps parvenait à se remettre dans ses gonds (« The time is out of joint » avait dit Hamlet après avoir découvert que son oncle avait assassiné son père Bonnefoy: « Le temps est hors de ses gonds » avait traduit Bonnefoy…
+Pas de doute, c’est bien comme une restauration du temps qui autorise le rétablissement de la rime. C’est comme si le temps parvenait à se remettre dans ses gonds (« The time is out of joint » avait dit Hamlet après avoir découvert que son oncle avait assassiné son père. « Le temps est hors de ses gonds » avait traduit Bonnefoy …
 
-Inversement c’est peut-être le fait d’être précisément plongé dans un temps « hors de ses gonds » qui peut donner le goût de retrouver l’ancien sillon des rimes et de la forme traditionnelle du sonnet…
+Inversement c’est peut-être le fait d’être précisément plongé dans un temps « hors de ses gonds » qui peut donner le goût de retrouver l’ancien sillon des rimes et de la forme traditionnelle du sonnet …
 
-Ainsi de Jean Cassou, détenu prisonnier au secret qui compose des sonnets rimés « dans sa tête ». Des sonnets qui seront pour lui, explique Aragon dans la préface qu’il a faite aux Trente trois sonnets composés au secret du poète, un moyen « d’éprouver la modulation moderne dans un vers ancien », avec tout « ce qu’il permet dans la rime, aux frontière de l’assonance, d’un goût systématique de la rime faible, souvent voisine du mot rare » et avec « des mots de la conversation, les explétifs de la diction ( un donc qui passerait aux yeux non prévenus pour une cheville quand il est toute la beauté du vers et de l’accent. »
+Ainsi de Jean Cassou, détenu prisonnier au secret qui compose des sonnets rimés « dans sa tête ». Des sonnets qui seront pour lui, explique Aragon dans la préface qu’il a faite aux *Trente trois sonnets* composés au secret du poète, un moyen « d’éprouver la modulation moderne dans un vers ancien », avec tout « ce qu’il permet dans la rime, aux frontières de l’assonance, d’un goût systématique de la rime faible, souvent voisine du mot rare » et avec « des mots de la conversation, les explétifs de la diction (un « donc » qui passerait aux yeux non prévenus pour une cheville quand il est toute la beauté du vers et de l’accent. »
 
-Arrêtons-nous un instant sur ce « goût systématique de la rime faible » comme si son approximation plutôt que l’ exacte coïncidence de la rime riche était la garantie de mieux correspondre  à ce qu’on pourrait appeler l’essence de la rime : une « différence de l’identique » caractérisant, selon Suzanne Bernard, aussi bien les jeux de mots homophoniques que le « système de la rime » lui-même. Dans les deux cas en effet il y a bien dédoublement d’un même son en deux sens différents une certaine dissonance dans la consonance.
+Arrêtons-nous un instant sur ce « goût systématique de la rime faible » comme si son approximation plutôt que l’exacte coïncidence de la rime riche était la garantie de mieux correspondre à ce qu’on pourrait appeler l’essence de la rime : une « différence de l’identique » caractérisant, selon Suzanne Bernard, aussi bien les jeux de mots homophoniques que le « système de la rime » lui-même. Dans les deux cas en effet il y a bien dédoublement d’un même son en deux sens différents, une certaine dissonance dans la consonance.
 
-Dans le fameux sonnet de Nerval, EL DESDICHADO, entièrement infusé du « soleil noir de la Mélancolie », le poète demande à la blonde étrangère de rencontre, Octavie, de lui rendre « La fleur qui plaisait tant à (son) coeur désolé ». Cette fleur n’est pas nommée mais s le manuscrit Eluard du poème porte en regard du mot « fleur »le mot « Ancolie ».
+Dans le fameux sonnet de Nerval, EL DESDICHADO, entièrement infusé du « soleil noir de la Mélancolie », le poète demande à la blonde étrangère de rencontre, Octavie, de lui rendre « La fleur qui plaisait tant à (son) coeur désolé ». Cette fleur n’est pas nommée mais le manuscrit « Eluard » du poème porte en regard du mot « fleur » le mot « Ancolie ».
 
-Le grand mot mélancolie ,écrit avant l’allusion à la fleur, reste en suspens sur cette rime blanche, sur cet aveu fait par le silence. » »
+Le grand mot mélancolie, écrit avant l’allusion à la fleur, reste en suspens sur cette rime blanche, sur cet aveu fait par le silence.
 
-Rime « blanche », rime faite de « silence », ou rime fantôme  dont un sonnet de Mallarmé donne un autre fameux exemple, très finement analysé par O. Gallet :
+Rime « blanche », rime faite de « silence », ou rime fantôme dont un sonnet de Mallarmé donne un autre fameux exemple, très finement analysé par O. Gallet :
 
 <br/>
 
@@ -970,8 +970,8 @@ Si ce très blanc ébat au ras duos dénie<br/>
 À tout site l’honneur du paysage faux.<br/>
 <br/>
 Ma faim qui d’aucun fruit ici ne se régale<br/>
-Trouve en leur docte manque une saveur égale:<br/>
-Qu’un éclate de chair humain et parfumant!<br/>
+Trouve en leur docte manque une saveur égale :<br/>
+Qu’un éclate de chair humain et parfumant !<br/>
 <br/>
 Le pied sur quelque cuivre où notre amour tisonne,<br/>
 Je pense plus longtemps peut-être éperdument<br/>
@@ -979,55 +979,55 @@ Je pense plus longtemps peut-être éperdument<br/>
 
 <br/>
 
-Dans ce sonnet fort hermétique qui convoque un objet de désir (le sein comparé à un fruit) pour mieux en exalter l’absence (aussi absent que le sein coupé de l’amazone de Paphos ), outre la rime fantôme assez souvent repérée (« Sappho », poétesse de l’Antiquité ayant vécu sur l’île de Lesbos, exact anagramme de « Paphos », ville de Chypre), qui ramène au poème Lesbos de Baudelaire.
+Dans ce sonnet fort hermétique qui convoque un objet de désir (le sein comparé à un fruit) pour mieux en exalter l’absence (aussi absent que le sein coupé de l’amazone de Paphos), outre la rime fantôme assez souvent repérée (« Sappho », poétesse de l’Antiquité ayant vécu sur l’île de Lesbos, exact anagramme de « Paphos », ville de Chypre), qui ramène au poème Lesbos de Baudelaire.
 
-O. Galet a dégagé une autre rime fantôme d’une sorte de calembour (dont Mallarmé était friand) : « pas fosse » pour « Paphos », autrement dit, l’évocation niée de la fosse, celle de la mère de Mallarmé quand celui n’a que cinq ans, et puis celle de sa soeur Maria, enfin celle de son fils Anatole, le 15 octobre 1879.
+O. Galet a dégagé une autre rime fantôme d’une sorte de calembour (dont Mallarmé était friand) : « pas fosse » pour « Paphos », autrement dit, l’évocation niée de la fosse, celle de la mère de Mallarmé quand celui-ci n’a que cinq ans, et puis celle de sa soeur Maria, enfin celle de son fils Anatole, le 15 octobre 1879.
 
-Mallarmé, comme il l’écrit dans une lettre à ses amis, « porte » le « deuil » en lui « depuis longtemps », depuis longtemps il médite sur la fosse et toute son oeuvre sur elle se referme…
+Mallarmé, comme il l’écrit dans une lettre à ses amis, « porte » le « deuil » en lui « depuis longtemps », depuis longtemps il médite sur la fosse et toute son oeuvre sur elle se referme …
 
-Alors, comme l’ « amazone » de l’île de « Paphos » s’est amputée d’un sein de « chair » pour la chasse, lui-même est toujours disposé à s’amputer du réel, à nier le réel et la chair pour l’Idéal puisque sa « faim (…) ‘d’aucun fruit ici ne se régale », et à amputer son sonnet d’une rime, une rime revenant néanmoins, à l’état de fantôme .
+Alors, comme l’ « amazone » de l’île de « Paphos » s’est amputée d’un sein de « chair » pour la chasse, lui-même est toujours disposé à s’amputer du réel, à nier le réel et la chair pour l’Idéal puisque sa « faim (…) d’aucun fruit ici ne se régale », et à amputer son sonnet d’une rime, une rime revenant néanmoins, à l’état de fantôme.
 
 Autrement dit, le retour de la rime se fait plus discret, plus spectral parfois, mais il n’est pas définitivement disparu. Surtout, l’accomplissement à la rime est toujours souhaité, comme lié à cette aspiration profonde vers une cadence, un rythme, voire un accomplissement de l’être.
 
-Autrement dit, ce que recueille un poète comme Michaux, ce à quoi il s’accorde un instant, ce qu’il touche et qui le touche, ce sera toujours, plus ou moins exprimée dans une vague ébauche de rime, la pulsation même de la vie, du monde, du cosmos, dans sa vibration, sa pulsation constituante, bref, …L’infini turbulent:
+Autrement dit, ce que recueille un poète comme Michaux, ce à quoi il s’accorde un instant, ce qu’il touche et qui le touche, ce sera toujours, plus ou moins exprimé dans une vague ébauche de rime, la pulsation même de la vie, du monde, du cosmos, dans sa vibration, sa pulsation constituante, bref, « L’infini turbulent » :
 
 <br/>
 
 {% epigraph "J’entendais le poème admirable, le poème grandiose <br/>
 Le poème interminable <br/>
 Le poème aux vers idéalement beaux sans rime ni musique, sans mots qui sans cesse <br/>
-Scande l’univers…" 'Michaux' %}
+Scande l’univers …" 'Michaux' %}
 
 <br/>
 
-Un rythme sans rimes donc, avec une rime néanmoins incluse dans les mots qui la nient puisque dans la phrase de Michaux « interminable » rime bien avec « admirable »!…
+Un rythme sans rimes donc, avec une rime néanmoins incluse dans les mots qui la nient puisque dans la phrase de Michaux « interminable » rime bien avec « admirable » ! …
 
-Ailleurs Michaux en arrive à dire, fût-ce négativement, quand il analyse les associations qui régissent la succession de visions mescaliennes, que sans rime il n’y a plus de sens, que la rime en est donc la garantie première:
-
-<br/>
-
-{% epigraph "…D’autres (idées) n’accrochent rien, ne riment pas avec ces secousses et par conséquent ne donneront pas d’images dans le film…" 'Michaux' %}
+Ailleurs Michaux en arrive à dire, fût-ce négativement, quand il analyse les associations qui régissent la succession de visions mescaliennes, que sans rime il n’y a plus de sens, que la rime en est donc la garantie première :
 
 <br/>
 
-Impérissable creuset pulsionnel de la rime!…
+{% epigraph "… D’autres (idées) n’accrochent rien, ne riment pas avec ces secousses et par conséquent ne donneront pas d’images dans le film …" %}
+
+<br/>
+
+Impérissable creuset pulsionnel de la rime ! …
 
 Dans LES PLANCHES COURBES Bonnefoy revient sur les raisons de l’effondrement de la rime et du rythme mais il y revient dans le rythme ample de l’alexandrin:
 
 <br/>
 
 {% epigraph "Ils ont vécu au temps où les mots furent pauvres<br/>
-Le sens ne vibrait plus dans les rythmes défaits." 'Bonnefoy, <em>LES PLANCHES COURBES</em>' %}
+Le sens ne vibrait plus dans les rythmes défaits." %}
 
 <br/>
 
-Dans L’heure présente et autres textes il écrit « presque disc-neuf sonnets », non plus rimé certes, mais hantés par l’or et la musique des nombres qui sont « enfants » et qui jouent « À être l’or dans l’eau où ils pataugent »: « ils s’éclaboussent de lumière » (TOMBEAU DE L.B. ALBERTI). Il y a là, dés le premier sonnet comme un souvenir lumineux bien qu’innommé, de l’éclat des rimes et de leur jeu en fin de vers, de cet « or sans matière » qu’est la poésie. Une poésie essentiellement musique: « Toute cette musique », « notre vie ». Et musique au point d’imaginer être « sauvé de la mort par le son ».
+Dans L’heure présente et autres textes il écrit « presque dix-neuf sonnets », non plus rimés certes, mais hantés par l’or et la musique des nombres qui sont « enfants » et qui jouent « À être l’or dans l’eau où ils pataugent » : « ils s’éclaboussent de lumière » (TOMBEAU DE L.B. ALBERTI). Il y a là, dés le premier sonnet comme un souvenir lumineux bien qu’innommé, de l’éclat des rimes et de leur jeu en fin de vers, de cet « or sans matière » qu’est la poésie. Une poésie essentiellement musique : « Toute cette musique », « notre vie ». Et musique au point d’imaginer être « sauvé de la mort par le son ».
 
 Là est l’essentiel du sens: le son. Le son proféré par la bouche du poète, telle est son oraison (os-rationem), sa « raison » en bouche, « raison parlée », dit Joseph de Maistre.
 
-« Le son qu’elle a entendu, dit Bonnefoy, la poésie en fait l’offre, elle veut en faire le don. Et les poèmes ne devront pas avoir d’autre contenu, sous le discours des mots, leur fatalité, que ce son qu’il faut faire entendre. » (L’alliance de la poésie et de la musique).
+« Le son qu’elle a entendu, dit Bonnefoy, la poésie en fait l’offre, elle veut en faire le don. Et les poèmes ne devront pas avoir d’autre contenu, sous le discours des mots, leur fatalité, que ce son qu’il faut faire entendre. » (*L’alliance de la poésie et de la musique*)
 
-Ainsi  « l’offre essentielle » de Chant d’automne de Baudelaire, Bonnefoy n’en doute pas, est-elle ce bruit des bûches « sur le pavé des cours » que le poète écoute « en frémissant » et qu’il restitue, « métaphores dans tout le poème par de longues séquences de sons sourds »:
+Ainsi « l’offre essentielle » de « Chant d’automne » de Baudelaire, Bonnefoy n’en doute pas, est-elle ce bruit des bûches « sur le pavé des cours » que le poète écoute « en frémissant » et qu’il restitue, « métaphores dans tout le poème par de longues séquences de sons sourds » :
 
 <br/>
 
@@ -1036,13 +1036,13 @@ L’échafaud qu’on bâtit n’a pas d’écho plus sourd.<br/>
 Mon esprit est pareil à la tour qui succombe<br/>
 Sous les coups du bélier infatigable et lourd." %}
 
-Puisque les mots eux-mêmes, dans leur dissémination et leur « danse » pareille à la danse des flocons de neige (Début et fin de la neige) « ne cherchent plus les autres mots mais les / Avoisinent », puisque le sens comme « l’écriture » « se dissipe », plus sûrement alors le sens viendra du son…
+Puisque les mots eux-mêmes, dans leur dissémination et leur « danse » pareille à la danse des flocons de neige (« Début et fin de la neige ») « ne cherchent plus les autres mots mais les / Avoisinent », puisque le sens comme « l’écriture » « se dissipe », plus sûrement alors le sens viendra du son …
 
-Que cherchent ainsi les doigts du pianiste (LE PIANISTE), « martelant le néant » sur son clavier, si ce n’est « un son qui eût changé la vie »?
+Que cherchent ainsi les doigts du pianiste (LE PIANISTE), « martelant le néant » sur son clavier, si ce n’est « un son qui eût changé la vie » ?
 
-Quant au retour qui faisait aussi la raison de la rime, qu’en est-il désormais?
+Quant au retour qui faisait aussi la raison de la rime, qu’en est-il désormais ?
 
-Le retour n’est plus systématique il est vrai, surtout il n’est plus achevé. Pour autant le geste du retour est toujours bien là car « que faire sinon se retourner / Dans cette voie où rien n’est qui ne passe? ». Alors Ulysse passant devant Ithaque, ne fera plus que passer , il n’abordera plus à la rive d’autrefois (le poème pas davantage à la rive des rimes), dont on perçoit pourtant si clairement la nostalgie, 
+Le retour n’est plus systématique il est vrai, surtout il n’est plus achevé. Pour autant le geste du retour est toujours bien là car « que faire sinon se retourner / Dans cette voie où rien n’est qui ne passe ? ». Alors Ulysse passant devant Ithaque, ne fera plus que passer, il n’abordera plus à la rive d’autrefois (le poème pas davantage à la rive des rimes), dont on perçoit pourtant si clairement la nostalgie : 
 
 <br/>
 
@@ -1050,15 +1050,15 @@ Le retour n’est plus systématique il est vrai, surtout il n’est plus achev�
 
 <br/>
 
-La rime inabordée rive inabordable désormais par un Ulysse gagnant la « haute mer », mais rive qui continuera toujours de le hanter…
+La rime inabordée, rive inabordable désormais par un Ulysse gagnant la « haute mer », mais rive qui continuera toujours de le hanter …
 
-La rime, comme horizon inabordable, continue bien de nous arraisonner mentalement. Telle est encore sa raison…
+La rime, comme horizon inabordable, continue bien de nous arraisonner mentalement. Telle est encore sa raison …
 
 La rime est cette tentative, sans cesse reprise, d’arrimer l’homme à l’autre rive de lui-même. Image de sa propre transcendance.
 
 L’esprit subsiste de la rime tout simplement encore dans l’heure présente.
 
-Dans un poème ainsi nommé, Yves Bonnefoy nous enjoint à plusieurs reprises de regarder (« Regarde!… »), de regarder et d’écouter (« regardez, écoutez!…) Regarder quoi? Un éclair « qui envahit le ciel » et qui peut-être, l’espace d’un instant, s’est cru une « phrase, une signature » mais presque aussitôt « chancelle », s’efface, s’évanouit, comme une illusion… Dépossédée de soi ».
+Dans un poème ainsi nommé, Yves Bonnefoy nous enjoint à plusieurs reprises de regarder (« Regarde!… »), de regarder et d’écouter (« regardez, écoutez ! …) Regarder quoi ? Un éclair « qui envahit le ciel » et qui peut-être, l’espace d’un instant, s’est cru une « phrase, une signature » mais presque aussitôt « chancelle », s’efface, s’évanouit, comme une illusion … « Dépossédée de soi ».
 
 Reste que, l’espace de cet instant fulgurant, il y eut correspondance (ou rime) entre la nuit revenue de « là-bas » et celle d’ « ici », 
 
@@ -1074,11 +1074,11 @@ L’heure présente." 'Yves Bonnefoy' %}
 
 <br/>
 
-À n’en pas douter, subsiste encore au fond du coeur de tout poète un désir non éteint de faire rimer « absence » et « présence » et d’entendre à nouveau ce voeu de jean de Sponde:
+À n’en pas douter, subsiste encore au fond du coeur de tout poète un désir non éteint de faire rimer « absence » et « présence » et d’entendre à nouveau ce voeu de Jean de Sponde:
 
 <br/>
 
 {% epigraph "Trempez au miel de la présence<br/>
-Les amertumes de l’absence." 'Jean de Sponde' %}
+Les amertumes de l’absence." %}
 
 <br/>                                                                                           
