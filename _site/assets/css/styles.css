@@ -739,39 +739,71 @@ header hr.header-divider{
         display: none;
     }
 
+/* ===== Layout spécifique : littérature ===== */
 
 .literature-header {
   position: relative;
-  margin: 0 0 1em 0;
+  margin-top: .5em;
+  margin-bottom: 1em;
+  min-height: 1.53em;
   padding: 0;
 }
 
 .literature-meta {
+  width: 100ch;
+  max-width: max(60ch, calc(92vw - 40rem));
   margin-left: 18%;
+  margin-right: 20rem;
 }
 
-.literature-meta h1 {
-  margin: 0;
-}
-
+.literature-author,
 .literature-book-title,
 .literature-publication-date {
-  margin-left: 0 !important;
-  font-family: inherit !important;
-  font-size: 1em;
-  line-height: 1.4;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: 'Geograph', sans-serif;
   font-weight: normal;
+  line-height: 1.53em;
+}
+
+.literature-author {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 2.5em;
 }
 
 .literature-book-title {
-  margin-top: 0.35rem;
+  margin-top: 0.2rem;
+  margin-bottom: 0;
+  font-size: 1.4em;
   font-style: italic;
 }
 
 .literature-publication-date {
-  margin-top: 0.15rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.2em;
 }
 
+@media (max-width: 900px) {
+  .literature-meta {
+    width: auto;
+    max-width: none;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .literature-author {
+    font-size: 2em;
+    line-height: 1.2em;
+  }
+
+  .literature-book-title,
+  .literature-publication-date {
+    font-size: 1.1em;
+    line-height: 1.4em;
+  }
+}
 
 }
 
