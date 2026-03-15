@@ -1028,6 +1028,11 @@ body.dark-mode .article-index tr:hover a {
   padding-top: 0 !important;
 }
 
+.literature-header {
+  margin-bottom: 0;
+}
+
+
 
 @media (max-width: 1100px) {
   .literature-book-title,
