@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Pourquoi la presse a-t-elle si « mauvaise presse » !"
+title:  "Pourquoi la presse a-t-elle si « mauvaise presse » ?"
 category: "Humeur"
 author: "Jean-Pierre Daumard"
 keywords: "presse, propagande, mensonge, opinion, manipulation, contrôle social, abrutissement" 
-image: "/assets/img/daumier2.jpg"
+image: "/assets/img/Bruegel.png"
 ---
 
 <br/>
@@ -35,7 +35,7 @@ ANÉANTISSEZ LA PRESSE !" 'Der Ziegelbrenner n° 15, 30 janvier 1919' %}
 <br/>
 
 
-{% epigraph ACTUELLEMENT, la liberté de la presse n’existe pas. Les journalistes sont des crapules, manipulateurs de l’opinion qui trompent le peuple de crainte de se retrouver sans « revenu garanti ». Ils ont peur d’avoir faim, de tomber dans la dèche; Être ou ne pas être sujet à cette peur est affaire de personnalité. Tout homme n’a pas la capacité de rester droit, honnête et ferme dans ses convictions face à l’éventualité de ne pas manger à sa faim. La presse doit être assumée par des hommes libres.
+{% epigraph "ACTUELLEMENT, la liberté de la presse n’existe pas. Les journalistes sont des crapules, manipulateurs de l’opinion qui trompent le peuple de crainte de se retrouver sans « revenu garanti ». Ils ont peur d’avoir faim, de tomber dans la dèche; Être ou ne pas être sujet à cette peur est affaire de personnalité. Tout homme n’a pas la capacité de rester droit, honnête et ferme dans ses convictions face à l’éventualité de ne pas manger à sa faim. La presse doit être assumée par des hommes libres.
 
 C’est pourquoi je réclame des mesures provisoire:
 
@@ -49,7 +49,7 @@ des nouvelles et des lectures de divertissement. Elles seront propriété de la 
 bénéfices en reviendront à la communauté. Leur administration aura l’obligation de faire  
 passer toutes les réclames; elle ne pourra refuser que celles propres à encourager le crime.
 
-Tant que le gouvernement n’aura pas établi cette séparation entre presse publicitaire et presse « d’opinion », il n’y aura pas de liberté de la presse, il n’y aura pas de journaliste libre. Tant que le gouvernement n’aura pas créé cette liberté de l’adresse, les travailleurs, les soldats et tous les hommes dont le bien-être est quotidiennement en butte aux infamies de la presse et des journalistes ont le droit et le devoir d’empêcher la presse de travailler « tranquillement ». Il faut extirper la peste. Supprimons les causes, les effets disparaîtront. Un journal ou une revue qui ne peut subsister sans revenus publicitaires n’a aucun droit à l’existence. 'Der Ziegelbrenner n° 15, 15 janvier 1919' %}
+Tant que le gouvernement n’aura pas établi cette séparation entre presse publicitaire et presse « d’opinion », il n’y aura pas de liberté de la presse, il n’y aura pas de journaliste libre. Tant que le gouvernement n’aura pas créé cette liberté de l’adresse, les travailleurs, les soldats et tous les hommes dont le bien-être est quotidiennement en butte aux infamies de la presse et des journalistes ont le droit et le devoir d’empêcher la presse de travailler « tranquillement ». Il faut extirper la peste. Supprimons les causes, les effets disparaîtront. Un journal ou une revue qui ne peut subsister sans revenus publicitaires n’a aucun droit à l’existence." 'Der Ziegelbrenner n° 15, 15 janvier 1919' %}
 
 <br/>
 
