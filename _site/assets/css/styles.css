@@ -739,6 +739,30 @@ header hr.header-divider{
         display: none;
     }
 
+
+.literature-book-title,
+.literature-publication-date {
+  width: 100ch;
+  max-width: max(60ch, calc(92vw - 40rem));
+  margin-left: 18%;
+  margin-right: 20rem;
+  font-family: 'Geograph', sans-serif;
+  font-weight: normal;
+}
+
+.literature-book-title {
+  margin-top: 0.35rem;
+  font-size: 1.2em;
+  line-height: 1.4em;
+  font-style: italic;
+}
+
+.literature-publication-date {
+  margin-top: 0.15rem;
+  font-size: 1em;
+  line-height: 1.4em;
+}
+
 }
 
 
