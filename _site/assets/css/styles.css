@@ -740,12 +740,25 @@ header hr.header-divider{
     }
 
 
-.literature-book-title,
-.literature-publication-date {
+.literature-header {
+  position: relative;
+  margin: 0 0 1em 0;
+  padding: 0;
+}
+
+.literature-meta {
   width: 100ch;
   max-width: max(60ch, calc(92vw - 40rem));
   margin-left: 18%;
   margin-right: 20rem;
+}
+
+.literature-meta h1 {
+  margin: 0;
+}
+
+.literature-book-title,
+.literature-publication-date {
   font-family: 'Geograph', sans-serif;
   font-weight: normal;
 }
@@ -762,6 +775,7 @@ header hr.header-divider{
   font-size: 1em;
   line-height: 1.4em;
 }
+
 
 }
 
