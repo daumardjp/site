@@ -4,7 +4,7 @@ title:  "Quand la presse a si « mauvaise presse » !"
 category: "Humeur"
 author: "Jean-Pierre Daumard"
 keywords: "presse, propagande, mensonge, opinion, manipulation, contrôle social, abrutissement" 
-image: "/assets/img/Daumier2.jpg"
+image: "/assets/img/daumier2.jpg"
 ---
 
 <br/>
