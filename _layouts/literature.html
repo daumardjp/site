@@ -3,23 +3,25 @@ layout: default
 ---
 
 <article class="post-article">
-  <header class="post-header">
+  <div class="post-header literature-header">
     {% if page.category %}
       <p class="post-category">{{ page.category }}</p>
     {% endif %}
 
-    {% if page.author %}
-      <h1>{{ page.author }}</h1>
-    {% endif %}
+    <div class="literature-meta">
+      {% if page.author %}
+        <h1>{{ page.author }}</h1>
+      {% endif %}
 
-    {% if page.book_title %}
-      <div class="literature-book-title">{{ page.book_title }}</div>
-    {% endif %}
+      {% if page.book_title %}
+        <div class="literature-book-title">{{ page.book_title }}</div>
+      {% endif %}
 
-    {% if page.publication_date %}
-      <div class="literature-publication-date">{{ page.publication_date }}</div>
-    {% endif %}
-  </header>
+      {% if page.publication_date %}
+        <div class="literature-publication-date">{{ page.publication_date }}</div>
+      {% endif %}
+    </div>
+  </div>
 
   <div class="post-content">
     <div class="post-body">
@@ -27,5 +29,5 @@ layout: default
     </div>
   </div>
 
-  <p><a href="#top">Haut de page</a></p>
+  <p class="post-footer"><a href="#top">Haut de page</a></p>
 </article>
