@@ -8,22 +8,20 @@ layout: default
       <p class="post-category">{{ page.category }}</p>
     {% endif %}
 
-    <div class="literature-meta">
-      {% if page.author %}
-        <h1 class="literature-author">{{ page.author }}</h1>
-      {% endif %}
-
-      {% if page.book_title %}
-        <p class="literature-book-title">{{ page.book_title }}</p>
-      {% endif %}
-
-      {% if page.publication_date %}
-        <p class="literature-publication-date">{{ page.publication_date }}</p>
-      {% endif %}
-    </div>
+    {% if page.author %}
+      <h1 class="literature-author">{{ page.author }}</h1>
+    {% endif %}
   </div>
 
   <div class="post-content">
+    {% if page.book_title %}
+      <p class="literature-book-title">{{ page.book_title }}</p>
+    {% endif %}
+
+    {% if page.publication_date %}
+      <p class="literature-publication-date">{{ page.publication_date }}</p>
+    {% endif %}
+
     <div class="post-body">
       {{ content }}
     </div>
