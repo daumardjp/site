@@ -1018,6 +1018,11 @@ body.dark-mode .article-index tr:hover a {
   line-height: 1.53em;
 }
 
+.literature-author {
+  margin-bottom: 0;
+}
+
+
 @media (max-width: 1100px) {
   .literature-book-title,
   .literature-publication-date {
