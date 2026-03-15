@@ -10,15 +10,15 @@ layout: default
 
     <div class="literature-meta">
       {% if page.author %}
-        <h1>{{ page.author }}</h1>
+        <h1 class="literature-author">{{ page.author }}</h1>
       {% endif %}
 
       {% if page.book_title %}
-        <div class="literature-book-title">{{ page.book_title }}</div>
+        <p class="literature-book-title">{{ page.book_title }}</p>
       {% endif %}
 
       {% if page.publication_date %}
-        <div class="literature-publication-date">{{ page.publication_date }}</div>
+        <p class="literature-publication-date">{{ page.publication_date }}</p>
       {% endif %}
     </div>
   </div>
