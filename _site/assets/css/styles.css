@@ -753,7 +753,10 @@ header hr.header-divider{
   margin-top: 0;
   margin-bottom: 0;
   font-family: 'Geograph', sans-serif;
-  font-size: 1.1em;
+  font-weight: normal;
+  font-size: 1.4em;
+  line-height: 1.53em;
+  margin: 0;
   line-height: 1.53em;
 }
 
