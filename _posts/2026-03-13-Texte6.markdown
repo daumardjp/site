@@ -127,4 +127,5 @@ De fait, si souvent la Presse nous dupe et nous entraîne à suivre le troupeau 
 
 <br/>
 
-![Bruegel](/assets/img/Bruegel.png)
+images:
+  - /assets/img/Daumier.png
