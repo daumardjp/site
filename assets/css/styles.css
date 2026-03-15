@@ -1005,6 +1005,33 @@ body.dark-mode .article-index tr:hover a {
   user-select:none;
 }
 
+/* =========================
+   LITERATURE
+========================= */
+
+.literature-book-title,
+.literature-publication-date {
+  margin: 0;
+  font-family: 'Geograph', sans-serif;
+  font-weight: normal;
+  font-size: 1.4em;
+  line-height: 1.53em;
+}
+
+@media (max-width: 1100px) {
+  .literature-book-title,
+  .literature-publication-date {
+    line-height: 1.42em;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .literature-book-title,
+  .literature-publication-date {
+    font-size: 1em;
+    line-height: 1.35em;
+  }
+}
 
 
 
