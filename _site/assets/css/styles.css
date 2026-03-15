@@ -743,9 +743,7 @@ header hr.header-divider{
 
 .literature-header {
   position: relative;
-  margin-top: .5em;
-  margin-bottom: 1em;
-  min-height: 1.53em;
+  margin: 0 0 1em 0;
   padding: 0;
 }
 
@@ -759,49 +757,54 @@ header hr.header-divider{
 .literature-author,
 .literature-book-title,
 .literature-publication-date {
-  margin-left: 0;
-  margin-right: 0;
+  margin: 0;
   font-family: 'Geograph', sans-serif;
   font-weight: normal;
   line-height: 1.53em;
 }
 
 .literature-author {
-  margin-top: 0;
-  margin-bottom: 0;
-  font-size: 2.5em;
+  font-size: 1.4em;
 }
 
 .literature-book-title {
   margin-top: 0.2rem;
-  margin-bottom: 0;
-  font-size: 1.4em;
+  font-size: 1.2em;
   font-style: italic;
 }
 
 .literature-publication-date {
-  margin-top: 0;
-  margin-bottom: 0;
-  font-size: 1.2em;
+  font-size: 1.1em;
+}
+
+@media (max-width: 1100px) {
+  .literature-meta {
+    width: 100ch;
+    max-width: calc(100% - 4rem);
+    margin-left: 0 !important;
+    margin-right: 12rem;
+  }
+
+  .literature-author,
+  .literature-book-title,
+  .literature-publication-date {
+    line-height: 1.42em;
+  }
 }
 
 @media (max-width: 900px) {
   .literature-meta {
-    width: auto;
-    max-width: none;
-    margin-left: 0;
-    margin-right: 0;
+    width: 100%;
+    max-width: 100%;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
   }
 
-  .literature-author {
-    font-size: 2em;
-    line-height: 1.2em;
-  }
-
+  .literature-author,
   .literature-book-title,
   .literature-publication-date {
-    font-size: 1.1em;
-    line-height: 1.4em;
+    font-size: 1em;
+    line-height: 1.35em;
   }
 }
 
