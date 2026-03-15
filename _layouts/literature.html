@@ -2,22 +2,28 @@
 layout: default
 ---
 
-{% if page.category %}
-{{ page.category }}
-{% endif %}
+<article class="post-article">
+  <header class="post-header">
+    {% if page.category %}
+      <p class="post-category">{{ page.category }}</p>
+    {% endif %}
 
-{% if page.author %}
-# {{ page.author }}
-{% endif %}
+    {% if page.author %}
+      <h1>{{ page.author }}</h1>
+    {% endif %}
 
-{% if page.book_title %}
-<div class="literature-book-title">{{ page.book_title }}</div>
-{% endif %}
+    {% if page.book_title %}
+      <div class="literature-book-title">{{ page.book_title }}</div>
+    {% endif %}
 
-{% if page.publication_date %}
-<div class="literature-publication-date">{{ page.publication_date }}</div>
-{% endif %}
+    {% if page.publication_date %}
+      <div class="literature-publication-date">{{ page.publication_date }}</div>
+    {% endif %}
+  </header>
 
-{{ content }}
+  <div class="post-content">
+    {{ content }}
+  </div>
 
-Haut de page
+  <p><a href="#top">Haut de page</a></p>
+</article>
